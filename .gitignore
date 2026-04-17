@@ -1,0 +1,17 @@
+# Obsidian workspace (not content)
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/workspaces.json
+
+# Obsidian trash
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Editors
+.vscode/
+.idea/
