@@ -15,3 +15,13 @@ Thumbs.db
 # Editors
 .vscode/
 .idea/
+
+# Quartz build artifacts
+node_modules/
+public/
+.quartz-cache/
+tsconfig.tsbuildinfo
+
+# Quartz dev
+prof/
+private/
