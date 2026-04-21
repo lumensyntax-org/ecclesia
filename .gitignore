@@ -25,3 +25,4 @@ tsconfig.tsbuildinfo
 # Quartz dev
 prof/
 private/
+.vercel

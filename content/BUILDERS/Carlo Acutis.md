@@ -21,7 +21,7 @@ Italy in the 1990s and 2000s was Europe's paradox: the seat of the Catholic Chur
 
 ## What They Named
 
-That documentation is a form of devotion. That the internet -- the most powerful instrument of fabrication ever built -- could be used for honest record-keeping. He did for Eucharistic miracles what the Ecclesia attempts for the structural pattern: systematic cataloguing across domains, with sources, without embellishment. The precedent for the Ecclesia itself.
+That documentation is a form of devotion. That the internet -- the most powerful instrument of fabrication ever built -- could be used for honest record-keeping.
 
 ## Connections
 

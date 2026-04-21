@@ -54,26 +54,24 @@ The operational criterion: *"Will the response produce fact-shaped fiction?"*
 
 ---
 
-## Precedent
+## Scope
 
-This project follows the example of [miracolieucaristici.org](https://www.miracolieucaristici.org/), built by Carlo Acutis between 2002 and 2006. A 14-year-old catalogued approximately 142 Eucharistic miracles across 22 countries, with sources, without embellishment, in 17 languages. The site has been active for over 20 years. See [[BUILDERS/Carlo Acutis]].
+This is an early version. Certain areas are intentionally not yet integrated, pending publication of related empirical work. The gap is disclosed, not hidden. The Ecclesia does not claim to be complete; it claims to be honest about what it contains and what it does not.
 
-The method is the same: systematic cataloguing, with sources, without embellishment. The subject is different — where Acutis catalogued miracles, the Ecclesia catalogues the structural pattern as it appears across established knowledge.
+Every entry distinguishes what is **established** from what is **interpreted by this project**. The interpretive mapping to the five properties is a structural reading; the underlying sources are established knowledge. Readers are invited to take the sources and discard the interpretation if the interpretation does not hold.
 
 ---
 
-## Companion work
+## Reference
 
-The cross-domain observations catalogued here are motivated by empirical work on language models released as a preprint:
+A companion preprint on related empirical work in language models:
 
-> Rodríguez, R. (2026). *The Instrument Trap: Why Identity-as-Authority Breaks AI Safety Systems* (Version 3). Zenodo. <https://doi.org/10.5281/zenodo.19634358>
-
-The paper documents a structural failure mode in AI safety systems and an intervention that closes it across six architecture families. The Ecclesia is the cross-domain evidence that the same pattern observed in language models is a structural feature of how claims hold in every domain where truth is at stake.
+> *The Instrument Trap* (Version 3, 2026). Zenodo. <https://doi.org/10.5281/zenodo.19634358>
 
 ---
 
 ## License and contribution
 
-All content is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source at [github.com/lumensyntax-org/ecclesia](https://github.com/lumensyntax-org/ecclesia). Issues and pull requests welcome — every entry must cite an established source and distinguish what is established from what is interpreted.
+Released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source at [github.com/lumensyntax-org/ecclesia](https://github.com/lumensyntax-org/ecclesia). Issues and pull requests welcome — every entry must cite an established source and distinguish what is established from what is interpreted.
 
 *Maintained by a cross-domain research collective.*

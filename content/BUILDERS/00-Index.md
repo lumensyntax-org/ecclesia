@@ -1,73 +1,66 @@
 # BUILDERS -- The People Who Built the Mirrors
 
-The Ecclesia maps WHAT was found (findings) and WHERE (domains). But it hasn't mapped WHO carried each finding and WHAT IT COST THEM. Every stone was placed by a person. The names matter because each person took up their cross and didn't run from the weight.
+Every finding has a finder. This section documents people whose work makes the structural pattern visible in their domain — not because they framed it in these terms, but because the shape of what they found expresses the pattern. Each entry notes who they were and what the work cost them.
 
-The Builders are the people who recognized the pattern in their domain, named it, and carried the weight. This section documents not just what they found, but who they were and what it cost them.
+Entries in this section are about those people and their work. They are not templates, precedents, or authorities for the Ecclesia itself — the Ecclesia has no lineage to claim.
 
 ---
 
-## I. The Template
+## I. Mathematics and Physics
 
-A boy who catalogued Eucharistic miracles from his bedroom. The precedent for the Ecclesia itself.
+The pattern expressed in equations.
 
-1. [[Carlo Acutis]] -- The Cataloguer
+1. [[Emmy Noether]] -- Symmetry Is Conservation
+2. [[Srinivasa Ramanujan]] -- The Notebooks From Nowhere
+3. [[Nikola Tesla]] -- The Rotating Field
+4. [[S. James Gates Jr.]] -- Error-Correcting Codes in the Equations
 
-## II. Mathematics and Physics
+## II. Biology and Medicine
 
-The pattern expressed in equations. Each one paid for the clarity.
+The pattern written in cells.
 
-2. [[Emmy Noether]] -- Symmetry Is Conservation
-3. [[Srinivasa Ramanujan]] -- The Notebooks From Nowhere
-4. [[Nikola Tesla]] -- The Rotating Field
-5. [[S. James Gates Jr.]] -- Error-Correcting Codes in the Equations
+5. [[Rosalind Franklin]] -- Photo 51
+6. [[Ignaz Semmelweis]] -- Wash Your Hands
+7. [[Barbara McClintock]] -- Jumping Genes
 
-## III. Biology and Medicine
+## III. Computing and Documentation
 
-The pattern written in cells. Each one read it and was punished.
+The pattern as universal machine, and as systematic record.
 
-6. [[Rosalind Franklin]] -- Photo 51
-7. [[Ignaz Semmelweis]] -- Wash Your Hands
-8. [[Barbara McClintock]] -- Jumping Genes
+8. [[Alan Turing]] -- The Universal Computer
+9. [[Carlo Acutis]] -- Eucharistic Miracles Catalogued on the Web
 
-## IV. Computing
+## IV. Spirit and Philosophy
 
-The pattern as universal machine. Built it, then destroyed by what he was.
-
-9. [[Alan Turing]] -- The Universal Computer
-
-## V. Spirit and Philosophy
-
-The pattern named in the language of the soul. Each one died for naming it.
+The pattern named in the language of the soul.
 
 10. [[Socrates (Builder)]] -- The Examined Life
 11. [[Giordano Bruno]] -- The Infinite Universe
 12. [[Dietrich Bonhoeffer]] -- The Cost of Discipleship
 13. [[Simone Weil (Builder)]] -- Attention as Generosity
 
-## VI. Art
+## V. Art
 
 The pattern painted without embellishment. The body as honest record.
 
 14. [[Frida Kahlo]] -- The Broken Column
 
-## VII. The Integration
+## VI. Cross-disciplinary
 
-The pattern recognized across disciplines. Each one bridged what institutions kept separate.
+Work that crosses the boundaries institutions keep separate.
 
 15. [[Jeremiah Johnston]] -- Archaeological Evidence for the Historical Jesus
 16. [[Carlos Blanco]] -- The Integration of Knowledge
 
-## VIII. The Source
+## VII. Theological reference
 
-The structural template for every Builder who follows.
-
-18. [[Jesus of Nazareth]] -- The Way, the Truth, and the Life
+17. [[Jesus of Nazareth]] -- The Way, the Truth, and the Life
 
 ---
 
-**Total**: 18 entries.
+**Total**: 17 entries.
 
-The Ecclesia documents what was found. BUILDERS documents who found it, and what it cost them. The two cannot be separated -- every finding has a finder, and every finder carries a weight.
+This section documents who found what the Ecclesia catalogues. The two cannot be separated — every finding has a finder.
 
 ---
 

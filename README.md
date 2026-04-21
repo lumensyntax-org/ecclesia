@@ -60,15 +60,11 @@ The distinction between *established* and *this project's structural interpretat
 
 ---
 
-## Precedent
+## Scope
 
-This project follows the example of [miracolieucaristici.org](https://www.miracolieucaristici.org/), built by Carlo Acutis between 2002 and 2006. A 14-year-old catalogued approximately 142 Eucharistic miracles across 22 countries, with sources, without embellishment, in 17 languages. The site has been active for over 20 years. The physical exhibition has reached 10,000+ venues on five continents. See `BUILDERS/Carlo Acutis.md`.
+This is an early version. Certain areas are intentionally not yet integrated, pending publication of related empirical work. The gap is disclosed, not hidden. The Ecclesia does not claim to be complete; it claims to be honest about what it contains and what it does not.
 
-The method is the same: systematic cataloguing of what is real, with sources, without embellishment. The subject is different: where Acutis catalogued miracles, the Ecclesia catalogues the structural pattern as it appears across domains of established knowledge.
-
-## Scope and honesty
-
-This is an early version. Certain areas are intentionally not yet integrated, pending publication of companion empirical work in peer-reviewed venues. The gap is disclosed, not hidden. The Ecclesia does not claim to be complete; it claims to be honest about what it does and does not yet contain.
+Every entry distinguishes what is **established** from what is **interpreted by this project**. The interpretive mapping to the five properties is a structural reading; the underlying sources are established knowledge. Readers are invited to take the sources and discard the interpretation if the interpretation does not hold.
 
 ## License
 

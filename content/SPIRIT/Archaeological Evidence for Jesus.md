@@ -41,7 +41,7 @@ The James Ossuary's provenance is contested -- it surfaced through the antiquiti
 
 - [[Jeremiah Johnston]] -- Builder who compiled these finds (The Jesus Discoveries, 2026)
 - [[Logos in John 1-1]] -- the historical evidence for the person behind the theological claim
-- [[Carlo Acutis]] -- Acutis documented Eucharistic miracles; Johnston documents archaeological evidence. Same methodology: systematic cataloguing with sources
+- [[Carlo Acutis]] -- both worked through systematic documentation of evidence, in different domains (Eucharistic history vs. archaeology)
 - [[Periodic Table]] -- Mendeleev's empty cells predicted elements; the Gospel text "predicts" archaeological finds that are subsequently discovered
 - [[DNA Error Correction]] -- multiple independent lines of evidence corroborating the same event is the historical equivalent of error correction
 - [[Scientific Revolution]] -- empirical method applied to biblical claims
