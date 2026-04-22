@@ -3,5 +3,7 @@
   "buildCommand": "npx quartz build",
   "installCommand": "npm install",
   "outputDirectory": "public",
-  "framework": null
+  "framework": null,
+  "cleanUrls": true,
+  "trailingSlash": false
 }
