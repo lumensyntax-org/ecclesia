@@ -1,6 +1,6 @@
 # SPIRIT -- Religion, Theology, Philosophy, and the Emergence of Self-Consciousness
 
-MYSTERY_EXPLORATION throughout. Competing interpretations exist; factual analysis alone cannot resolve which is "correct." The open question must be preserved. 47 entries across theology, philosophy, sacred architecture, mystical traditions, and cross-cultural structural patterns.
+MYSTERY_EXPLORATION throughout. Competing interpretations exist; factual analysis alone cannot resolve which is "correct." The open question must be preserved. 48 entries across theology, philosophy, sacred architecture, mystical traditions, and cross-cultural structural patterns.
 
 
 ---
@@ -14,6 +14,7 @@ MYSTERY_EXPLORATION throughout. Competing interpretations exist; factual analysi
 5. [[Golden Rule]] -- Structural Invariant Across Traditions
 6. [[The Last Shall Be First]] -- The Lost Child and the Inversion
 7. [[The Divine Child]] -- Innocence as the Form of the Source
+8. [[Vision and Straying]] -- The Lost Sheep of the House
 
 ## II. Eastern and Comparative Traditions
 
