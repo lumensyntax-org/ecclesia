@@ -56,9 +56,11 @@ The operational criterion: *"Will the response produce fact-shaped fiction?"*
 
 ## Scope
 
-This is an early version. Certain areas are intentionally not yet integrated, pending publication of related empirical work. The gap is disclosed, not hidden. The Ecclesia does not claim to be complete; it claims to be honest about what it contains and what it does not.
+The Ecclesia catalogues findings from established external sources and maps each to the structural properties named above. Every entry distinguishes what is **established** from what is **interpreted by this project**. The interpretive mapping is a structural reading; the underlying sources are established knowledge. Readers are invited to take the sources and discard the interpretation if the interpretation does not hold.
 
-Every entry distinguishes what is **established** from what is **interpreted by this project**. The interpretive mapping to the five properties is a structural reading; the underlying sources are established knowledge. Readers are invited to take the sources and discard the interpretation if the interpretation does not hold.
+A companion empirical work on language models is referenced below. That work is not catalogued as Ecclesia entries — the Ecclesia is a record of pattern across established external sources, not a self-catalogue. This separation is structural, not provisional.
+
+The Ecclesia does not claim to be complete; it claims to be honest about what it contains and what it does not. Inclusion criteria and the contribution process are documented in [SCOPE.md](https://github.com/lumensyntax-org/ecclesia/blob/main/SCOPE.md).
 
 ---
 
