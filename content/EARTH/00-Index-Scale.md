@@ -95,6 +95,6 @@ Many entries appear at multiple timescales; the table below shows the dominant t
 
 This index does not replace `00-Index.md`. It is an alternate cross-section through the same 23 entries. Both views are useful. A reader looking for "what's at planetary scale" uses this; a reader looking for "what's about chemistry" uses the thematic.
 
-For the rest of CATHEDRAL, this method scales: pick a natural axis for each domain (spatial for EARTH/COSMOS/BODY, temporal for LIFE/CIVILIZATION, conceptual for SPIRIT/MIND/LAW), position existing entries, leave thematic indexes intact.
+For the rest of the Ecclesia, this method scales: pick a natural axis for each domain (spatial for EARTH/COSMOS/BODY, temporal for LIFE/CIVILIZATION, conceptual for SPIRIT/MIND/LAW), position existing entries, leave thematic indexes intact.
 
-Back to [[00-Ecclesia-Index]]
+Back to [[00-Index]]

@@ -7,7 +7,7 @@ related: [[00-Index]], [[00-Index-Scale]]
 
 # EARTH — Influence Index
 
-> Directional map of how EARTH connects to other CATHEDRAL branches.
+> Directional map of how EARTH connects to other Ecclesia branches.
 > Built from the 23 existing entries plus their natural cross-references.
 > Each row is a flow: source → target, with specific entries as the carriers.
 >
@@ -198,4 +198,4 @@ To apply this method to another domain (LIFE, BODY, CIVILIZATION, etc.):
 - Direction is not always cleanly directional — some "outgoing" arrows are part of bidirectional couplings imperfectly captured by single-direction notation.
 - The entry-to-arrow mapping is many-to-many; a single entry contributes to multiple arrows, sometimes in opposite directions.
 
-Back to [[00-Ecclesia-Index]]
+Back to [[00-Index]]
