@@ -30,7 +30,7 @@ On a high-dimensional sphere S^n, as n increases, the surface area concentrates 
 
 ## Status
 
-Established mathematics. See Ledoux, *The Concentration of Measure Phenomenon* (2001). The connection to neural network representations is this project's structural interpretation.
+Established mathematics. See Ledoux, *The Concentration of Measure Phenomenon* (2001). The connection to neural network representations and to the structural reading of an epistemic boundary is this project's interpretation, not part of the established mathematics.
 
 ---
 

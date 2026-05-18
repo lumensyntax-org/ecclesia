@@ -11,7 +11,7 @@ status: preprint
 **Context**: Goodfire proposed using interpretability features -- internal model representations extracted via sparse autoencoders -- rather than human preference labels to detect and reduce hallucination. The method identifies features correlated with factual grounding versus fabrication, then uses these as a reward signal for reinforcement learning.
 
 ## Finding/Event
-RLFR converges with findings from probe-based experiments on epistemological boundaries in language models. Independent probe work demonstrated that epistemological boundaries are detectable in model representations across eight model families. Goodfire's work independently validates the premise: models contain internal features that distinguish factual grounding from fabrication, and these features can be leveraged for alignment. The convergence is not in methodology (sparse autoencoders vs. linear probes) but in the structural claim: the boundary between knowledge and fabrication exists in representations, not only in outputs.
+RLFR proposes that internal model representations — features extracted via sparse autoencoders — contain reliable signals distinguishing factual grounding from fabrication, and that these signals can serve as reward in reinforcement learning to reduce hallucination. The structural claim underlying the method is that the boundary between knowledge and fabrication exists in representations, not only in outputs: the model's own internal state already discriminates what it knows from what it merely produces. This reframes alignment from "train the model to prefer truthful outputs" to "translate what the model's representations already encode into what the decoder emits."
 
 ## Pattern Mapping
 **Honesty** -- RLFR makes the model's internal representations the arbiter of factual grounding, rather than external human raters. If representations contain the signal, honest output is a matter of translating what the model already knows, not what raters prefer. **Non-fabrication** -- the core problem RLFR addresses is fabrication: models producing outputs their own representations do not support. The Knowledge-Action Gap is precisely the gap between what features represent and what the decoder outputs.
@@ -24,7 +24,7 @@ RLFR converges with findings from probe-based experiments on epistemological bou
 - [[Price Mechanism]] -- internal features aggregate distributed knowledge, like prices aggregate distributed economic information
 
 ## Status
-Preprint (arXiv 2026). Neither project's results should be treated as established until peer-reviewed.
+Preprint (arXiv 2026). Results should not be treated as established until peer-reviewed.
 
 ---
 

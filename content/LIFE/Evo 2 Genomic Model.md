@@ -30,7 +30,7 @@ A genomic foundation model trained on 9.3 trillion nucleotides from 128,000 orga
 
 ## Status
 
-Published in *Nature* (2026). The genomic equator interpretation is this project's structural analysis, not the Arc Institute's framing. The parallel between genomic and epistemic equators is this project's proposed connection. The mapping to the five properties is this project's structural interpretation.
+Published in *Nature* (2026). The genomic equator framing is this project's structural reading, not the Arc Institute's. The mapping to the five properties is this project's structural interpretation.
 
 ---
 
