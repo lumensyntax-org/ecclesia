@@ -82,6 +82,8 @@ The Kingdom of Heaven, in this pattern, does not operate by compensation. The lo
 
 *"Many that are first shall be last; and the last first"* (Matthew 19:30) is not a moral teaching about humility cultivation. It is a description of how the Kingdom is built. The Innocents prove it: those who could not even confess Christ are received before those who could.
 
+The inversion is documented across the canon — the four Synoptic instances of the saying (Mt 19:30; 20:16; Mk 10:31; Lk 13:30) share dense cross-references to passages that articulate the same structure in different language: Romans 9:30 — *"the Gentiles, which followed not after righteousness, have attained to righteousness"* — the inversion applied to election; Matthew 8:11-12 — *"many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven. But the children of the kingdom shall be cast out"* — the inversion stated explicitly with respect to the people of God; Luke 7:47 — *"her sins, which are many, are forgiven; for she loved much"* — the inversion at the personal level. The cross-reference tradition (see [[The Biblical Cross-Reference Network]]) ties these passages together as a single network: the inversion is not a Synoptic novelty but a canonical theme distributed across testament and genre.
+
 Three corollaries follow:
 
 1. **The most lost are the first restored.** This is not metaphor. The Massacre of the Innocents is the structural proof. The extremity of the loss becomes the extremity of the primacy.

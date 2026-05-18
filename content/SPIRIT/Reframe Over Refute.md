@@ -115,6 +115,12 @@ The pattern is consistent enough to suggest it is not specific to Jesus's pedago
 
 **Non-fabrication** — Refutation by argument can fabricate a contest where the contest is not real. The reframe refuses to fabricate the contest. The question "who sinned, this man or his parents" assumes a contest of guilt; Jesus refuses to participate in fabricating that contest. He simply heals.
 
+## Wisdom-tradition precedent
+
+The reframe is not a New Testament innovation. The Hebrew Wisdom tradition had already articulated the principle of discerning when not to engage on the asker's terms. Proverbs 26:5 — *"Answer a fool according to his folly, lest he be wise in his own conceit"* — paired with Proverbs 26:4 — *"Answer not a fool according to his folly, lest thou also be like unto him"* — names the structural problem directly. Some questions must be answered on different ground than they were asked, and some answers must refuse the framing entirely. The two verses, juxtaposed and apparently contradictory, are wisdom precisely because they encode the discernment that the response shape must match the question's actual structure, not its surface.
+
+The cross-reference network (see [[The Biblical Cross-Reference Network]]) shows Proverbs 26:5 referenced by multiple members of the reframe cluster, indicating that the textual tradition itself recognized this wisdom principle as background for Jesus's reframing responses. The Gospels do not introduce the practice; they enact at saving scale what the Wisdom literature had named at proverbial scale.
+
 ## The pedagogical principle
 
 The pattern teaches at least three structural principles about transformative engagement:
