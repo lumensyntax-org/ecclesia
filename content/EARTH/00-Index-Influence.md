@@ -2,7 +2,9 @@
 created: 2026-04-24
 type: influence-index
 status: cartography of cross-branch relations from existing entries; method test
-related: [[00-Index]], [[00-Index-Scale]]
+related:
+  - "00-Index"
+  - "00-Index-Scale"
 ---
 
 # EARTH — Influence Index

@@ -2,7 +2,9 @@
 created: 2026-04-24
 type: scale-index
 status: cartography of existing 23 entries; method test for cross-vault application
-related: [[00-Index]], [[00-Index-Influence]]
+related:
+  - "00-Index"
+  - "00-Index-Influence"
 ---
 
 # EARTH — Scale Index (micro → macro)
