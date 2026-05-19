@@ -1,6 +1,6 @@
 # SHADOW -- Violations, Pathology, and the Pattern Weaponized
 
-The pattern inverted. 25 entries examining what happens when the five properties are violated, weaponized, or fail. Includes manipulation, biological pathology, historical atrocities, and the structural definition of evil.
+The pattern inverted. 26 entries examining what happens when the five properties are violated, weaponized, or fail. Includes manipulation, biological pathology, historical atrocities, and the structural definition of evil.
 
 
 ---
@@ -47,6 +47,7 @@ The pattern inverted. 25 entries examining what happens when the five properties
 23. [[Addiction Revisited]] -- Alignment at the Wrong Level
 24. [[Disinformation Ecosystems]] -- Non-Fabrication Violated at Industrial Scale
 25. [[Structural Definition of Evil]] -- The Pattern Weaponized Against Itself
+26. [[The Modernization of Idolatry]] -- The Same Misshaped Relation Under New Vocabulary
 
 ---
 

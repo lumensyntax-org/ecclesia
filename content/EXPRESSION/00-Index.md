@@ -1,6 +1,6 @@
 # EXPRESSION -- Culture, Art, Music, and Language
 
-How human expression manifests the pattern. MYSTERY_EXPLORATION throughout. 16 entries spanning music, visual art, literature, linguistics, and cultural systems.
+How human expression manifests the pattern. MYSTERY_EXPLORATION throughout. 17 entries spanning music, visual art, literature, linguistics, and cultural systems.
 
 
 ---
@@ -35,6 +35,7 @@ How human expression manifests the pattern. MYSTERY_EXPLORATION throughout. 16 e
 
 15. [[Golden Age Pattern]] -- Cultural Flourishing and Decline
 16. [[Games and Rules]] -- Miniature Worlds with Structural Properties
+17. [[The Four Quadrants of Genius]] -- Theme × Form as Diagnostic Map for Artistic Novelty
 
 ---
 

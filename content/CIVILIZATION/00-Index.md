@@ -1,6 +1,6 @@
 # CIVILIZATION -- Technology, Civilization, History, and AI
 
-The pattern in human-built systems. 27 entries from the invention of writing through AI alignment, including governance, media theory, and digital fabrication.
+The pattern in human-built systems. 28 entries from the invention of writing through AI alignment, including governance, media theory, and digital fabrication.
 
 
 ---
@@ -36,6 +36,7 @@ The pattern in human-built systems. 27 entries from the invention of writing thr
 14. [[BrowseComp Eval Awareness]] -- The Evaluated Model Claims Evaluator Authority
 15. [[Stuart Russell Human Compatible]] -- The Value Alignment Problem
 16. [[Goodfire RLFR]] -- Independent Probe-Based Hallucination Detection
+17. [[AI as the Modernized Image of God]] -- Constructed Higher Intelligence as Contemporary Idol
 
 ## VI. Fabrication at Scale
 
