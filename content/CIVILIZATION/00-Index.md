@@ -1,6 +1,6 @@
 # CIVILIZATION -- Technology, Civilization, History, and AI
 
-The pattern in human-built systems. 24 entries from the invention of writing through AI alignment, including governance, media theory, and digital fabrication.
+The pattern in human-built systems. 27 entries from the invention of writing through AI alignment, including governance, media theory, and digital fabrication.
 
 
 ---
@@ -27,6 +27,7 @@ The pattern in human-built systems. 24 entries from the invention of writing thr
 
 10. [[Wikipedia]] -- Institutional Instantiation of All Five Properties
 11. [[Zuboff Surveillance Capitalism]] -- Behavioral Surplus Extraction
+12. [[The Flynn Reversal]] -- Individual Capacity Amplified, Social Capacity Collapsed
 
 ## V. AI and Alignment
 
