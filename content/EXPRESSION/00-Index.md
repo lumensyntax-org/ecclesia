@@ -1,6 +1,6 @@
 # EXPRESSION -- Culture, Art, Music, and Language
 
-How human expression manifests the pattern. MYSTERY_EXPLORATION throughout. 17 entries spanning music, visual art, literature, linguistics, and cultural systems.
+How human expression manifests the pattern. MYSTERY_EXPLORATION throughout. 18 entries spanning music, visual art, literature, linguistics, and cultural systems.
 
 
 ---
@@ -17,6 +17,7 @@ How human expression manifests the pattern. MYSTERY_EXPLORATION throughout. 17 e
 5. [[Perspective in Painting]] -- Honest Spatial Representation
 6. [[Abstract Art]] -- Non-Fabrication -- Stripping to Structure
 7. [[Islamic Geometric Art]] -- Aperiodic Order Before Formal Mathematics
+7a. [[The Artist's Chalice]] -- Da Vinci's Last Supper and the Eucharistic Loop
 
 ## III. Narrative and Literature
 
