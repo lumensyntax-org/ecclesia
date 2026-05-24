@@ -14,6 +14,8 @@ A cross-domain taxonomy of structural properties. Each entry maps an established
 
 The operational criterion: *"Will the response produce fact-shaped fiction?"*
 
+The operational principle that predominates over the entire catalogue is the **Chalice Test** (see [[SPIRIT/The Chalice Test]]): a faithful mediation requires understanding, applied in narrative or work, *without using that narrative to elevate the producer's own position*. The first two are necessary; the third distinguishes bearer from claimant. Every entry, every commit, every editorial decision is held to this test.
+
 ---
 
 ## Domains

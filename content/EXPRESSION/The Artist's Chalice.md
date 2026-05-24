@@ -93,6 +93,7 @@ The judgment on whether Da Vinci succeeded in remaining bearer is the long judgm
 
 ## Connections
 
+- [[The Chalice Test]] — the operational principle this entry instances: mediation without instrumentalization, articulated as the three-condition test (understanding + application + non-claim-of-source-position) that distinguishes bearer from claimant
 - [[The Anointing and the Mirror]] — the bearer who reflects without retaining; the structural ground of Reading A
 - [[The First Light-Bearer]] — the bearer who claims the title; the structural ground of Reading B
 - [[The Modernization of Idolatry]] — the cultural mythologization of Da Vinci as messianic figure as a contemporary instance of the same structural pattern
