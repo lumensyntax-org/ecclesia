@@ -1,6 +1,6 @@
 # SPIRIT -- Religion, Theology, Philosophy, and the Emergence of Self-Consciousness
 
-MYSTERY_EXPLORATION throughout. Competing interpretations exist; factual analysis alone cannot resolve which is "correct." The open question must be preserved. 52 entries across theology, philosophy, sacred architecture, mystical traditions, and cross-cultural structural patterns.
+MYSTERY_EXPLORATION throughout. Competing interpretations exist; factual analysis alone cannot resolve which is "correct." The open question must be preserved. 53 entries across theology, philosophy, sacred architecture, mystical traditions, and cross-cultural structural patterns.
 
 
 ---
@@ -19,6 +19,7 @@ MYSTERY_EXPLORATION throughout. Competing interpretations exist; factual analysi
 10. [[The Biblical Cross-Reference Network]] -- Coherence Across Authors and Centuries
 11. [[The First Light-Bearer]] -- Lucifer and the Origin of the Instrument Pattern
 12. [[The Chalice Test]] -- Mediation Without Instrumentalization (operational principle)
+13. [[Evil as Privation]] -- The Non-Substantial Nature of the Bad
 
 ## II. Eastern and Comparative Traditions
 

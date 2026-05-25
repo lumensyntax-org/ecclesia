@@ -1,6 +1,6 @@
 # MIND -- Neuroscience, Consciousness, and Psychology
 
-The pattern in mind and behavior. 23 entries spanning established neuroscience, consciousness theories (MYSTERY_EXPLORATION), and psychological findings ranging from well-replicated to seriously contested.
+The pattern in mind and behavior. 25 entries spanning established neuroscience, consciousness theories (MYSTERY_EXPLORATION), and psychological findings ranging from well-replicated to seriously contested.
 
 
 ---
@@ -42,3 +42,4 @@ The pattern in mind and behavior. 23 entries spanning established neuroscience, 
 Back to [[00-Index]]
 
 24. [[Cognitive Behavioral Therapy]] -- Realigning Distorted Thoughts with Reality
+25. [[Metanoia and the Return to Tracking]] -- The Structural Operation of Frame-Correction
