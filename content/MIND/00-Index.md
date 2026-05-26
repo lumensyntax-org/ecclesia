@@ -1,6 +1,6 @@
 # MIND -- Neuroscience, Consciousness, and Psychology
 
-The pattern in mind and behavior. 25 entries spanning established neuroscience, consciousness theories (MYSTERY_EXPLORATION), and psychological findings ranging from well-replicated to seriously contested.
+The pattern in mind and behavior. 27 entries spanning established neuroscience, consciousness theories (MYSTERY_EXPLORATION), psychological findings ranging from well-replicated to seriously contested, and the boundary where physical method meets its own structural limit.
 
 
 ---
@@ -43,3 +43,8 @@ Back to [[00-Index]]
 
 24. [[Cognitive Behavioral Therapy]] -- Realigning Distorted Thoughts with Reality
 25. [[Metanoia and the Return to Tracking]] -- The Structural Operation of Frame-Correction
+
+## IV. The Method at Its Own Boundary
+
+26. [[Heisenberg's Uncertainty Principle and the Measurement Problem]] -- What Physics Established and What Remains Interpretively Open
+27. [[The Recurring Hole at the Boundary of Method]] -- The Same Pattern at the Edge of Each Science
