@@ -1,6 +1,6 @@
 # SPIRIT -- Religion, Theology, Philosophy, and the Emergence of Self-Consciousness
 
-MYSTERY_EXPLORATION throughout. Competing interpretations exist; factual analysis alone cannot resolve which is "correct." The open question must be preserved. 53 entries across theology, philosophy, sacred architecture, mystical traditions, and cross-cultural structural patterns.
+MYSTERY_EXPLORATION throughout. Competing interpretations exist; factual analysis alone cannot resolve which is "correct." The open question must be preserved. 55 entries across theology, philosophy, sacred architecture, mystical traditions, cross-cultural structural patterns, and contemporary magisterial teaching.
 
 
 ---
@@ -20,6 +20,7 @@ MYSTERY_EXPLORATION throughout. Competing interpretations exist; factual analysi
 11. [[The First Light-Bearer]] -- Lucifer and the Origin of the Instrument Pattern
 12. [[The Chalice Test]] -- Mediation Without Instrumentalization (operational principle)
 13. [[Evil as Privation]] -- The Non-Substantial Nature of the Bad
+14. [[Nehemiah — The Wall Rebuilt in Sections]] -- Distributed Work Under Common Direction
 
 ## II. Eastern and Comparative Traditions
 
@@ -78,6 +79,10 @@ MYSTERY_EXPLORATION throughout. Competing interpretations exist; factual analysi
 43. [[Flood Narrative]] -- The Same Structural Story Across Disconnected Civilizations
 44. [[Sacrifice Across Traditions]] -- The Offering as Structural Relationship
 45. [[Axis Mundi]] -- The Vertical Connection Between Earth and Heaven
+
+## VIII. Contemporary Magisterial Teaching
+
+46. [[Magnifica Humanitas — Encyclical on Artificial Intelligence]] -- Leo XIV (2026) on Safeguarding the Human Person in the AI Era
 
 ---
 
