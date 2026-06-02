@@ -54,4 +54,4 @@ The pattern inverted. 29 entries examining what happens when the five properties
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]

@@ -45,4 +45,4 @@ The pattern in planetary systems. 23 entries spanning celestial mechanics, geolo
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]

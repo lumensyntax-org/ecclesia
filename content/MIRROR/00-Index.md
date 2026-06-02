@@ -37,7 +37,7 @@ MYSTERY_EXPLORATION throughout. These entries trace how the encounter with one's
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]
 
 ## VII. The Biological Mirror
 

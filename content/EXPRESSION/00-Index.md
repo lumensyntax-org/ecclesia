@@ -40,7 +40,7 @@ How human expression manifests the pattern. MYSTERY_EXPLORATION throughout. 18 e
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]
 
 ## VI. Shadow and Structure in Expression
 

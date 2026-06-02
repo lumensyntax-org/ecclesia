@@ -42,7 +42,7 @@ The pattern in life's origin, diversification, and interdependence. 23 entries f
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]
 
 24. [[Circadian Rhythms]] -- Biological Alignment with the 24-Hour Day
 25. [[Ecological Hierarchies]] -- Each Level with Its Own Dynamics

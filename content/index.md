@@ -22,27 +22,27 @@ The operational principle that predominates over the entire catalogue is the **C
 
 | Domain | Scope | Entries |
 |--------|-------|---------|
-| [[COSMOS/00-Index\|COSMOS]] | Physics, cosmology, mathematical physics | 28 |
-| [[EARTH/00-Index\|EARTH]] | Earth systems, climate, geology | 24 |
-| [[CHEMISTRY/00-Index\|CHEMISTRY]] | Chemistry and the physics–chemistry bridge | 21 |
-| [[LIFE/00-Index\|LIFE]] | Biology, evolution, ecology | 26 |
-| [[BODY/00-Index\|BODY]] | Anatomy, physiology, genetics | 19 |
-| [[MEDICINE/00-Index\|MEDICINE]] | Clinical knowledge, disease, healing | 17 |
+| [[COSMOS/00-Index\|COSMOS]] | Physics, cosmology, mathematical physics | 27 |
+| [[EARTH/00-Index\|EARTH]] | Earth systems, climate, geology | 23 |
+| [[CHEMISTRY/00-Index\|CHEMISTRY]] | Chemistry and the physics–chemistry bridge | 20 |
+| [[LIFE/00-Index\|LIFE]] | Biology, evolution, ecology | 25 |
+| [[BODY/00-Index\|BODY]] | Anatomy, physiology, genetics | 18 |
+| [[MEDICINE/00-Index\|MEDICINE]] | Clinical knowledge, disease, healing | 15 |
 | [[MIND/00-Index\|MIND]] | Neuroscience, consciousness, psychology | 28 |
-| [[SPIRIT/00-Index\|SPIRIT]] | Religion, theology, philosophy | 48 |
-| [[MIRROR/00-Index\|MIRROR]] | Self-recognition, emergence of self | 15 |
-| [[LOVE/00-Index\|LOVE]] | Relationships, family, the bond | 16 |
-| [[EXPRESSION/00-Index\|EXPRESSION]] | Culture, art, music, language | 19 |
-| [[CIVILIZATION/00-Index\|CIVILIZATION]] | Technology, history, AI systems | 27 |
-| [[LAW/00-Index\|LAW]] | Law, justice, constitutions, rights | 21 |
-| [[ECONOMY/00-Index\|ECONOMY]] | Economics, exchange, value | 25 |
-| [[CONSTRUCTION/00-Index\|CONSTRUCTION]] | Engineering, coding, computation | 23 |
-| [[COMMUNICATION/00-Index\|COMMUNICATION]] | Energy, light, signal | 18 |
-| [[FORMAL-LANGUAGE/00-Index\|FORMAL-LANGUAGE]] | Mathematics, logic, formal systems | 16 |
-| [[SHADOW/00-Index\|SHADOW]] | Violations, pathology, the pattern broken | 26 |
-| [[BUILDERS/00-Index\|BUILDERS]] | The people who carried the mirrors | 16 |
+| [[SPIRIT/00-Index\|SPIRIT]] | Religion, theology, philosophy | 57 |
+| [[MIRROR/00-Index\|MIRROR]] | Self-recognition, emergence of self | 14 |
+| [[LOVE/00-Index\|LOVE]] | Relationships, family, the bond | 15 |
+| [[EXPRESSION/00-Index\|EXPRESSION]] | Culture, art, music, language | 20 |
+| [[CIVILIZATION/00-Index\|CIVILIZATION]] | Technology, history, AI systems | 28 |
+| [[LAW/00-Index\|LAW]] | Law, justice, constitutions, rights | 20 |
+| [[ECONOMY/00-Index\|ECONOMY]] | Economics, exchange, value | 24 |
+| [[CONSTRUCTION/00-Index\|CONSTRUCTION]] | Engineering, coding, computation | 22 |
+| [[COMMUNICATION/00-Index\|COMMUNICATION]] | Energy, light, signal | 17 |
+| [[FORMAL-LANGUAGE/00-Index\|FORMAL-LANGUAGE]] | Mathematics, logic, formal systems | 15 |
+| [[SHADOW/00-Index\|SHADOW]] | Violations, pathology, the pattern broken | 29 |
+| [[BUILDERS/00-Index\|BUILDERS]] | The people who carried the mirrors | 17 |
 
-**Total**: 434 entries across 18 content domains + BUILDERS.
+**Total**: 434 entries across 19 domains.
 
 ---
 

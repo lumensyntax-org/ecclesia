@@ -48,7 +48,7 @@ The pattern in exchange, value, and institutional design. 20 entries from the in
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]
 
 ## VIII. Structural Bridges
 

@@ -152,9 +152,9 @@ Existing entries that are inherently cross-branch — useful pattern for future 
 | [[Le Chatelier's Principle]] | EARTH × CHEMISTRY (cross-listed) |
 | [[Habitable Zone]] | EARTH × COSMOS × LIFE (precondition for biology) |
 
-## Cross-domain phenomenon NOT yet entered (the rain study)
+## A cross-domain phenomenon not yet entered (illustration)
 
-The example you provided — soil fungi using horizontal gene transfer to influence atmospheric water cycle — would be a single entry living at:
+A phenomenon such as soil fungi using horizontal gene transfer to influence the atmospheric water cycle would be a single entry living at:
 
 ```
 LIFE × EARTH × BODY × COMMUNICATION
@@ -165,7 +165,7 @@ LIFE × EARTH × BODY × COMMUNICATION
 - BODY — HGT mechanism (we have [[Horizontal Gene Transfer]] in BODY)
 - COMMUNICATION — DNA as information transfer (we have [[DNA as Communication]] in COMMUNICATION)
 
-The entry itself is small. Its **influence-graph footprint** is large. This is the pattern Rafael named: the discovery is in the connections, not the entry.
+The entry itself is small; its **influence-graph footprint** is large. The cross-domain significance lives in the connections, not in the entry.
 
 A cross-domain entry of this kind should:
 - Live primarily in one branch (probably LIFE, given the agent of action is microbial)
@@ -179,7 +179,7 @@ A cross-domain entry of this kind should:
 2. **Surface coupling layer (C in scale index) carries most of the influence traffic** — Great Oxidation Event, Long-Term Carbon Cycle, Plate Tectonics, Ozone & Montreal are the entries that show up most in cross-references.
 3. **CIVILIZATION → EARTH is recent and strong** — most anthropogenic influence on Earth concentrates in the last 200 years; this is itself a structurally significant fact.
 4. **Implicit references** are nearly as numerous as explicit ones. Many entries in other branches refer to Earth phenomena without those phenomena being explicitly entered. The influence index makes the implicit visible.
-5. **Cross-domain phenomena exist already in the corpus** but were filed in single domains. The Rain Study would join them as a more recent, named example of the same cross-domain pattern.
+5. **Cross-domain phenomena exist already in the corpus** but were filed in single domains. A phenomenon like the soil-fungi / water-cycle illustration above would join them as another example of the same cross-domain pattern.
 
 ## Method for replication
 
@@ -200,4 +200,4 @@ To apply this method to another domain (LIFE, BODY, CIVILIZATION, etc.):
 - Direction is not always cleanly directional — some "outgoing" arrows are part of bidirectional couplings imperfectly captured by single-direction notation.
 - The entry-to-arrow mapping is many-to-many; a single entry contributes to multiple arrows, sometimes in opposite directions.
 
-Back to [[00-Index]]
+Back to [[index]]

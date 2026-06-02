@@ -34,4 +34,4 @@ Infinity, collapse, structure, and the language of the pattern. 15 entries. The 
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]

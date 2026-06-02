@@ -86,4 +86,4 @@ MYSTERY_EXPLORATION throughout. Competing interpretations exist; factual analysi
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]

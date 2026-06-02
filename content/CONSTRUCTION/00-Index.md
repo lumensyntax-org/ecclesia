@@ -39,7 +39,7 @@ The pattern in built systems. 20 entries from software bugs through game theory.
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]
 
 ## V. Verification and Continuous Alignment
 

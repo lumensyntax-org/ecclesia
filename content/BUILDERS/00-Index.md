@@ -64,4 +64,4 @@ This section documents who found what the Ecclesia catalogues. The two cannot be
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]

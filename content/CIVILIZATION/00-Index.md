@@ -54,7 +54,7 @@ The pattern in human-built systems. 28 entries from the invention of writing thr
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]
 
 ## VIII. Language and Accountability
 

@@ -36,4 +36,4 @@ How reality communicates with itself. 17 entries from Maxwell's equations throug
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]

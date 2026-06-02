@@ -42,4 +42,4 @@ The pattern made enforceable. 20 entries spanning constitutional structure, proc
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]

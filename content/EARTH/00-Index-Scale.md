@@ -99,4 +99,4 @@ This index does not replace `00-Index.md`. It is an alternate cross-section thro
 
 For the rest of the Ecclesia, this method scales: pick a natural axis for each domain (spatial for EARTH/COSMOS/BODY, temporal for LIFE/CIVILIZATION, conceptual for SPIRIT/MIND/LAW), position existing entries, leave thematic indexes intact.
 
-Back to [[00-Index]]
+Back to [[index]]

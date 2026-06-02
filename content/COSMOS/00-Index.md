@@ -56,4 +56,4 @@ The pattern at the foundation. 25 entries spanning established physics, mathemat
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]

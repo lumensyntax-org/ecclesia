@@ -37,4 +37,4 @@ MYSTERY_EXPLORATION throughout. These entries trace how the five structural prop
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]

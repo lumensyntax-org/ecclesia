@@ -45,4 +45,4 @@ How the five structural properties manifest in chemical bonds, reactions, equili
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]

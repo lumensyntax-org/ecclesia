@@ -37,4 +37,4 @@ The pattern in the practice of healing. 15 entries from the Hippocratic Oath thr
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]

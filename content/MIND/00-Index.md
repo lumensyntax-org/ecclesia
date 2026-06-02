@@ -39,7 +39,7 @@ The pattern in mind and behavior. 27 entries spanning established neuroscience, 
 
 ---
 
-Back to [[00-Index]]
+Back to [[index]]
 
 24. [[Cognitive Behavioral Therapy]] -- Realigning Distorted Thoughts with Reality
 25. [[Metanoia and the Return to Tracking]] -- The Structural Operation of Frame-Correction
