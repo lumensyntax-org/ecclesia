@@ -23,10 +23,10 @@ The adaptive immune system is a biological mirror: it functions by distinguishin
 
 ## Connections
 
-- [[Gallup Mirror Self-Recognition]] -- MSR is cognitive self/non-self; the immune system is molecular self/non-self (-> [[Meta-Pattern 02 - The Boundary Pre-Exists]])
+- [[Gallup Mirror Self-Recognition]] -- MSR is cognitive self/non-self; the immune system is molecular self/non-self
 - [[Narcissus]] -- Narcissus treats reflection as other; autoimmunity treats self as other -- mirror failures in opposite directions
 - [[Immune System and Clonal Selection]] -- the LIFE entry covers the mechanism; this MIRROR entry covers the structural meaning
-- [[DNA Error Correction]] -- both are biological error correction; immune system corrects identity errors, DNA corrects sequence errors (-> [[Meta-Pattern 01 - Error Correction]])
+- [[DNA Error Correction]] -- both are biological error correction; immune system corrects identity errors, DNA corrects sequence errors
 - [[Lacan Mirror Stage]] -- Lacan's meconnaissance (misrecognition) parallels autoimmunity: the system sees itself incorrectly
 - [[Lipid Bilayer]] -- the first physical self/non-self boundary; the immune system is its adaptive descendant
 

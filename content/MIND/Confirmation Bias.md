@@ -24,7 +24,7 @@ Wason's 2-4-6 task demonstrated that subjects seek confirming rather than discon
 
 ## Connections
 
-- [[System 1 and System 2]] -- confirmation bias is a System 1 strategy (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[System 1 and System 2]] -- confirmation bias is a System 1 strategy
 - [[Dunning-Kruger Effect]] -- both involve the inability to evaluate one's own cognitive process
 - [[Left-Right Asymmetry]] -- L-R asymmetry traces honestly to its initial signal; confirmation bias dishonestly preserves its initial hypothesis
 - [[Kidney and Nephron Filtration]] -- the kidney sorts by actual molecular properties; confirmation bias sorts by hypothesis compatibility -- honest vs dishonest filtering

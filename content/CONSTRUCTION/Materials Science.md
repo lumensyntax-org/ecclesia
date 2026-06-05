@@ -26,7 +26,7 @@ Every material has intrinsic properties that define what engineering can ask of 
 ## Connections
 
 - [[Safety Factors in Structural Engineering]] -- safety factors exist because materials have limits
-- [[The Visible Window]] -- both are boundaries enforced by physical reality, not choice (-> [[Meta-Pattern 02]])
+- [[The Visible Window]] -- both are boundaries enforced by physical reality, not choice
 - [[Antibiotic Resistance]] -- both are Knowledge-Action Gaps: known limits overridden
 - [[Arendt Banality of Evil]] -- Challenger managers and Eichmann: institutional override of individual knowledge
 - [[Blackbody Radiation and Planck's Quantum]] -- nature refusing to exceed structural limits

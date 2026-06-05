@@ -24,7 +24,7 @@ Addiction is compulsive use despite adverse consequences. The mesolimbic dopamin
 ## Connections
 
 - [[Addiction Revisited]] -- the structural paradox explored further: alignment at the wrong level
-- [[Feedback Control]] -- addiction is a hijacked feedback loop (-> [[Meta-Pattern 09]])
+- [[Feedback Control]] -- addiction is a hijacked feedback loop
 - [[Chemical Signaling]] -- addiction overwhelms proportional chemical signaling
 - [[Cancer]] -- both are instruments (cells, reward system) claiming authority of the whole organism
 - [[Far-From-Equilibrium]] -- addiction pushes the reward system out of its proportional range

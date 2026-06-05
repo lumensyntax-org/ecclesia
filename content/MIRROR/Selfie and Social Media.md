@@ -26,7 +26,7 @@ The selfie became mass practice with front-facing smartphone cameras (iPhone 4, 
 
 ## Connections
 
-- [[Narcissus]] -- the selfie is Narcissus with a phone; the pool is now a screen (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Narcissus]] -- the selfie is Narcissus with a phone; the pool is now a screen
 - [[Material History of Mirrors]] -- the selfie is the latest step in mirror technology evolution: from obsidian to front-facing camera
 - [[Cooley Looking-Glass Self]] -- social media IS Cooley's model at industrial scale
 - [[Stanford Prison Experiment]] -- both are cases of curated presentation mistaken for reality

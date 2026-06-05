@@ -24,7 +24,7 @@ Cantor conjectured that no set has cardinality strictly between aleph-0 and c --
 ## Connections
 
 - [[Cantor's Transfinite Numbers]] -- the Continuum Hypothesis is Cantor's conjecture about his own hierarchy
-- [[Halting Problem]] -- both establish undecidability: questions the system cannot answer (-> [[Meta-Pattern 06]])
+- [[Halting Problem]] -- both establish undecidability: questions the system cannot answer
 - [[Godel's Incompleteness Theorems]] -- Godel's consistency proof is a direct application of incompleteness
 - [[The Landscape Problem]] -- both involve questions a framework cannot resolve from within
 - [[String Theory]] -- both face the question: when is mathematical beauty evidence?

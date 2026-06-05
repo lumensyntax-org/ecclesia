@@ -26,7 +26,7 @@ Apoptosis (programmed cell death) is essential to development. Interdigital tiss
 
 ## Connections
 
-- [[Telomeres and Cellular Aging]] -- both enforce structural limits: apoptosis removes non-functional cells, telomeres limit division (-> [[Meta-Pattern 15 - Death as Function]])
+- [[Telomeres and Cellular Aging]] -- both enforce structural limits: apoptosis removes non-functional cells, telomeres limit division
 - [[Menstrual Cycle]] -- both shed structure that has no current function
 - [[Gastrulation]] -- gastrulation builds the initial architecture; apoptosis refines it
 - [[Milgram Obedience]] -- Milgram shows humans failing to exercise the "apoptosis" of refusing illegitimate authority

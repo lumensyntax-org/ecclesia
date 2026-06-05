@@ -24,7 +24,7 @@ Zero emerged independently in at least three civilizations. Mesopotamia used it 
 
 ## Connections
 
-- [[Writing Systems]] -- independent invention from structural need (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Writing Systems]] -- independent invention from structural need
 - [[Pentatonic Scale]] -- convergent discovery across unconnected cultures
 - [[The Golden Rule]] -- structural invariance independently discovered
 - [[Wittgenstein]] -- silence as honest response to what cannot be said; zero as honest response to what is not there

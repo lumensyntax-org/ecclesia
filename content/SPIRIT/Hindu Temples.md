@@ -21,7 +21,7 @@ Alignment: the temple is aligned to cardinal directions and astronomical events 
 ## Connections
 
 - [[Egyptian Pyramids]] -- proportion at architectural scale across civilizations
-- [[Gothic Cathedrals]] -- sacred architecture creating conditions for encounter (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Gothic Cathedrals]] -- sacred architecture creating conditions for encounter
 - [[Buddhist Stupas and Mandalas]] -- shared Mount Meru cosmology; different architectural expression
 - [[Fractal Geometry]] -- self-similarity across scales (Trivedi 1989; Rian et al. 2018)
 - [[Mesoamerican Pyramids]] -- astronomical alignment in independent architectural traditions

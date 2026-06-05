@@ -24,10 +24,10 @@ Four known forces: gravity (general relativity, 1915; graviton undetected), elec
 ## Connections
 
 - [[Maxwell's Unification]] -- the first great unification: electricity + magnetism + light
-- [[E=mc squared]] -- identity beneath apparent difference (-> [[Meta-Pattern 12]])
+- [[E=mc squared]] -- identity beneath apparent difference
 - [[Langlands Program]] -- mathematical unification parallels physical unification
 - [[String Theory]] -- proposes ultimate unification; zero experimental confirmation
-- [[Phase Transitions]] -- symmetry breaking separates forces; phase transitions reorganize structure (-> [[Meta-Pattern 08]])
+- [[Phase Transitions]] -- symmetry breaking separates forces; phase transitions reorganize structure
 
 ## Status
 

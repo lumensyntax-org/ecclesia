@@ -22,7 +22,7 @@ This is the Instrument Trap diagnosed at civilizational scale. The institutions 
 
 - [[Tawhid]] -- shirk as the same diagnosis: created things claiming divine authority
 - [[Buber — I-Thou vs I-It]] -- I-It as the mode that killed God by reducing the sacred to use
-- [[Tower of Babel]] -- technology claiming divine reach (-> [[Meta-Pattern 04: The Instrument Trap]])
+- [[Tower of Babel]] -- technology claiming divine reach
 - [[Golden Age Pattern]] -- decline when institutions serve power, not stated purpose
 - [[Shakespeare's Tragedies]] -- civilizational tragedy as structural violation writ large
 

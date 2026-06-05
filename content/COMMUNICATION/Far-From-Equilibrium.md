@@ -23,9 +23,9 @@ At thermodynamic equilibrium, entropy is maximized, gradients have dissipated, a
 
 ## Connections
 
-- [[Phase Transitions]] -- dissipative structures exist at phase-transition boundaries (-> [[Meta-Pattern 13]])
+- [[Phase Transitions]] -- dissipative structures exist at phase-transition boundaries
 - [[DNA as Communication]] -- life is the longest-running dissipative structure
-- [[Feedback Control]] -- both maintain a target state against perturbation (-> [[Meta-Pattern 09]])
+- [[Feedback Control]] -- both maintain a target state against perturbation
 - [[Second Law of Thermodynamics]] -- Prigogine's structures are derived from the second law
 - [[Addiction]] -- addiction disrupts the proportional range of reward system equilibrium
 

@@ -21,7 +21,7 @@ Alignment: astronomical alignment achieved without written mathematics. The stru
 ## Connections
 
 - [[Mesoamerican Pyramids]] -- independent astronomical alignment in architecture
-- [[Egyptian Pyramids]] -- precision engineering encoding cosmic knowledge (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Egyptian Pyramids]] -- precision engineering encoding cosmic knowledge
 - [[Oral Tradition and Songlines]] -- knowledge preservation without writing
 - [[Writing Systems]] -- writing emerged later; stone came first
 - [[Cosmic Microwave Background]] -- the universe's own unedited record

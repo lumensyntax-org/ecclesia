@@ -26,7 +26,7 @@ The transatlantic slave trade forcibly transported an estimated 12.5 million Afr
 ## Connections
 
 - [[Colonialism]] -- slavery was a central mechanism of colonial extraction
-- [[Genocide]] -- both claim authority over human existence (-> [[Meta-Pattern 06]])
+- [[Genocide]] -- both claim authority over human existence
 - [[Systemic Racism]] -- slavery's institutional structures persisted through new forms
 - [[Network Effects and Lock-In]] -- at the extreme: authority over choice that eliminates choice
 - [[Arendt Banality of Evil]] -- institutional structures overriding individual moral judgment

@@ -22,7 +22,7 @@ Alignment: *tikkun* is the restoration of alignment between divine intention and
 
 - [[Kenosis]] -- *tzimtzum* parallels kenotic self-emptying (recognized in comparative theology)
 - [[Kabbalah]] -- Tikkun Olam is the practical dimension of Lurianic cosmology
-- [[Ozone and Montreal Protocol]] -- civilizational repair after damage; structural cycle completed (-> [[Meta-Pattern 01: Error Correction]])
+- [[Ozone and Montreal Protocol]] -- civilizational repair after damage; structural cycle completed
 - [[Plate Tectonics]] -- creation and destruction in dynamic equilibrium
 - [[The Fall]] -- the fracture that requires repair
 

@@ -24,7 +24,7 @@ Wolff's Law states that bone remodels in response to mechanical loads. Osteoclas
 
 ## Connections
 
-- [[Neuroplasticity]] -- both restructure to match actual use; brain maps and bone maps follow the same logic (-> [[Meta-Pattern 04 - Proportion as Optimization]])
+- [[Neuroplasticity]] -- both restructure to match actual use; brain maps and bone maps follow the same logic
 - [[Telomeres and Cellular Aging]] -- both are honest records of history written in biological structure
 - [[Epigenetics]] -- epigenome records developmental history; trabecular architecture records mechanical history
 - [[Narcissus]] -- bone cannot misrecognize its own history; the structure is honest in a way the psyche is not

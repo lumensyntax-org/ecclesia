@@ -24,7 +24,7 @@ The therapist functions as a mirror: reflecting the client's experience back in 
 
 ## Connections
 
-- [[Winnicott Mother as First Mirror]] -- therapy replicates the maternal mirror function: providing the accurate reflection the original environment may have failed to give (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Winnicott Mother as First Mirror]] -- therapy replicates the maternal mirror function: providing the accurate reflection the original environment may have failed to give
 - [[Cooley Looking-Glass Self]] -- the therapist becomes a controlled social mirror: the looking-glass self under therapeutic conditions
 - [[Confessional Traditions]] -- both provide a witness to self-examination; confession is structured by ritual, therapy by technique
 - [[Predictive Coding and Free Energy Principle]] -- therapy updates the client's predictive model by confronting prediction errors (transference patterns)

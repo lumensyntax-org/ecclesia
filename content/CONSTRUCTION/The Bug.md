@@ -23,12 +23,12 @@ On September 9, 1947, operators of the Harvard Mark II found a moth trapped in R
 
 ## Connections
 
-- [[Testing]] -- tests are the systematic search for alignment gaps (-> [[Meta-Pattern 01]])
+- [[Testing]] -- tests are the systematic search for alignment gaps
 - [[Type Systems]] -- type systems catch alignment failures at compile time
 - [[Redundancy in Aviation]] -- aviation checklists verify alignment between intended and actual state
 - [[Cancer]] -- cancer is the biological bug: cell behavior diverges from organismic purpose
 - [[Autoimmune Disease]] -- immune classification error parallels software misclassification
-- [[Error-Correcting Codes]] -- structured redundancy to detect and correct errors (-> [[Meta-Pattern 01]])
+- [[Error-Correcting Codes]] -- structured redundancy to detect and correct errors
 
 ## Status
 

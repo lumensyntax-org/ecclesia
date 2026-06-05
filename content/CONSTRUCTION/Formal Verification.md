@@ -24,9 +24,9 @@ Formal verification uses proof assistants to prove that software satisfies its s
 ## Connections
 
 - [[Type Systems]] -- Curry-Howard correspondence makes types and propositions the same object
-- [[Testing]] -- testing can falsify but not verify; formal verification can prove (-> [[Meta-Pattern 02 - The Boundary Pre-Exists]])
+- [[Testing]] -- testing can falsify but not verify; formal verification can prove
 - [[Encryption and Hashing]] -- cryptographic proofs share the structure of irrefutable verification
-- [[DNA Error Correction]] -- molecular proofreading achieves biological verification at 10^-9 error rate (-> [[Meta-Pattern 01 - Error Correction]])
+- [[DNA Error Correction]] -- molecular proofreading achieves biological verification at 10^-9 error rate
 - [[Scientific Revolution]] -- "Nullius in verba" and formal verification both demand evidence over authority
 
 ## Status

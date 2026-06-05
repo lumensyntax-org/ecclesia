@@ -22,7 +22,7 @@ Marriage as a socially recognized union exists in every society in Murdock's sam
 - [[Gottman's Four Horsemen]] -- the Four Horsemen describe how the universal vow fails
 - [[Domestic Violence]] -- the Shadow of the marriage vow
 - [[Ten Commandments]] -- "Thou shalt not commit adultery" as structural protection of the vow (SPIRIT domain)
-- [[Invention of Writing]] -- vows and marriage contracts among the earliest uses of writing (CIVILIZATION domain) (-> [[Meta-Pattern 09: Honest Record-Keeping]])
+- [[Invention of Writing]] -- vows and marriage contracts among the earliest uses of writing (CIVILIZATION domain)
 - [[The Golden Rule]] -- marriage as the Golden Rule practiced daily (SPIRIT domain)
 
 ## Status

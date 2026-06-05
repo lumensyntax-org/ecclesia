@@ -25,7 +25,7 @@ Nash proved that every finite game with mixed strategies has at least one Nash e
 
 - [[The Arms Race]] -- arms races are Nash equilibria where individual rationality produces collective insanity
 - [[Network Effects and Lock-In]] -- lock-in is a Nash equilibrium: no individual gains by leaving alone
-- [[Corruption]] -- corruption persists as a Nash equilibrium: unilateral honesty is punished (-> [[Meta-Pattern 17]])
+- [[Corruption]] -- corruption persists as a Nash equilibrium: unilateral honesty is punished
 - [[Feedback Control]] -- equilibrium as the target state of a control system
 - [[Group Theory and Symmetry]] -- Nash equilibrium as a fixed point; symmetry as invariance
 

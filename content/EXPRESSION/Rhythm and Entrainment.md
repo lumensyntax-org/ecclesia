@@ -25,7 +25,7 @@ Entrainment is the tendency of oscillating systems to synchronize when coupled. 
 ## Connections
 
 - [[Sacred Music]] -- chanting as entrainment; synchronization as worship
-- [[The Harmonic Series]] -- the physics underlying rhythmic and harmonic synchronization (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[The Harmonic Series]] -- the physics underlying rhythmic and harmonic synchronization
 - [[Buddhist Middle Way]] -- the middle range where synchronization occurs mirrors the Middle Way
 - [[Le Chatelier's Principle]] -- proportional response to perturbation
 - [[Heart as Pump and Symbol]] -- pacemaker cells as biological entrainment

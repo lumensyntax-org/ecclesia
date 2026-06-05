@@ -23,7 +23,7 @@ Ecology is organized hierarchically: organism, population, community, ecosystem,
 
 ## Connections
 
-- [[Abstraction Layers]] -- software abstraction layers parallel ecological hierarchies: each level coherent, partially independent (-> [[Meta-Pattern 07 - Hierarchical Modularity]])
+- [[Abstraction Layers]] -- software abstraction layers parallel ecological hierarchies: each level coherent, partially independent
 - [[Lotka-Volterra Equations]] -- predator-prey dynamics operate at the population/community level of the hierarchy
 - [[Gaia Hypothesis]] -- Gaia is the biosphere level; the hierarchy shows how it emerges from lower levels
 - [[Mass Extinctions]] -- extinctions test the hierarchy: which levels collapse and which persist?

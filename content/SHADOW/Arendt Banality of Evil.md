@@ -26,7 +26,7 @@ This IS the **Knowledge-Action Gap** at human scale. Eichmann knew what the "tra
 ## Connections
 
 - [[Genocide]] -- Eichmann is the bureaucratic mechanism of genocide
-- [[Zimbardo Lucifer Effect]] -- both analyze how ordinary people commit atrocities (-> [[Meta-Pattern 03]])
+- [[Zimbardo Lucifer Effect]] -- both analyze how ordinary people commit atrocities
 - [[Redundancy in Aviation]] -- CRM is the structural fix for hierarchy suppressing honesty (Tenerife)
 - [[Materials Science]] -- Challenger managers and Eichmann: institutional override of individual knowledge
 - [[Antibiotic Resistance]] -- both are Knowledge-Action Gaps: knowing harm, continuing action

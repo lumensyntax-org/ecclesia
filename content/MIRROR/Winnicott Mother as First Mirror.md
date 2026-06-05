@@ -23,7 +23,7 @@ The infant's first mirror is the mother's face, not a physical mirror. "When I l
 ## Connections
 
 - [[Lacan Mirror Stage]] -- Winnicott's mother precedes Lacan's physical mirror; the proto-mirror shapes whether the Ideal-I is grounded or pathological
-- [[Cooley Looking-Glass Self]] -- Cooley's theory at the social level; Winnicott's at the developmental level (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Cooley Looking-Glass Self]] -- Cooley's theory at the social level; Winnicott's at the developmental level
 - [[Neuroplasticity]] -- the mother's mirroring physically shapes neural development through experience-dependent plasticity
 - [[Conway Memory and the Self]] -- the false self parallels edited memory: both are structures that maintain coherence at the cost of correspondence
 - [[Epigenetics]] -- both show that early environment has lasting effects: epigenetic marks record developmental history, the mother's face shapes the developing self

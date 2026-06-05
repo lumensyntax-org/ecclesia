@@ -21,7 +21,7 @@ Proportion: fasting is the practice of proportion -- taking exactly what the bod
 ## Connections
 
 - [[Pilgrimage Across Traditions]] -- another cross-traditional practice of voluntary limitation
-- [[Buddhist Middle Way]] -- the Middle Way was discovered after extreme fasting failed (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Buddhist Middle Way]] -- the Middle Way was discovered after extreme fasting failed
 - [[Kenosis]] -- fasting as bodily kenosis
 - [[Rites of Passage]] -- fasting often accompanies initiatory liminal states
 - [[Le Chatelier's Principle]] -- the body's proportional response to reduced input

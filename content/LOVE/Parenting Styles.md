@@ -23,7 +23,7 @@ Baumrind identified three parenting styles: authoritative (high warmth, high con
 - [[Mother-Infant Bond]] -- parenting styles are the continuation of the "good enough mother" function
 - [[Boundaries]] -- authoritative parenting models healthy boundaries
 - [[Domestic Violence]] -- authoritarian parenting at its extreme becomes abuse
-- [[Unconditional Love (Agape)]] -- authoritative parenting approximates agape: firm love that does not abandon (-> [[Meta-Pattern 04: Proportion as Universal Constraint]])
+- [[Unconditional Love (Agape)]] -- authoritative parenting approximates agape: firm love that does not abandon
 
 ## Status
 

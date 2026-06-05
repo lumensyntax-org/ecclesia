@@ -21,7 +21,7 @@ Humility: every pilgrimage tradition strips the pilgrim of accumulated identity.
 ## Connections
 
 - [[Fasting Across Traditions]] -- another cross-traditional practice of voluntary limitation
-- [[Campbell — The Monomyth]] -- pilgrimage as the hero's journey in miniature (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Campbell — The Monomyth]] -- pilgrimage as the hero's journey in miniature
 - [[Rites of Passage]] -- pilgrimage as extended liminal state
 - [[Indigenous Spiritual Traditions]] -- the land as teacher; walking as knowledge
 - [[The Golden Rule]] -- *ihram* as Golden Rule made material: all equal before the sacred

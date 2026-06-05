@@ -21,7 +21,7 @@ Alignment: in the most literal sense -- the structure is aligned to celestial ev
 ## Connections
 
 - [[Egyptian Pyramids]] -- independent pyramid construction encoding astronomical knowledge
-- [[Stonehenge and Megalithic Structures]] -- astronomical alignment in pre-literate cultures (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Stonehenge and Megalithic Structures]] -- astronomical alignment in pre-literate cultures
 - [[Hindu Temples]] -- sacred architecture as cosmic diagram
 - [[Writing Systems]] -- independent invention of knowledge-preservation technology
 - [[The Concept of Zero]] -- Maya independently developed zero for calendrical calculation

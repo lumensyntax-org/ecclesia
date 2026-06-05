@@ -24,7 +24,7 @@ CI/CD verifies alignment on every change rather than at release. Every commit tr
 ## Connections
 
 - [[Testing]] -- CI/CD automates test execution; testing provides the honesty checks CI runs
-- [[The Bug]] -- CI/CD minimizes the time a bug exists undetected (-> [[Meta-Pattern 09 - Feedback and Homeostasis]])
+- [[The Bug]] -- CI/CD minimizes the time a bug exists undetected
 - [[Version Control]] -- Git provides the infrastructure; CI/CD provides the verification layer
 - [[Homeostasis]] -- biological homeostasis is continuous alignment verification; CI/CD is its engineering equivalent
 - [[Feedback Control]] -- CI/CD is a feedback loop: commit -> test -> signal -> correction

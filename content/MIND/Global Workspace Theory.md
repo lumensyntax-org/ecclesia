@@ -25,7 +25,7 @@ Baars proposed consciousness arises from broadcasting information to a global wo
 - [[Integrated Information Theory]] -- competing theory; GWT emphasizes broadcast, IIT emphasizes integration
 - [[Higher-Order Theories of Consciousness]] -- HOT requires meta-representation; GWT requires broadcasting -- different mechanisms for the same transition
 - [[Gut-Brain Axis]] -- the gut-brain axis is a two-node broadcast system; GWT describes multi-node broadcast in the brain
-- [[Blood-Brain Barrier]] -- both define what gets through: BBB for molecules, workspace for information (-> [[Meta-Pattern 02 - The Boundary Pre-Exists]])
+- [[Blood-Brain Barrier]] -- both define what gets through: BBB for molecules, workspace for information
 - [[Hox Genes]] -- both show hierarchical modularity: Hox genes specify regions, the workspace coordinates modules
 
 ## Status

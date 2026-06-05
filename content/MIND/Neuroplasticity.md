@@ -24,7 +24,7 @@ Hebb (1949): neurons that fire together wire together. Merzenich (1984): cortica
 
 ## Connections
 
-- [[Bone Remodeling]] -- both restructure to match actual use: brain maps and bone maps follow identical logic (-> [[Meta-Pattern 04 - Proportion as Optimization]])
+- [[Bone Remodeling]] -- both restructure to match actual use: brain maps and bone maps follow identical logic
 - [[Epigenetics]] -- both are honest records of history: neural maps record behavioral history, epigenome records environmental history
 - [[Wound Healing]] -- both are biological systems that restructure in response to actual conditions
 - [[Winnicott Mother as First Mirror]] -- the mother's face shapes the infant's neural development; neuroplasticity is the mechanism

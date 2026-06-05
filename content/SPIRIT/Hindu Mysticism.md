@@ -21,7 +21,7 @@ Alignment: *nishkama karma* (desireless action) is alignment in its purest form 
 ## Connections
 
 - [[Advaita Vedanta]] -- the philosophical systematization of Upanishadic insight
-- [[Buddhist Middle Way]] -- alternative path from the same Indic soil (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Buddhist Middle Way]] -- alternative path from the same Indic soil
 - [[Kenosis]] -- self-emptying parallels ego-dissolution in Vedantic realization
 - [[Hindu Temples]] -- architectural expression of Vedantic cosmology
 - [[Noether's Theorem]] -- identity between symmetry and conservation parallels Atman-Brahman identity

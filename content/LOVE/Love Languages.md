@@ -19,7 +19,7 @@ Chapman proposed that people express and receive love through one of five "langu
 
 ## Connections
 
-- [[Shannon's Channel Capacity]] -- love languages as a channel-matching problem (COSMOS domain) (-> [[Meta-Pattern 01: Error Correction]])
+- [[Shannon's Channel Capacity]] -- love languages as a channel-matching problem (COSMOS domain)
 - [[Marriage Across Cultures]] -- the diversity of love expressions across cultures
 - [[Empathy]] -- knowing the other's love language requires empathic accuracy
 - [[Gottman's Four Horsemen]] -- the Horsemen are what happens when love languages are ignored or weaponized

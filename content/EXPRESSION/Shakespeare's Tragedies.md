@@ -23,7 +23,7 @@ Shakespeare's major tragedies can be read as case studies in the failure of spec
 
 ## Connections
 
-- [[Girard — Mimetic Desire and Scapegoat]] -- Othello's crowd dynamics; fabricated guilt (-> [[Meta-Pattern 04: The Instrument Trap]])
+- [[Girard — Mimetic Desire and Scapegoat]] -- Othello's crowd dynamics; fabricated guilt
 - [[The Fall]] -- Hamlet's K-A Gap recapitulates the Fall's separation of knowledge from action
 - [[Campbell — The Monomyth]] -- the tragic hero as monomyth where the return fails
 - [[Nietzsche — God Is Dead]] -- civilizational tragedy as structural violation writ large

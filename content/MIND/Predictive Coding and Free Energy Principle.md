@@ -24,7 +24,7 @@ Friston's free energy principle proposes that the brain minimizes variational fr
 
 ## Connections
 
-- [[Default Mode Network]] -- DMN generates narrative at rest; predictive coding explains why: the generative model runs continuously (-> [[Meta-Pattern 01 - Error Correction]])
+- [[Default Mode Network]] -- DMN generates narrative at rest; predictive coding explains why: the generative model runs continuously
 - [[Heart and Cardiac Valves]] -- both use pressure/prediction gradients to detect and correct misalignment
 - [[Kidney and Nephron Filtration]] -- tubuloglomerular feedback parallels prediction error: both detect deviation and correct
 - [[Narcissus]] -- Narcissus's perceptual error (reflection = other) is a failure of predictive coding: the model overrides the evidence

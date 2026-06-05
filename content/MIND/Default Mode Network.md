@@ -22,7 +22,7 @@ Raichle et al. identified brain regions more active during rest than during task
 
 ## Connections
 
-- [[Predictive Coding and Free Energy Principle]] -- the DMN is the predictive model running at rest (-> [[Meta-Pattern 01 - Error Correction]])
+- [[Predictive Coding and Free Energy Principle]] -- the DMN is the predictive model running at rest
 - [[Conway Memory and the Self]] -- both show that narrative construction is the default, not an aberration
 - [[Split-Brain and Left Hemisphere Interpreter]] -- the left hemisphere interpreter confabulates in split-brain; the DMN confabulates at rest -- same mechanism, different contexts
 - [[Menstrual Cycle]] -- the DMN generates structure even when no signal is received; the menstrual cycle sheds structure when no signal arrives -- opposite strategies for the same problem

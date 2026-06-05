@@ -24,7 +24,7 @@ Two books, each containing 24 preludes and fugues -- one in every major and mino
 ## Connections
 
 - [[The Harmonic Series]] -- the physical foundation Bach's art explores
-- [[Sacred Music]] -- Bach's fugues as the summit of sacred musical structure (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Sacred Music]] -- Bach's fugues as the summit of sacred musical structure
 - [[Islamic Geometric Art]] -- constraint as generative principle; prohibition yielding discovery
 - [[Simone Weil]] -- the composer serving structure as Weil's attention serves reality
 - [[Games and Rules]] -- rules constitute play; contrapuntal rules constitute the fugue

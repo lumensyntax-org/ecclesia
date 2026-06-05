@@ -26,7 +26,7 @@ Wound healing proceeds through four overlapping phases: hemostasis (seconds to h
 
 ## Connections
 
-- [[Apoptosis in Development]] -- both are phased biological processes where destruction serves construction (-> [[Meta-Pattern 15 - Death as Function]])
+- [[Apoptosis in Development]] -- both are phased biological processes where destruction serves construction
 - [[Telomeres and Cellular Aging]] -- both produce honest records: scars record injury, telomeres record division
 - [[Bone Remodeling]] -- remodeling phase parallels Wolff's Law: structure follows function
 - [[Rembrandt Self-Portraits]] -- both are honest records that do not erase history

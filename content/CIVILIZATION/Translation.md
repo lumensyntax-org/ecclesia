@@ -23,7 +23,7 @@ Translation is the attempt to align meaning across languages. The history spans 
 
 ## Connections
 
-- [[Invention of Writing]] -- writing made translation possible by externalizing language (-> [[Meta-Pattern 12 - Conservation and Invariance]])
+- [[Invention of Writing]] -- writing made translation possible by externalizing language
 - [[Sapir-Whorf Hypothesis]] -- if language shapes thought, translation is not just word-swapping but worldview-bridging
 - [[Universal Grammar]] -- if deep structure is shared, translation is possible because languages share a common substrate
 - [[Printing Press]] -- the press scaled translation's reach (Luther's Bible shaped German itself)

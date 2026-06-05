@@ -23,7 +23,7 @@ Between 1910 and 1920, several artists independently moved toward abstraction --
 
 ## Connections
 
-- [[Wittgenstein]] -- *Black Square* and proposition 7 as parallel limits of representation (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Wittgenstein]] -- *Black Square* and proposition 7 as parallel limits of representation
 - [[Christian Mysticism]] -- apophatic theology strips concepts as abstraction strips images
 - [[Islamic Mosques and Geometric Pattern]] -- aniconism as non-fabrication in sacred art
 - [[Kenosis]] -- stripping to essential structure; self-emptying of the medium

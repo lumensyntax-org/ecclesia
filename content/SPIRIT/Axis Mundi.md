@@ -21,7 +21,7 @@ Alignment: the axis mundi is alignment made visible. The vertical structure conn
 ## Connections
 
 - [[Gothic Cathedrals]] -- the cathedral as vertical axis connecting earth and heaven
-- [[Hindu Temples]] -- temple as Mount Meru; the axis made architectural (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Hindu Temples]] -- temple as Mount Meru; the axis made architectural
 - [[Egyptian Pyramids]] -- the pyramid as vertical axis with cosmic alignment
 - [[Mesoamerican Pyramids]] -- pyramids as independent axis mundi constructions
 - [[Campbell — The Monomyth]] -- the hero's descent and ascent along the axis

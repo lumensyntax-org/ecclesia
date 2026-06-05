@@ -24,7 +24,7 @@ A feedback control system measures the difference between a desired state and an
 ## Connections
 
 - [[Safety Factors in Structural Engineering]] -- both calibrate response proportionally
-- [[Le Chatelier's Principle]] -- chemical equilibrium feedback is the same structure (-> [[Meta-Pattern 09]])
+- [[Le Chatelier's Principle]] -- chemical equilibrium feedback is the same structure
 - [[Autoimmune Disease]] -- immune regulation is a feedback system; autoimmunity is when it malfunctions
 - [[Addiction]] -- addiction is a hijacked feedback loop: reward system oscillating between excess and deficit
 - [[The Arms Race]] -- arms races are positive feedback loops without proportional control

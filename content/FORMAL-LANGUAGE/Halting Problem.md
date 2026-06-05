@@ -23,7 +23,7 @@ Turing proved that no general algorithm can determine whether an arbitrary Turin
 
 ## Connections
 
-- [[Turing Completeness]] -- the Halting Problem is the structural limit of universal computation (-> [[Meta-Pattern 06]])
+- [[Turing Completeness]] -- the Halting Problem is the structural limit of universal computation
 - [[Godel's Incompleteness Theorems]] -- structurally equivalent proofs via self-reference
 - [[Continuum Hypothesis]] -- both establish undecidability within formal systems
 - [[The Landscape Problem]] -- both face questions a framework cannot answer about itself

@@ -24,7 +24,7 @@ Foucault identified practices through which individuals transform themselves: te
 
 ## Connections
 
-- [[Confessional Traditions]] -- Foucault analyzes confession as a specific technology of the self (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Confessional Traditions]] -- Foucault analyzes confession as a specific technology of the self
 - [[Buddhist Anatta]] -- both recognize the self is constructed; Foucault describes the construction, Buddhism sees through it
 - [[Higher-Order Theories of Consciousness]] -- Foucault's self-examination practices are technologies for generating higher-order representations
 - [[Epigenetics]] -- both show that context shapes the reading: the epigenome reads the genome differently in different cells; self-practices read the self differently in different traditions

@@ -21,7 +21,7 @@ Honesty: if truth is unconcealment, then honesty is the practice of letting what
 ## Connections
 
 - [[Simone Weil]] -- attention as letting reality appear vs. imposing structure
-- [[Perspective in Painting]] -- honest spatial representation vs. hierarchical imposition (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Perspective in Painting]] -- honest spatial representation vs. hierarchical imposition
 - [[Nietzsche — God Is Dead]] -- Heidegger's reading of Nietzsche as diagnosing *Gestell*
 - [[Buber — I-Thou vs I-It]] -- I-Thou as unconcealment; I-It as enframing the Other
 - [[Oral Tradition and Songlines]] -- knowledge emerging from encounter with landscape, not imposed

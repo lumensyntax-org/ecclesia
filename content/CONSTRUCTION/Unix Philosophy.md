@@ -27,7 +27,7 @@ The Unix philosophy: (1) Write programs that do one thing and do it well. (2) Wr
 - [[Feedback Control]] -- both embody proportion: response matched to purpose
 - [[Spectroscopy]] -- each atom does one thing (emits its spectrum); each Unix tool does one thing
 - [[Group Theory and Symmetry]] -- composability in Unix parallels group composition in algebra
-- [[Le Chatelier's Principle]] -- partial, bounded response to input (-> [[Meta-Pattern 09]])
+- [[Le Chatelier's Principle]] -- partial, bounded response to input
 
 ## Status
 

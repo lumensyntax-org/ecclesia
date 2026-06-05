@@ -27,7 +27,7 @@ String theory's equations admit an estimated 10^500 possible solutions (vacua), 
 - [[Dualities in String Theory]] -- dualities reduce the landscape but do not eliminate it
 - [[Kolmogorov Complexity]] -- a theory that cannot compress observations has no predictive content
 - [[Bayesian Inference]] -- the multiverse as a prior: how do you update when every outcome is compatible?
-- [[Halting Problem]] -- both involve questions a system cannot answer about itself (-> [[Meta-Pattern 06]])
+- [[Halting Problem]] -- both involve questions a system cannot answer about itself
 
 ## Status
 

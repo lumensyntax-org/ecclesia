@@ -20,7 +20,7 @@ Humility: *fana* is humility taken to its limit -- the self annihilated before t
 
 ## Connections
 
-- [[Christian Mysticism]] -- dark night parallels *fana*; both strip away to encounter (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Christian Mysticism]] -- dark night parallels *fana*; both strip away to encounter
 - [[Tawhid]] -- Sufism as the experiential dimension of Tawhid
 - [[Kenosis]] -- *fana* as Islamic kenosis
 - [[Kabbalah]] -- Ein Sof as unknowable parallels the Beloved beyond naming

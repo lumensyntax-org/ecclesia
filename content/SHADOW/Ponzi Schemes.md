@@ -28,7 +28,7 @@ Ponzi promised 50% returns in 45 days through postal reply coupon arbitrage. The
 - [[Confidence Trick]] -- Ponzi schemes are confidence tricks with financial infrastructure
 - [[Cryptography]] -- cryptographic verification prevents fabricated records; Ponzi requires their absence
 - [[Version Control]] -- immutable records prevent the kind of fabrication Ponzi relied on
-- [[Kolmogorov Complexity]] -- too-consistent returns have suspiciously low complexity (-> [[Meta-Pattern 16]])
+- [[Kolmogorov Complexity]] -- too-consistent returns have suspiciously low complexity
 - [[Disinformation Ecosystems]] -- both are fabrication at scale with self-reinforcing structures
 
 ## Status

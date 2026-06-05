@@ -29,7 +29,7 @@ Psychopathy as **honesty/empathy** absence -- the capacity to model others' expe
 
 - [[Addiction]] -- both involve neurobiological disruption of structural properties
 - [[Autoimmune Disease]] -- both are the body's systems malfunctioning, not moral failures
-- [[Feedback Control]] -- anxiety is a miscalibrated feedback loop: gain too high (-> [[Meta-Pattern 09]])
+- [[Feedback Control]] -- anxiety is a miscalibrated feedback loop: gain too high
 - [[Cancer]] -- structural analogy: systems violating their own design parameters
 - [[Arendt Banality of Evil]] -- Arendt's "inability to think" parallels certain personality disorder features, but the analogy must not conflate illness with evil
 

@@ -28,7 +28,7 @@ Mathematics, apparently a human invention, describes physical reality with aston
 - [[Language as Meta-Instrument]] -- both are meta-instruments; language for culture, mathematics for nature
 - [[Euler's Identity]] -- the most celebrated instance of mathematical convergence
 - [[Langlands Program]] -- mathematics discovering deep unity within itself
-- [[Godel's Incompleteness Theorems]] -- mathematics honest about its own limits (-> [[Meta-Pattern 06]])
+- [[Godel's Incompleteness Theorems]] -- mathematics honest about its own limits
 - [[Spectroscopy]] -- mathematics predicting spectral lines before observation: Bohr model
 
 ## Status

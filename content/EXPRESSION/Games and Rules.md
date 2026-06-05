@@ -26,7 +26,7 @@ Every known human culture develops games with rules. A game is a system of volun
 
 ## Connections
 
-- [[Ten Commandments]] -- rules constituting communal life, not merely constraining it (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Ten Commandments]] -- rules constituting communal life, not merely constraining it
 - [[Bach's Well-Tempered Clavier]] -- constraint as the medium for beauty and depth
 - [[Islamic Geometric Art]] -- constraint generating discovery
 - [[The Golden Rule]] -- the simplest rule for the game of coexistence

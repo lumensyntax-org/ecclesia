@@ -22,7 +22,7 @@ Confession is a structured self-examination: the penitent examines the gap betwe
 
 ## Connections
 
-- [[Foucault Technologies of the Self]] -- Foucault traces confession from Stoic self-examination to Christian self-renunciation (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Foucault Technologies of the Self]] -- Foucault traces confession from Stoic self-examination to Christian self-renunciation
 - [[Cognitive Dissonance]] -- dissonance is the felt version of what confession makes explicit: the gap between belief and action
 - [[Milgram Obedience]] -- Milgram's subjects felt the gap but could not name it; confession provides the ritual structure for naming
 - [[Wound Healing]] -- confession is psychological wound healing: naming the injury, allowing the process to proceed

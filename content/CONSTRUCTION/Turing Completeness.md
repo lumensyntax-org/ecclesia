@@ -23,7 +23,7 @@ Turing demonstrated that a simple abstract machine -- a tape, a head, a state ta
 
 ## Connections
 
-- [[Halting Problem]] -- the inherent limit of universal computation (-> [[Meta-Pattern 06]])
+- [[Halting Problem]] -- the inherent limit of universal computation
 - [[Godel's Incompleteness Theorems]] -- structurally equivalent: self-reference establishing limits
 - [[Big-O Notation]] -- complexity measures what Turing completeness guarantees is possible
 - [[Continuum Hypothesis]] -- both reveal undecidable questions within formal systems

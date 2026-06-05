@@ -23,7 +23,7 @@ Chalmers asks: why is there subjective experience? Physical descriptions of brai
 - [[Panpsychism]] -- one proposed answer to the hard problem: consciousness is fundamental
 - [[Illusionism]] -- the opposite answer: phenomenal consciousness is an illusion
 - [[Integrated Information Theory]] -- IIT attempts to dissolve the hard problem by making consciousness structural
-- [[Human Genome Project]] -- both are cases where the most honest scientific conclusion is "we do not fully understand" (-> [[Meta-Pattern 02 - The Boundary Pre-Exists]])
+- [[Human Genome Project]] -- both are cases where the most honest scientific conclusion is "we do not fully understand"
 - [[Telomeres and Cellular Aging]] -- telomeres mark the biological limit; the hard problem marks the explanatory limit
 
 ## Status

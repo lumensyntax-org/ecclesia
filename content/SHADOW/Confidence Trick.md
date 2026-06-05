@@ -26,7 +26,7 @@ The structural signature: every con is parasitic on the victim's functional hone
 ## Connections
 
 - [[Ponzi Schemes]] -- Ponzi schemes are confidence tricks with financial architecture
-- [[Gaslighting]] -- both build trust before exploitation (-> [[Meta-Pattern 06]])
+- [[Gaslighting]] -- both build trust before exploitation
 - [[Cryptography]] -- cryptographic verification prevents identity fabrication; the con requires its absence
 - [[Propaganda]] -- propaganda is a mass-scale confidence trick
 - [[Spectroscopy]] -- atoms cannot misrepresent identity; con artists exist because humans can

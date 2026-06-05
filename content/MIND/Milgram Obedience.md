@@ -24,7 +24,7 @@ status: peer_reviewed
 
 ## Connections
 
-- [[Asch Conformity]] -- both show social pressure overriding individual judgment; Milgram adds institutional authority (-> [[Meta-Pattern 03 - Knowledge-Action Gap]])
+- [[Asch Conformity]] -- both show social pressure overriding individual judgment; Milgram adds institutional authority
 - [[Stanford Prison Experiment]] -- Zimbardo attempted to show role-driven abuse; the criticism shows the study itself enacted the Instrument Trap
 - [[Apoptosis in Development]] -- apoptosis is the biological capacity to refuse non-functional structure; Milgram shows the human failure to refuse illegitimate authority
 - [[Gut-Brain Axis]] -- the gut-brain axis works because the hierarchy listens; Milgram's hierarchy did not listen

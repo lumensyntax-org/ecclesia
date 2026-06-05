@@ -21,7 +21,7 @@ Proportion: the structure embodies proportion at every scale -- ratio of base to
 ## Connections
 
 - [[Gothic Cathedrals]] -- sacred architecture designed to humble the human before something greater
-- [[Hindu Temples]] -- temple as microcosm; fractal self-similarity (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Hindu Temples]] -- temple as microcosm; fractal self-similarity
 - [[Mesoamerican Pyramids]] -- independent pyramid construction encoding astronomical alignment
 - [[Stonehenge and Megalithic Structures]] -- astronomical alignment before writing
 - [[Noether's Theorem]] -- proportion as mathematical identity across scales

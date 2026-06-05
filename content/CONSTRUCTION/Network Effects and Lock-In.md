@@ -24,7 +24,7 @@ Network effects occur when a product becomes more valuable as more people use it
 ## Connections
 
 - [[Nash Equilibrium]] -- lock-in is a Nash equilibrium: no individual gains by unilateral departure
-- [[Dark Patterns in UX]] -- dark patterns are the micro-tactics of lock-in (-> [[Meta-Pattern 06]])
+- [[Dark Patterns in UX]] -- dark patterns are the micro-tactics of lock-in
 - [[Slavery]] -- at the extreme: claimed authority over choice that structurally eliminates it
 - [[Colonialism]] -- extraction masked as service; lock-in masked as convenience
 - [[Propaganda]] -- both create structural dependence that the dependent cannot easily recognize

@@ -19,7 +19,7 @@ Forgiveness is the voluntary release of the right to retribution or resentment t
 
 ## Connections
 
-- [[Kenosis]] -- self-emptying as the theological parallel to forgiveness (SPIRIT domain) (-> [[Meta-Pattern 13: Sacrifice / Kenosis / Self-Emptying]])
+- [[Kenosis]] -- self-emptying as the theological parallel to forgiveness (SPIRIT domain)
 - [[Trust and Betrayal]] -- forgiveness is what becomes possible after betrayal, not a requirement
 - [[Unconditional Love (Agape)]] -- agape is the context in which forgiveness becomes structurally coherent
 - [[Grief and Loss]] -- grief and forgiveness share the structure of releasing what is real

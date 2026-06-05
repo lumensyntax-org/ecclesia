@@ -25,7 +25,7 @@ A group is a set equipped with an operation satisfying four axioms: closure, ass
 
 - [[Noether's Theorem]] -- Noether's theorem operates within group-theoretic framework
 - [[Euler's Identity]] -- Euler's formula underlies the unitary group U(1)
-- [[Four Fundamental Forces]] -- gauge groups (U(1), SU(2), SU(3)) structure the Standard Model (-> [[Meta-Pattern 12]])
+- [[Four Fundamental Forces]] -- gauge groups (U(1), SU(2), SU(3)) structure the Standard Model
 - [[Topology]] -- both study invariants: groups under symmetry, topology under deformation
 - [[Nash Equilibrium]] -- equilibrium as a fixed point; symmetry as invariance
 

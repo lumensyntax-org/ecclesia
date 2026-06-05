@@ -24,8 +24,8 @@ Each kidney contains approximately 1 million nephrons. Glomerular filtration pro
 
 ## Connections
 
-- [[Blood-Brain Barrier]] -- both are biological equators defining inside vs outside (-> [[Meta-Pattern 02 - The Boundary Pre-Exists]])
-- [[Menstrual Cycle]] -- both use hormonal feedback to maintain homeostasis (-> [[Meta-Pattern 09 - Feedback and Homeostasis]])
+- [[Blood-Brain Barrier]] -- both are biological equators defining inside vs outside
+- [[Menstrual Cycle]] -- both use hormonal feedback to maintain homeostasis
 - [[Gallup Mirror Self-Recognition]] -- MSR is a cognitive equator (self vs other); the nephron is a molecular equator (keep vs release)
 - [[Confirmation Bias]] -- the kidney honestly sorts by actual properties; confirmation bias sorts by preference, violating the same function
 - [[Liver Detoxification]] -- complementary scope: liver metabolizes, kidney filters

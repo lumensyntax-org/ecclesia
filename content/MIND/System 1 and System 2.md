@@ -25,7 +25,7 @@ Kahneman and Tversky documented systematic heuristics and biases. System 1 is fa
 ## Connections
 
 - [[Confirmation Bias]] -- confirmation bias is a System 1 strategy: seek confirming evidence, ignore disconfirming
-- [[Dunning-Kruger Effect]] -- D-K is System 1 applied to self-evaluation: confidence without competence (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Dunning-Kruger Effect]] -- D-K is System 1 applied to self-evaluation: confidence without competence
 - [[Conway Memory and the Self]] -- both show that the default cognitive mode prioritizes coherence over accuracy
 - [[Liver Detoxification]] -- System 2 is the cognitive liver: slow processing that catches what fast processing misses
 - [[Predictive Coding and Free Energy Principle]] -- predictive coding is the neural mechanism; System 1/2 is the behavioral description

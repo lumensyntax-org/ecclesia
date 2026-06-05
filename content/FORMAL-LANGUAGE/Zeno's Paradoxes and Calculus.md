@@ -23,7 +23,7 @@ Zeno proposed paradoxes of motion: to cross a room you must first cross half, th
 
 ## Connections
 
-- [[Cantor's Transfinite Numbers]] -- both resolve apparent paradoxes of infinity into structure (-> [[Meta-Pattern 04]])
+- [[Cantor's Transfinite Numbers]] -- both resolve apparent paradoxes of infinity into structure
 - [[Blackbody Radiation and Planck's Quantum]] -- infinity collapsed into structure by physical law
 - [[Big-O Notation]] -- both analyze asymptotic behavior
 - [[Feedback Control]] -- convergence in control systems parallels series convergence

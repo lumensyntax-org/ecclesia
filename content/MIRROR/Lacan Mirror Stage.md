@@ -22,7 +22,7 @@ Between six and eighteen months, the infant encounters its reflection and percei
 
 ## Connections
 
-- [[Narcissus]] -- Lacan's Ideal-I IS Narcissus systematized (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Narcissus]] -- Lacan's Ideal-I IS Narcissus systematized
 - [[Winnicott Mother as First Mirror]] -- Winnicott's mother precedes Lacan's mirror: the proto-mirror that shapes whether the Ideal-I is grounded or distorted
 - [[Joscha Bach on Consciousness]] -- Bach's self-model parallels the Ideal-I: a simplification mistaken for reality
 - [[Gastrulation]] -- gastrulation produces unified structure from undifferentiated cells; the mirror stage produces a unified ego from fragmented experience

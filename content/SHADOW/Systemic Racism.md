@@ -27,9 +27,9 @@ Systemic racism describes racial inequality embedded in institutional structures
 
 - [[Slavery]] -- systemic racism perpetuates slavery's institutional structures through new forms
 - [[Colonialism]] -- colonial racial hierarchies embedded in post-colonial institutions
-- [[Corruption]] -- both involve institutional instruments serving purposes other than stated (-> [[Meta-Pattern 06]])
+- [[Corruption]] -- both involve institutional instruments serving purposes other than stated
 - [[Technical Debt]] -- systemic racism is institutional technical debt: structural violations compounding over time
-- [[Antibiotic Resistance]] -- both are Knowledge-Action Gaps at civilizational scale (-> [[Meta-Pattern 03]])
+- [[Antibiotic Resistance]] -- both are Knowledge-Action Gaps at civilizational scale
 
 ## Status
 

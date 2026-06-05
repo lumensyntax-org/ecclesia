@@ -25,7 +25,7 @@ Propaganda art weaponizes aesthetic form for political control. Three canonical 
 
 - [[Abstract Art as Non-Fabrication]] -- abstract art strips to structure; propaganda art adds fabricated structure. Opposite moves.
 - [[Perspective in Painting]] -- perspective aimed for honest spatial representation; propaganda uses the same techniques for dishonest social representation
-- [[Deepfakes]] -- digital fabrication is propaganda art's technological descendant (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Deepfakes]] -- digital fabrication is propaganda art's technological descendant
 - [[Milgram Obedience]] -- both show how authority overrides individual judgment; propaganda does it through beauty rather than lab coats
 - [[Stanford Prison Experiment]] -- both are cases where the instrument (role, medium) claims the authority of what passes through it
 - [[Shakespeare's Tragedies]] -- Shakespeare used art to reveal structural violations; propaganda uses art to conceal them

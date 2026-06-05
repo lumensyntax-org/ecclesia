@@ -22,7 +22,7 @@ Primarily humility -- authority exercised within legitimate scope, then voluntar
 
 - [[Tikkun Olam]] -- *tzimtzum* (divine contraction) is the Kabbalistic parallel to kenosis
 - [[Kabbalah]] -- Ein Sof withdraws to make space for creation; same structure
-- [[Simone Weil]] -- attention as kenosis applied to cognition (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Simone Weil]] -- attention as kenosis applied to cognition
 - [[Symmetry Breaking]] -- structure emerges when the universe "gives up" perfect symmetry
 - [[Abstract Art as Non-Fabrication]] -- stripping away to reveal structure
 - [[Buddhist Stupas and Mandalas]] -- sand mandala destroyed after creation; non-attachment to form

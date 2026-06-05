@@ -22,7 +22,7 @@ Narcissus sees his reflection in a pool and falls in love with it, not recognizi
 
 ## Connections
 
-- [[Lacan Mirror Stage]] -- Lacan's Ideal-I is Narcissus systematized: identification with an image more coherent than reality (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Lacan Mirror Stage]] -- Lacan's Ideal-I is Narcissus systematized: identification with an image more coherent than reality
 - [[Selfie and Social Media]] -- the selfie is Narcissus with a phone; social media is the pool made infinite
 - [[Cooley Looking-Glass Self]] -- Cooley is Narcissus looking at others looking at him
 - [[Split-Brain and Left Hemisphere Interpreter]] -- the interpreter fabricates explanations as confidently as Narcissus fabricates an Other

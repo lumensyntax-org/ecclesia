@@ -21,7 +21,7 @@ Non-fabrication: the prohibition of images is non-fabrication applied to aesthet
 ## Connections
 
 - [[Tawhid]] -- the theological principle that generates aniconism
-- [[Islamic Geometric Art]] -- the same finding treated as cultural expression in EXPRESSION domain (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Islamic Geometric Art]] -- the same finding treated as cultural expression in EXPRESSION domain
 - [[Gothic Cathedrals]] -- different architectural means to the same end: encounter with the sacred
 - [[Abstract Art as Non-Fabrication]] -- stripping representation to reveal structure
 - [[Wittgenstein]] -- "Whereof one cannot speak, thereof one must be silent" -- geometry as what can be shown

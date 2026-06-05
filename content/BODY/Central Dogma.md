@@ -24,7 +24,7 @@ The Central Dogma of molecular biology: information flows from DNA to RNA to pro
 
 ## Connections
 
-- [[Epigenetics]] -- the Central Dogma is the text; epigenetics is the context that changes the reading (-> [[Meta-Pattern 07 - Hierarchical Modularity]])
+- [[Epigenetics]] -- the Central Dogma is the text; epigenetics is the context that changes the reading
 - [[Hox Genes]] -- Hox genes are the regulatory layer above the Central Dogma: same toolkit, different body plans
 - [[Horizontal Gene Transfer]] -- HGT is the exception that proves the rule: transferred genes still follow DNA-to-RNA-to-protein
 - [[Split-Brain and Left Hemisphere Interpreter]] -- the Central Dogma is honest; the left hemisphere interpreter fabricates explanations the Central Dogma would not permit

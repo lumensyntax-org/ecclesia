@@ -21,7 +21,7 @@ Humility: nothing created may claim the authority of the Creator. This is the In
 ## Connections
 
 - [[Ten Commandments]] -- "no other gods" and "no graven images" are the Decalogue's parallel to Tawhid
-- [[Islamic Geometric Art]] -- aniconism as non-fabrication applied to aesthetics (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Islamic Geometric Art]] -- aniconism as non-fabrication applied to aesthetics
 - [[Islamic Mosques and Geometric Pattern]] -- sacred architecture expressing Tawhid through geometry
 - [[Nietzsche — God Is Dead]] -- institutions claiming divine authority = shirk at civilizational scale
 - [[Buber — I-Thou vs I-It]] -- I-It as treating the other as instrument; shirk as treating the created as divine

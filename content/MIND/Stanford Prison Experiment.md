@@ -24,7 +24,7 @@ Zimbardo (1971) claimed guards became abusive due to social roles. Le Texier (20
 
 ## Connections
 
-- [[Milgram Obedience]] -- Milgram is the honest version of what Zimbardo claimed: real authority effects with real controls (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Milgram Obedience]] -- Milgram is the honest version of what Zimbardo claimed: real authority effects with real controls
 - [[Asch Conformity]] -- Asch's methodology was transparent; Zimbardo's was not
 - [[Conway Memory and the Self]] -- Conway shows memory edits for coherence; the SPE narrative was edited for dramatic impact
 - [[Wound Healing]] -- honest healing leaves a scar; the SPE tried to present a fabricated narrative without the scar of its methodology

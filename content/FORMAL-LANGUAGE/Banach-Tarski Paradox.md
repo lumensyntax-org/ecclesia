@@ -24,7 +24,7 @@ A solid sphere in three-dimensional space can be decomposed into five disjoint s
 ## Connections
 
 - [[Cantor's Transfinite Numbers]] -- both reveal counterintuitive consequences of set theory
-- [[Continuum Hypothesis]] -- both probe the limits of ZFC (-> [[Meta-Pattern 02]])
+- [[Continuum Hypothesis]] -- both probe the limits of ZFC
 - [[Photoelectric Effect]] -- both reveal honest consequences that violate intuition
 - [[Materials Science]] -- materials have non-negotiable physical limits; Banach-Tarski is the formal analog
 - [[Topology]] -- topological invariants survive deformation; Banach-Tarski shows what survives decomposition

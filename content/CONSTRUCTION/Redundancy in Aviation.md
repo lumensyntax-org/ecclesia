@@ -23,7 +23,7 @@ All five properties are present and operational:
 
 - [[Distributed Systems and Consensus]] -- triple redundancy IS Byzantine fault tolerance
 - [[Safety Factors in Structural Engineering]] -- both quantify humility about potential failure
-- [[Testing]] -- checklists are physical-world test suites (-> [[Meta-Pattern 01]])
+- [[Testing]] -- checklists are physical-world test suites
 - [[Error-Correcting Codes]] -- structured redundancy for error detection across domains
 - [[Arendt Banality of Evil]] -- Tenerife shows hierarchy suppressing honesty; CRM is the structural fix
 

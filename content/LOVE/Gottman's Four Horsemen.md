@@ -22,7 +22,7 @@ Each Horseman is a specific property violation. **Contempt = humility violated**
 - [[Domestic Violence]] -- the Four Horsemen at their most extreme become coercive control
 - [[Gaslighting]] -- contempt and stonewalling as preludes to gaslighting (SHADOW domain)
 - [[Trust and Betrayal]] -- each Horseman erodes trust through a different property violation
-- [[Propaganda]] -- contempt is the interpersonal form of the same humility violation (-> [[Meta-Pattern 08: The Instrument Trap]])
+- [[Propaganda]] -- contempt is the interpersonal form of the same humility violation
 - [[Marriage Across Cultures]] -- the Four Horsemen describe how the universal vow fails
 
 ## Status

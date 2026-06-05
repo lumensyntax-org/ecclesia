@@ -24,7 +24,7 @@ Asch demonstrated 37% conformity on obviously wrong answers, with 75% conforming
 
 ## Connections
 
-- [[Milgram Obedience]] -- Milgram adds institutional authority to Asch's social pressure (-> [[Meta-Pattern 03 - Knowledge-Action Gap]])
+- [[Milgram Obedience]] -- Milgram adds institutional authority to Asch's social pressure
 - [[Stanford Prison Experiment]] -- the SPE attempted to show role-driven conformity but the methodology itself conformed to Zimbardo's narrative
 - [[Genetic Imprinting]] -- both balance competing pressures; imprinting does it structurally, conformity often fails
 - [[Horizontal Gene Transfer]] -- HGT is honest boundary-crossing (genes that don't fit are discarded); conformity is dishonest boundary-crossing (perceptions that don't fit are adopted)

@@ -22,7 +22,7 @@ All five properties map. If the Logos is the structural principle through which 
 
 - [[Proverbs 8 — Wisdom as Pre-Existent Structure]] -- Wisdom/Logos parallel, standard scholarly reading (Raymond E. Brown)
 - [[The Tao]] -- scholars have noted the Tao-Logos connection; missionary translators rendered John 1:1 as "In the beginning was the Tao"
-- [[Noether's Theorem]] -- structural principle preceding its manifestations (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Noether's Theorem]] -- structural principle preceding its manifestations
 - [[The Harmonic Series]] -- proportion as structural principle audible in physics
 - [[The Axial Age]] -- Logos theology emerges from the Axial traditions
 - [[Kenosis]] -- the Logos empties itself to become incarnate (Philippians 2)

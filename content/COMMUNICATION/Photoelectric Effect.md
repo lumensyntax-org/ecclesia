@@ -22,7 +22,7 @@ When light strikes a metal surface, electrons are ejected only if the light's fr
 ## Connections
 
 - [[Blackbody Radiation and Planck's Quantum]] -- Einstein extended Planck's quantum to light
-- [[Banach-Tarski Paradox]] -- both reveal honest consequences that violate intuition (-> [[Meta-Pattern 02]])
+- [[Banach-Tarski Paradox]] -- both reveal honest consequences that violate intuition
 - [[Golden Ratio]] -- both require distinguishing genuine structure from fabricated narrative
 - [[String Theory]] -- string theory may fabricate physics where only math exists; light refused to fabricate
 - [[Bayesian Inference]] -- Millikan updated beliefs based on evidence despite prior commitments

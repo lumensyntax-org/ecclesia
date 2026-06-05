@@ -26,7 +26,7 @@ The structural signature: alignment at one level can coexist with catastrophic m
 ## Connections
 
 - [[Addiction]] -- the neuroscience of tolerance and reward (complementary entry)
-- [[Cancer]] -- cancer is alignment at the cellular level, misalignment at the organismic level (-> [[Meta-Pattern 06]])
+- [[Cancer]] -- cancer is alignment at the cellular level, misalignment at the organismic level
 - [[Network Effects and Lock-In]] -- the network serves the platform, not the user: alignment at the wrong level
 - [[Feedback Control]] -- the reward system is a hijacked control loop
 - [[Mental Illness as Pattern Violation]] -- both involve neurobiological disruption, not moral failure

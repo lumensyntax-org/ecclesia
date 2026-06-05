@@ -25,7 +25,7 @@ The structural analysis: when the five properties are systematically removed fro
 
 ## Connections
 
-- [[Arendt Banality of Evil]] -- both analyze ordinary people committing atrocities (-> [[Meta-Pattern 03]])
+- [[Arendt Banality of Evil]] -- both analyze ordinary people committing atrocities
 - [[Genocide]] -- genocide systematically strips all five properties
 - [[Redundancy in Aviation]] -- CRM restores the properties Zimbardo's experiment stripped
 - [[Just War Theory]] -- just war principles are the attempt to maintain the five properties under extreme stress

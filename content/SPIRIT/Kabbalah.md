@@ -21,7 +21,7 @@ Humility: *tzimtzum* is humility as a divine attribute, not merely a human virtu
 ## Connections
 
 - [[Kenosis]] -- *tzimtzum* parallels kenotic self-emptying (recognized in comparative theology)
-- [[Tikkun Olam]] -- Tikkun is the practical dimension of Lurianic cosmology (-> [[Meta-Pattern 01: Error Correction]])
+- [[Tikkun Olam]] -- Tikkun is the practical dimension of Lurianic cosmology
 - [[Christian Mysticism]] -- apophatic theology parallels Ein Sof as unknowable
 - [[Sufism]] -- *fana* as Islamic parallel to the Kabbalistic dissolution of ego before the divine
 - [[Symmetry Breaking]] -- the universe gave up symmetry to exist; God contracted to create

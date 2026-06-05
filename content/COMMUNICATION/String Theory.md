@@ -23,7 +23,7 @@ The hypothesis that all fundamental particles are different vibrational modes of
 
 - [[The Landscape Problem]] -- 10^500 vacua: a theory that predicts everything predicts nothing
 - [[Dualities in String Theory]] -- apparent opposites as same theory from different perspectives
-- [[Halting Problem]] -- both reveal structural limits on what can be known (-> [[Meta-Pattern 02]])
+- [[Halting Problem]] -- both reveal structural limits on what can be known
 - [[Golden Ratio]] -- both require distinguishing genuine structure from fabricated narrative
 - [[Photoelectric Effect]] -- light refused categorical fabrication; string theory may be fabricating categories
 

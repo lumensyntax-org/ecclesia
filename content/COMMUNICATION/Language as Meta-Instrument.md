@@ -22,7 +22,7 @@ All five properties are engaged simultaneously:
 ## Connections
 
 - [[Mathematics Unreasonable Effectiveness]] -- mathematics and language are the two meta-instruments
-- [[Propaganda]] -- propaganda weaponizes language's capacity for aligned messaging (-> [[Meta-Pattern 06]])
+- [[Propaganda]] -- propaganda weaponizes language's capacity for aligned messaging
 - [[Gaslighting]] -- gaslighting weaponizes language's capacity for confident assertion
 - [[DNA as Communication]] -- DNA is biology's language; human language is culture's DNA
 - [[Disinformation Ecosystems]] -- industrial-scale weaponization of language's fabrication capacity

@@ -24,7 +24,7 @@ Telomeres are repetitive sequences (TTAGGG) capping chromosome ends. Due to the 
 
 ## Connections
 
-- [[Apoptosis in Development]] -- both accept structural limits: telomeres limit division, apoptosis removes non-functional cells (-> [[Meta-Pattern 15 - Death as Function]])
+- [[Apoptosis in Development]] -- both accept structural limits: telomeres limit division, apoptosis removes non-functional cells
 - [[Wound Healing]] -- scars record injury; telomeres record division -- both are honest biological clocks
 - [[Bone Remodeling]] -- both are honest records written in biological structure
 - [[Hard Problem of Consciousness]] -- telomeres honestly mark the limit of cellular life; the hard problem honestly marks the limit of physical explanation

@@ -23,7 +23,7 @@ Mass and energy are not different things. They are the same thing measured in di
 
 ## Connections
 
-- [[Maxwell's Unification]] -- both reveal identity beneath apparent difference (-> [[Meta-Pattern 12]])
+- [[Maxwell's Unification]] -- both reveal identity beneath apparent difference
 - [[The Atomic Bomb]] -- E=mc^2 applied destructively: proportion exceeded all prior bounds
 - [[Four Fundamental Forces]] -- mass-energy equivalence underlies force unification
 - [[Euler's Identity]] -- both express deep structural identity in minimal notation

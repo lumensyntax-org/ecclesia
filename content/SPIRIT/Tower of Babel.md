@@ -21,7 +21,7 @@ Humility: the tower builders exceed their legitimate scope. They are human; they
 ## Connections
 
 - [[Prometheus]] -- technology stolen/forced from the divine, with disproportionate consequences
-- [[The Fall]] -- the sequence continues: self-consciousness, then technological overreach (-> [[Meta-Pattern 04: The Instrument Trap]])
+- [[The Fall]] -- the sequence continues: self-consciousness, then technological overreach
 - [[Nietzsche — God Is Dead]] -- substitute gods (State, Science, Progress) as modern towers
 - [[Writing Systems]] -- language as structural need vs. Babel as language as structural loss
 - [[Golden Age Pattern]] -- overreach and collapse as recurring civilizational pattern

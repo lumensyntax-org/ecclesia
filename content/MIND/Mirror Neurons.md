@@ -22,7 +22,7 @@ Gallese et al. found neurons in macaque premotor cortex that fire for both perfo
 
 ## Connections
 
-- [[Hox Genes]] -- both are the same code used across different contexts (species for Hox, self/other for mirror neurons) (-> [[Meta-Pattern 12 - Conservation and Invariance]])
+- [[Hox Genes]] -- both are the same code used across different contexts (species for Hox, self/other for mirror neurons)
 - [[Gallup Mirror Self-Recognition]] -- MSR requires distinguishing self from other in a mirror; mirror neurons blur self-other boundaries at the neural level
 - [[Girard Mimetic Desire]] -- mirror neurons may be the neural substrate of mimetic desire: we simulate others' actions, potentially including their desires
 - [[Cooley Looking-Glass Self]] -- Cooley's theory is social mirroring; mirror neurons are neural mirroring -- different levels of the same phenomenon

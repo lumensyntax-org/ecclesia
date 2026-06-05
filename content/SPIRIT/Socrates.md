@@ -21,7 +21,7 @@ Humility: the beginning of wisdom is the recognition of the boundary of one's kn
 ## Connections
 
 - [[Kant]] -- the Critique of Pure Reason as Socratic method applied to reason itself
-- [[Wittgenstein]] -- proposition 7 as Socratic conclusion: silence where knowledge ends (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Wittgenstein]] -- proposition 7 as Socratic conclusion: silence where knowledge ends
 - [[Dark Matter and Dark Energy]] -- science at its most Socratic: naming what we do not know
 - [[Riemann Hypothesis]] -- 165 years of the best mathematicians; humility before an unsolved problem
 - [[Proverbs 8 — Wisdom as Pre-Existent Structure]] -- Wisdom discovered, not invented

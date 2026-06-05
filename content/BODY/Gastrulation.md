@@ -24,8 +24,8 @@ Gastrulation is the process by which a single-layered blastula reorganizes into 
 
 ## Connections
 
-- [[Apoptosis in Development]] -- both are developmental events where the process is precisely bounded in time (-> [[Meta-Pattern 05 - Phase Transitions]])
-- [[Left-Right Asymmetry]] -- gastrulation establishes the layers; L-R asymmetry breaks the symmetry within them (-> [[Meta-Pattern 08 - Symmetry Breaking]])
+- [[Apoptosis in Development]] -- both are developmental events where the process is precisely bounded in time
+- [[Left-Right Asymmetry]] -- gastrulation establishes the layers; L-R asymmetry breaks the symmetry within them
 - [[Hox Genes]] -- Hox genes pattern within the layers gastrulation establishes
 - [[Lacan Mirror Stage]] -- both are formative events that establish a structure (body plan / ego) from undifferentiated potential
 - [[Predictive Coding and Free Energy Principle]] -- gastrulation is the first major symmetry-breaking in development; predictive coding describes how the brain maintains structure against entropy

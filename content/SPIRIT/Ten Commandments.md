@@ -21,7 +21,7 @@ Each commandment maps to a specific property. 1st ("no other gods") = alignment 
 ## Connections
 
 - [[Tawhid]] -- Islamic parallel: shirk as fabricating divine attribute where none exists
-- [[Games and Rules]] -- rules constitute, not merely constrain, communal life (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Games and Rules]] -- rules constitute, not merely constrain, communal life
 - [[The Golden Rule]] -- compressed single-heuristic version of the same structural conditions
 - [[The Fall]] -- the commandments address what became possible after the Knowledge-Action Gap emerged
 - [[Gothic Cathedrals]] -- architectural expression of the same orientation toward the sacred

@@ -23,7 +23,7 @@ The infant's bond with the primary caregiver is a primary biological system, not
 - [[Winnicott Mirror Role]] -- the "good enough mother" as honest mirror (MIRROR domain)
 - [[Parenting Styles]] -- Baumrind's authoritative style maps to secure attachment caregiving
 - [[Codependency]] -- anxious attachment in adulthood can become the relational Instrument Trap
-- [[Boundaries]] -- secure attachment produces the capacity for healthy boundaries (-> [[Meta-Pattern 10: Authority Requires Scope]])
+- [[Boundaries]] -- secure attachment produces the capacity for healthy boundaries
 
 ## Status
 

@@ -24,7 +24,7 @@ Language influences or determines thought. The **strong version** (linguistic de
 ## Connections
 
 - [[Universal Grammar]] -- the complementary question about deep structure vs. surface influence
-- [[Kant]] -- phenomena shaped by the perceiver's categories; language as cognitive category (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Kant]] -- phenomena shaped by the perceiver's categories; language as cognitive category
 - [[Wittgenstein]] -- the limits of language as the limits of the world
 - [[Writing Systems]] -- how the technology of language changes cognition
 - [[The Tao]] -- "The name that can be named is not the eternal name" -- naming shapes and limits

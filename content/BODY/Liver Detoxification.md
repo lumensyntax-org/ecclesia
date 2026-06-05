@@ -24,7 +24,7 @@ The liver performs over 500 metabolic functions. The CYP450 enzyme family metabo
 
 ## Connections
 
-- [[Bone Remodeling]] -- both restructure proportionally to actual demand, not theoretical demand (-> [[Meta-Pattern 04 - Proportion as Optimization]])
+- [[Bone Remodeling]] -- both restructure proportionally to actual demand, not theoretical demand
 - [[Kidney and Nephron Filtration]] -- liver detoxifies, kidney filters; complementary scope boundaries
 - [[System 1 and System 2]] -- System 2 is the cognitive liver: slow, deliberate processing that catches what fast processing misses
 - [[Menstrual Cycle]] -- both use feedback-regulated cyclical processes that match output to need

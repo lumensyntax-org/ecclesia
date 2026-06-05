@@ -21,7 +21,7 @@ Non-fabrication: proposition 7 is a compressed statement of non-fabrication. Whe
 ## Connections
 
 - [[The Tao]] -- "The Tao that can be told is not the eternal Tao" parallels proposition 7
-- [[Abstract Art as Non-Fabrication]] -- Malevich's *Black Square* (1915) and the *Tractatus* (1918) both reach the limit of representation (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Abstract Art as Non-Fabrication]] -- Malevich's *Black Square* (1915) and the *Tractatus* (1918) both reach the limit of representation
 - [[Kant]] -- Kant drew the boundary for reason; Wittgenstein drew it for language
 - [[Christian Mysticism]] -- apophatic theology: God known by what God is *not*
 - [[Kierkegaard]] -- the individual before God cannot be captured by any system

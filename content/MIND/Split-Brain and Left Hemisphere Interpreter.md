@@ -23,7 +23,7 @@ Sperry and Gazzaniga's experiments showed the left hemisphere confabulates expla
 ## Connections
 
 - [[Default Mode Network]] -- both generate narrative where none is warranted: the interpreter confabulates reasons, the DMN confabulates stories
-- [[Dunning-Kruger Effect]] -- both involve confident claims made without the competence to evaluate them (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Dunning-Kruger Effect]] -- both involve confident claims made without the competence to evaluate them
 - [[Milgram Obedience]] -- Milgram's subjects may have used the interpreter to justify continued shocking: "the experimenter told me to"
 - [[Central Dogma]] -- the Central Dogma is honest (code = product); the interpreter fabricates (explanation =/= cause)
 - [[Lacan Mirror Stage]] -- the Ideal-I is the visual version of the interpreter's narrative: a coherent image covering fragmented reality

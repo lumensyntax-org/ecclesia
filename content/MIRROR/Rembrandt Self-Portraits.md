@@ -22,7 +22,7 @@ Rembrandt painted, drew, and etched himself across four decades -- approximately
 
 ## Connections
 
-- [[Bone Remodeling]] -- both are honest records: trabecular architecture records forces, Rembrandt's series records time (-> [[Meta-Pattern 12 - Conservation and Invariance]])
+- [[Bone Remodeling]] -- both are honest records: trabecular architecture records forces, Rembrandt's series records time
 - [[Wound Healing]] -- the scar is the honest record; Rembrandt's late self-portraits are the visual equivalent: documenting what happened without erasure
 - [[Narcissus]] -- Narcissus fell in love with his image; Rembrandt documented his image declining -- the anti-Narcissus
 - [[Telomeres and Cellular Aging]] -- telomeres are the biological clock; Rembrandt's series is the artistic clock -- both honest records of time passing

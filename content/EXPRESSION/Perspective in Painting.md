@@ -25,7 +25,7 @@ Linear perspective is the geometric system for representing three-dimensional sp
 ## Connections
 
 - [[Abstract Art as Non-Fabrication]] -- abstraction as the next step: stripping even honest representation
-- [[Heidegger]] -- *aletheia* as unconcealment; perspective as visual unconcealment (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Heidegger]] -- *aletheia* as unconcealment; perspective as visual unconcealment
 - [[Writing Systems]] -- another technology for honest representation of reality
 - [[Levinas — Face of the Other]] -- the bounded viewpoint as acknowledgment of limitation
 - [[Kant]] -- phenomena as things structured by the perceiver's position

@@ -23,7 +23,7 @@ Topology studies properties invariant under continuous deformation (stretching, 
 
 ## Connections
 
-- [[Group Theory and Symmetry]] -- both study invariants: topology under deformation, groups under symmetry (-> [[Meta-Pattern 12]])
+- [[Group Theory and Symmetry]] -- both study invariants: topology under deformation, groups under symmetry
 - [[Phase Transitions]] -- universality classes are topological: different substrates, same math
 - [[Kolmogorov Complexity]] -- both strip away the inessential to reveal structure
 - [[Dualities in String Theory]] -- dualities reveal that apparent differences are perspective artifacts

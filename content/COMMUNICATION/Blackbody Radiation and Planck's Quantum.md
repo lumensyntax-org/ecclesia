@@ -23,11 +23,11 @@ Classical physics (Rayleigh-Jeans law, 1900) predicted a heated blackbody should
 
 ## Connections
 
-- [[Zeno's Paradoxes and Calculus]] -- both resolve infinity into finite structure (-> [[Meta-Pattern 04]])
+- [[Zeno's Paradoxes and Calculus]] -- both resolve infinity into finite structure
 - [[Cantor's Transfinite Numbers]] -- infinity has structure; the quantum is physical proof
 - [[Materials Science]] -- nature refusing to exceed structural limits
 - [[Photoelectric Effect]] -- Einstein extended Planck's quantum to light itself
-- [[Phase Transitions]] -- both show discontinuous thresholds in continuous systems (-> [[Meta-Pattern 05]])
+- [[Phase Transitions]] -- both show discontinuous thresholds in continuous systems
 
 ## Status
 

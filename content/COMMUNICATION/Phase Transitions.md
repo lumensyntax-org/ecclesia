@@ -23,7 +23,7 @@ Water at 99C and water at 101C are the same molecule (H2O) in radically differen
 
 ## Connections
 
-- [[Blackbody Radiation and Planck's Quantum]] -- both show discontinuous thresholds in continuous systems (-> [[Meta-Pattern 05]])
+- [[Blackbody Radiation and Planck's Quantum]] -- both show discontinuous thresholds in continuous systems
 - [[Far-From-Equilibrium]] -- dissipative structures exist within phase-transition boundaries
 - [[Abstraction Layers]] -- universality classes are nature's abstraction: different substrates, same effective theory
 - [[Topology]] -- topological invariants survive deformation; universality class survives substrate change

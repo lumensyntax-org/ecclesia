@@ -23,7 +23,7 @@ Hamming showed how to add structured redundancy so errors during transmission ca
 
 ## Connections
 
-- [[DNA as Communication]] -- DNA proofreading IS error correction on molecular sequences (-> [[Meta-Pattern 01]])
+- [[DNA as Communication]] -- DNA proofreading IS error correction on molecular sequences
 - [[Redundancy in Aviation]] -- triple redundancy is physical error correction
 - [[Distributed Systems and Consensus]] -- BFT achieves consensus despite fabricating nodes
 - [[Encryption and Hashing]] -- both ensure message integrity through mathematical structure

@@ -24,7 +24,7 @@ Modern computing is built in layers: transistors implement logic gates, logic ga
 ## Connections
 
 - [[Unix Philosophy]] -- Unix tools are abstraction layers with minimal scope
-- [[Phase Transitions]] -- leaky abstractions are phase transitions: continuous stress, discontinuous failure (-> [[Meta-Pattern 05]])
+- [[Phase Transitions]] -- leaky abstractions are phase transitions: continuous stress, discontinuous failure
 - [[The Visible Window]] -- human vision is a biological abstraction layer hiding the full EM spectrum
 - [[Graceful Degradation vs Catastrophic Failure]] -- leaky abstractions can cascade
 - [[Topology]] -- topology strips surface detail to find invariants; abstraction strips implementation detail

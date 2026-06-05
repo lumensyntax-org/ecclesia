@@ -26,7 +26,7 @@ Cancer is uncontrolled cell proliferation escaping regulatory mechanisms. A canc
 ## Connections
 
 - [[Autoimmune Disease]] -- immune system failure: cancer evades it, autoimmunity misdirects it
-- [[Prion Diseases]] -- both are self-propagating pathological structures (-> [[Meta-Pattern 06]])
+- [[Prion Diseases]] -- both are self-propagating pathological structures
 - [[Chemical Signaling]] -- cancer fabricates chemical signals; healthy signaling is what cancer violates
 - [[The Bug]] -- cancer is the biological bug: cell behavior diverges from organismic purpose
 - [[Corruption]] -- both are instruments claiming the authority of what they were meant to serve

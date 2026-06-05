@@ -25,7 +25,7 @@ Circadian rhythms are endogenous ~24-hour oscillations entrained to the light-da
 
 ## Connections
 
-- [[Homeostasis]] -- circadian rhythm is temporal homeostasis; both maintain internal alignment against external variation (-> [[Meta-Pattern 09 - Feedback and Homeostasis]])
+- [[Homeostasis]] -- circadian rhythm is temporal homeostasis; both maintain internal alignment against external variation
 - [[Feedback Control]] -- the PER/TIM loop is a molecular feedback controller with ~24h period
 - [[Natural Selection]] -- circadian clocks evolved because organisms aligned with daylight cycles had survival advantage
 - [[Lotka-Volterra Equations]] -- population cycles and circadian cycles both exhibit oscillatory proportion

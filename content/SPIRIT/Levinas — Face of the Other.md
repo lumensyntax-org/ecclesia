@@ -21,7 +21,7 @@ Humility: the Face of the Other presents a demand that exceeds my authority to d
 ## Connections
 
 - [[Buber — I-Thou vs I-It]] -- the irreducible Thou parallels the Face's infinite demand
-- [[Simone Weil]] -- attention as receptivity to the Other (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Simone Weil]] -- attention as receptivity to the Other
 - [[Kenosis]] -- self-emptying to make relation possible; Levinas's asymmetric responsibility
 - [[Girard — Mimetic Desire and Scapegoat]] -- the scapegoat's face is the face the crowd refuses to see
 - [[Perspective in Painting]] -- honest representation acknowledges a bounded viewpoint

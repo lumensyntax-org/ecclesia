@@ -25,7 +25,7 @@ Medieval Islamic architecture features complex geometric tilings using five *gir
 ## Connections
 
 - [[Islamic Mosques and Geometric Pattern]] -- the same finding in its sacred-architectural context (SPIRIT domain)
-- [[Tawhid]] -- the theological principle generating aniconism (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Tawhid]] -- the theological principle generating aniconism
 - [[Bach's Well-Tempered Clavier]] -- constraint as generative principle; prohibition yielding discovery
 - [[Pentatonic Scale]] -- structure found through limitation, not fabricated through excess
 - [[Fractal Geometry]] -- self-similarity and aperiodicity as mathematical properties of nature

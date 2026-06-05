@@ -27,7 +27,7 @@ A contract is a legally enforceable agreement binding parties to specific obliga
 
 - [[Invention of Money]] -- money is a trust technology; contracts formalize trust into enforceable obligation
 - [[Double-Entry Bookkeeping]] -- both create structural honesty in commerce; bookkeeping tracks, contracts bind
-- [[Nuclear Arms Control]] -- treaties are contracts between states; IAEA verification is breach detection (-> [[Meta-Pattern 01 - Error Correction]])
+- [[Nuclear Arms Control]] -- treaties are contracts between states; IAEA verification is breach detection
 - [[Testing]] -- test suites are contracts between code and specification; failing tests are breach detection
 - [[Invention of Writing]] -- contracts require writing to persist beyond the spoken moment
 

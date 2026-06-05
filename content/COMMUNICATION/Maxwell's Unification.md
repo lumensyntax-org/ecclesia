@@ -21,7 +21,7 @@ Before Maxwell, electricity, magnetism, and light were three separate phenomena 
 
 ## Connections
 
-- [[E=mc squared]] -- both reveal identity beneath apparent difference (-> [[Meta-Pattern 12]])
+- [[E=mc squared]] -- both reveal identity beneath apparent difference
 - [[Euler's Identity]] -- structural convergence: independent domains united by single equation
 - [[Langlands Program]] -- mathematical unification program parallels physical unification
 - [[Spectroscopy]] -- spectral analysis is a direct application of Maxwell's unified electromagnetic theory

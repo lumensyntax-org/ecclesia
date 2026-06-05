@@ -26,7 +26,7 @@ Anatta means "non-self": no fixed, permanent, independent self exists. The five 
 
 - [[Lacan Mirror Stage]] -- Lacan and Buddhism agree the self is constructed; they disagree on the response (build better / see through)
 - [[Gallup Mirror Self-Recognition]] -- MSR tests whether self exists in the mirror; anatta asks what happens after you pass: is the self real?
-- [[Terror Management Theory]] -- TMT explains why we resist anatta: non-self threatens the buffer against mortality anxiety (-> [[Meta-Pattern 15 - Death as Function]])
+- [[Terror Management Theory]] -- TMT explains why we resist anatta: non-self threatens the buffer against mortality anxiety
 - [[Apoptosis in Development]] -- apoptosis releases non-functional structure; anatta releases attachment to all structure
 - [[Joscha Bach on Consciousness]] -- Bach reaches similar conclusions via computation: the unified self is a simplification, not a reality
 - [[Foucault Technologies of the Self]] -- Foucault shows the self is constructed by practices; anatta shows the self is constructed by craving

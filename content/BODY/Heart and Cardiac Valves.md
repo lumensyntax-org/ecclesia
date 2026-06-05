@@ -24,7 +24,7 @@ The mammalian heart contains four valves that enforce unidirectional blood flow.
 
 ## Connections
 
-- [[Blood-Brain Barrier]] -- both are boundary structures that enforce one-way authority (-> [[Meta-Pattern 09 - Feedback and Homeostasis]])
+- [[Blood-Brain Barrier]] -- both are boundary structures that enforce one-way authority
 - [[Kidney and Nephron Filtration]] -- Frank-Starling and tubuloglomerular feedback are both negative feedback mechanisms maintaining homeostasis
 - [[Predictive Coding and Free Energy Principle]] -- prediction error in the brain parallels pressure-gradient sensing in valves: both correct misalignment
 - [[Wound Healing]] -- cardiac valve failure triggers compensatory remodeling, paralleling the four phases of wound repair

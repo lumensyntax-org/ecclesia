@@ -44,6 +44,8 @@ The operational principle that predominates over the entire catalogue is the **C
 
 **Total**: 434 entries across 19 domains.
 
+**Cross-cutting structural patterns**: beyond the domain tree, recurring structural invariants connect entries across domains — mapped, with explicit strength ratings and a note of where each connection becomes metaphor, in [[META-PATTERNS]].
+
 ---
 
 ## How to read

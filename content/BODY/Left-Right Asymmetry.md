@@ -24,7 +24,7 @@ The vertebrate body is externally bilateral but internally asymmetric: heart loo
 
 ## Connections
 
-- [[Gastrulation]] -- gastrulation establishes layers; L-R asymmetry breaks symmetry within them (-> [[Meta-Pattern 08 - Symmetry Breaking]])
+- [[Gastrulation]] -- gastrulation establishes layers; L-R asymmetry breaks symmetry within them
 - [[Central Dogma]] -- both demonstrate that biological information flows in one direction with remarkable fidelity
 - [[Hox Genes]] -- both are developmental patterning systems where a minimal signal produces large-scale coherent structure
 - [[Narcissus]] -- Narcissus cannot distinguish reflection from source; situs inversus is literal mirror-reversal of the body -- the mirror made biological

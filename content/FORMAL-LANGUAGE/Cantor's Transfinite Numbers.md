@@ -24,7 +24,7 @@ Cantor demonstrated that not all infinities are equal. The natural numbers are c
 ## Connections
 
 - [[Continuum Hypothesis]] -- Cantor's conjecture about what lies between aleph-0 and c
-- [[Zeno's Paradoxes and Calculus]] -- both resolve apparent paradoxes of infinity into structure (-> [[Meta-Pattern 04]])
+- [[Zeno's Paradoxes and Calculus]] -- both resolve apparent paradoxes of infinity into structure
 - [[Blackbody Radiation and Planck's Quantum]] -- nature refusing unbounded infinity; Cantor showing infinity has architecture
 - [[Kolmogorov Complexity]] -- both formalize distinctions within apparently uniform domains
 - [[Banach-Tarski Paradox]] -- both reveal counterintuitive consequences of set theory

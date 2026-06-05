@@ -21,7 +21,7 @@ Alignment: your stated values for yourself must match your actions toward others
 ## Connections
 
 - [[Ten Commandments]] -- the Decalogue expanded; the Golden Rule compressed
-- [[Pentatonic Scale]] -- independent emergence across unconnected cultures (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Pentatonic Scale]] -- independent emergence across unconnected cultures
 - [[The Concept of Zero]] -- independently discovered in multiple civilizations
 - [[Writing Systems]] -- another convergent invention from structural need
 - [[Le Chatelier's Principle]] -- reciprocal boundary; action meets proportional response

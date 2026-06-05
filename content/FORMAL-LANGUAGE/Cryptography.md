@@ -26,7 +26,7 @@ Modern public-key cryptography exploits computational asymmetry: multiplying lar
 ## Connections
 
 - [[Encryption and Hashing]] -- symmetric encryption complements public-key cryptography
-- [[Type Systems]] -- both enforce structural properties through mathematical constraint (-> [[Meta-Pattern 01]])
+- [[Type Systems]] -- both enforce structural properties through mathematical constraint
 - [[Version Control]] -- Git uses cryptographic hashes for integrity
 - [[Confidence Trick]] -- cons succeed where identity verification fails; cryptography prevents this
 - [[Ponzi Schemes]] -- fabricated statements vs. cryptographically verified records

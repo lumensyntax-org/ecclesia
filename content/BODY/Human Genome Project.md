@@ -25,7 +25,7 @@ The Human Genome Project (1990-2003) revealed ~20,000-25,000 protein-coding gene
 ## Connections
 
 - [[Epigenetics]] -- HGP revealed the genome; epigenetics revealed that the same genome produces different readings
-- [[Dark Matter and Dark Energy]] -- both are cases where the honest scientific conclusion is "we don't know" (-> [[Meta-Pattern 02 - The Boundary Pre-Exists]])
+- [[Dark Matter and Dark Energy]] -- both are cases where the honest scientific conclusion is "we don't know"
 - [[Kuhn Taxonomy of Consciousness Theories]] -- both show that hundreds of competing frameworks can coexist when evidence does not discriminate
 - [[Dunning-Kruger Effect]] -- "junk DNA" label is D-K at the institutional level: insufficient knowledge producing confident claims
 - [[Panpsychism]] -- both concern phenomena where the honest response is to acknowledge the limits of current frameworks

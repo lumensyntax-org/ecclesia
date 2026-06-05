@@ -24,7 +24,7 @@ Ward Cunningham coined the metaphor: "Shipping first time code is like going int
 ## Connections
 
 - [[The Bug]] -- technical debt creates conditions for future bugs
-- [[Antibiotic Resistance]] -- both are Knowledge-Action Gaps: the problem is known, action contradicts knowledge (-> [[Meta-Pattern 03]])
+- [[Antibiotic Resistance]] -- both are Knowledge-Action Gaps: the problem is known, action contradicts knowledge
 - [[Corruption]] -- both involve gaps between stated function and actual function
 - [[Materials Science]] -- material fatigue and code fatigue: accumulated stress produces failure
 - [[Bayesian Inference]] -- failing to update code with new knowledge is refusing to update beliefs

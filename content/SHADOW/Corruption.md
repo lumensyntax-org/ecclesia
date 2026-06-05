@@ -25,7 +25,7 @@ Transparency International defines corruption as "the abuse of entrusted power f
 
 ## Connections
 
-- [[Cancer]] -- both are instruments claiming the authority of what they serve (-> [[Meta-Pattern 06]])
+- [[Cancer]] -- both are instruments claiming the authority of what they serve
 - [[Nash Equilibrium]] -- corruption persists as Nash equilibrium: unilateral honesty is punished
 - [[Dark Patterns in UX]] -- both use institutional forms to serve hidden purposes
 - [[Systemic Racism]] -- both involve institutional instruments serving undisclosed purposes

@@ -25,7 +25,7 @@ Before writing, human knowledge was preserved through oral tradition using meter
 ## Connections
 
 - [[Indigenous Spiritual Traditions]] -- songlines as sacred knowledge embedded in landscape
-- [[Writing Systems]] -- writing as the technology that eventually supplemented oral tradition (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Writing Systems]] -- writing as the technology that eventually supplemented oral tradition
 - [[Sacred Music]] -- oral tradition preserved through musical structure
 - [[Stonehenge and Megalithic Structures]] -- knowledge without writing, embedded in structure
 - [[The Harmonic Series]] -- the physics of sound underlying mnemonic structure

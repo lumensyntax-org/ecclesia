@@ -25,7 +25,7 @@ Whistleblowing is the act of revealing concealed truth at personal cost. Daniel 
 
 - [[Scientific Revolution]] -- "Nullius in verba" -- whistleblowing applies the scientific principle to institutions: don't take the institution's word for it
 - [[Nuclear Arms Control]] -- IAEA verification is institutionalized whistleblowing; individual whistleblowers fill the gap where institutions refuse self-verification
-- [[Terror Management Theory]] -- the personal cost of whistleblowing (career, freedom, safety) shows why fabrication persists: honesty is expensive (-> [[Meta-Pattern 11 - Cost of Knowing]])
+- [[Terror Management Theory]] -- the personal cost of whistleblowing (career, freedom, safety) shows why fabrication persists: honesty is expensive
 - [[Milgram Obedience]] -- Milgram's 35% who refused are structural whistleblowers: they broke alignment with authority to preserve alignment with conscience
 - [[Asch Conformity]] -- the 25% who never conformed are the whistleblower's psychological precursors
 - [[Wikipedia]] -- Wikipedia's transparency makes institutional whistleblowing less necessary; opacity is what creates the need

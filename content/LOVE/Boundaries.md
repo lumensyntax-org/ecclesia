@@ -21,7 +21,7 @@ Boundaries are the relational structures that define where one person ends and a
 
 - [[Attachment Theory]] -- secure attachment produces the capacity for healthy boundaries
 - [[Codependency]] -- codependency is the systematic violation of boundaries from the "helper" side
-- [[Empathy]] -- empathy without boundaries becomes enmeshment (-> [[Meta-Pattern 10: Authority Requires Scope]])
+- [[Empathy]] -- empathy without boundaries becomes enmeshment
 - [[Blood-Brain Barrier]] -- biological boundary that allows selective permeability (BODY domain)
 - [[Parenting Styles]] -- authoritative parenting models healthy boundaries for the child
 

@@ -22,7 +22,7 @@ Primarily proportion -- the Middle Way is a structural statement that excess in 
 
 - [[The Tao]] -- *wu wei* as Taoist parallel to the Middle Way's proportionality
 - [[The Golden Rule]] -- proportion applied to ethics; the Middle Way applied to practice
-- [[Le Chatelier's Principle]] -- equilibrium as structural principle (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Le Chatelier's Principle]] -- equilibrium as structural principle
 - [[Perspective in Painting]] -- honest representation from a bounded viewpoint
 - [[Zen Buddhism]] -- the Middle Way as foundation for Zen non-fabrication
 - [[Fasting Across Traditions]] -- voluntary limitation as proportion in practice

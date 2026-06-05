@@ -25,7 +25,7 @@ A safety factor is the ratio of a structure's maximum capacity to its expected l
 
 - [[Materials Science]] -- material limits define the boundaries safety factors must respect
 - [[Redundancy in Aviation]] -- aviation safety factors and Swiss cheese model: distributed humility
-- [[Feedback Control]] -- both calibrate response to measured conditions (-> [[Meta-Pattern 09]])
+- [[Feedback Control]] -- both calibrate response to measured conditions
 - [[Bayesian Inference]] -- safety factors encode prior uncertainty about loads and materials
 - [[The Atomic Bomb]] -- both raise questions of proportion: action vs. consequence
 

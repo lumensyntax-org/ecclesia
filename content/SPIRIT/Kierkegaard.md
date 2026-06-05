@@ -21,7 +21,7 @@ Honesty: the leap of faith is honest precisely because it does not pretend to ha
 ## Connections
 
 - [[Kenosis]] -- pseudonymous authorship as intellectual kenosis
-- [[Wittgenstein]] -- both reach limits of what systems can capture (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Wittgenstein]] -- both reach limits of what systems can capture
 - [[Dark Matter and Dark Energy]] -- honest naming of what is not known
 - [[The Fall]] -- anxiety (*Angst*) as the consciousness of freedom that the Fall inaugurated
 - [[Girard — Mimetic Desire and Scapegoat]] -- the individual vs. the crowd

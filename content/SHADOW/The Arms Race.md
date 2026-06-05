@@ -28,7 +28,7 @@ A nuclear arms race is competitive escalation where each side's rational respons
 - [[Nash Equilibrium]] -- the arms race IS a Nash equilibrium: individual rationality, collective insanity
 - [[The Atomic Bomb]] -- the bomb created the conditions for the race
 - [[Just War Theory]] -- MAD is a just-war paradox
-- [[Feedback Control]] -- arms races are positive feedback without proportional control (-> [[Meta-Pattern 09]])
+- [[Feedback Control]] -- arms races are positive feedback without proportional control
 - [[Graceful Degradation vs Catastrophic Failure]] -- nuclear arsenals: catastrophic failure without graceful degradation
 
 ## Status

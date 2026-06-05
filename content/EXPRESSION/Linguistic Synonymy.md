@@ -25,7 +25,7 @@ Natural languages contain extensive synonymy -- multiple words conveying the sam
 
 - [[Sapir-Whorf Hypothesis]] -- if language shapes thought, then synonymy gives multiple cognitive entry points to the same concept
 - [[Universal Grammar]] -- deep structure may be shared; synonymy exists at the surface level of lexical choice
-- [[DNA Error Correction]] -- codon degeneracy protects against mutation; linguistic synonymy protects against ambiguity (-> [[Meta-Pattern 10 - Degeneracy]])
+- [[DNA Error Correction]] -- codon degeneracy protects against mutation; linguistic synonymy protects against ambiguity
 - [[Convergent Evolution]] -- multiple evolutionary paths to the same function; multiple words for the same meaning
 - [[Distributed Systems and Consensus]] -- both achieve robustness through redundancy: no single node or word is a single point of failure
 

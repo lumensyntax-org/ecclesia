@@ -21,7 +21,7 @@ Proportion: the mandala's concentric circles and precise geometry reflect the Bu
 ## Connections
 
 - [[Hindu Temples]] -- shared Mount Meru cosmology; different expression
-- [[Kenosis]] -- mandala destruction as material kenosis (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Kenosis]] -- mandala destruction as material kenosis
 - [[Zen Buddhism]] -- "Kill the Buddha" as the verbal equivalent of destroying the mandala
 - [[Advaita Vedanta]] -- form pointing beyond itself to formless reality
 - [[Abstract Art as Non-Fabrication]] -- Malevich's *Black Square* as the Western zero of form

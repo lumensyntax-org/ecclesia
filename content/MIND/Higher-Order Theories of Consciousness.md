@@ -24,7 +24,7 @@ Rosenthal and Lau propose that a mental state is conscious when targeted by a hi
 
 - [[Global Workspace Theory]] -- GWT requires broadcasting; HOT requires meta-representation -- different mechanisms for the same transition
 - [[Illusionism]] -- illusionism argues that phenomenal consciousness is itself a higher-order misrepresentation
-- [[Blood-Brain Barrier]] -- both define a boundary between what is inside (conscious / CNS) and outside (-> [[Meta-Pattern 02 - The Boundary Pre-Exists]])
+- [[Blood-Brain Barrier]] -- both define a boundary between what is inside (conscious / CNS) and outside
 - [[Dunning-Kruger Effect]] -- D-K is the failure of higher-order representation: the incompetent cannot represent their own incompetence
 - [[Foucault Technologies of the Self]] -- Foucault's self-examination practices are technologies for generating higher-order representations
 

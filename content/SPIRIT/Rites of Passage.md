@@ -21,7 +21,7 @@ Alignment: the rite of passage aligns social recognition with developmental real
 ## Connections
 
 - [[Pilgrimage Across Traditions]] -- pilgrimage as extended liminal state
-- [[Fasting Across Traditions]] -- fasting often accompanies rites of passage (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Fasting Across Traditions]] -- fasting often accompanies rites of passage
 - [[Campbell — The Monomyth]] -- the hero's journey as mythic rite of passage
 - [[The Fall]] -- the first rite of passage: from innocence to self-consciousness
 - [[Sacred Music]] -- music accompanies and structures ritual transitions

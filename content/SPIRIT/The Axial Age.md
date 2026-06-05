@@ -21,7 +21,7 @@ The Axial Age is the emergence of the five properties as conscious principles. B
 ## Connections
 
 - [[Socrates]] -- one of the Axial figures; honesty as conscious practice
-- [[Buddhist Middle Way]] -- proportion discovered during the Axial period (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Buddhist Middle Way]] -- proportion discovered during the Axial period
 - [[The Tao]] -- non-fabrication as Axial insight
 - [[The Golden Rule]] -- the cross-civilizational convergence that the Axial Age produced
 - [[Pentatonic Scale]] -- independent emergence across cultures; structural invariance

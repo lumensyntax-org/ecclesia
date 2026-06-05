@@ -25,10 +25,10 @@ Software testing asks a single structural question: does the code do what it cla
 
 - [[The Bug]] -- testing is the systematic search for bugs (alignment gaps)
 - [[Type Systems]] -- compile-time honesty enforcement complements runtime testing
-- [[Bayesian Inference]] -- both update confidence based on evidence (-> [[Meta-Pattern 01]])
+- [[Bayesian Inference]] -- both update confidence based on evidence
 - [[Redundancy in Aviation]] -- aviation checklists are tests applied to physical systems
 - [[Spectroscopy]] -- spectral analysis tests atomic identity; software testing tests code identity
-- [[DNA as Communication]] -- DNA proofreading is molecular-level testing (-> [[Meta-Pattern 01]])
+- [[DNA as Communication]] -- DNA proofreading is molecular-level testing
 
 ## Status
 

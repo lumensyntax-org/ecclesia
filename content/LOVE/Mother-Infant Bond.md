@@ -23,7 +23,7 @@ Winnicott proposed that the mother's face is the infant's first mirror. Tronick'
 - [[Attachment Theory]] -- the quality of mirroring determines attachment style
 - [[Looking-Glass Self]] -- Cooley's social mirror as the adult extension of maternal mirroring (MIRROR domain)
 - [[Lacan Mirror Stage]] -- the physical mirror succeeds the maternal mirror (MIRROR domain)
-- [[Parenting Styles]] -- authoritative parenting continues the "good enough" function (-> [[Meta-Pattern 04: Proportion as Universal Constraint]])
+- [[Parenting Styles]] -- authoritative parenting continues the "good enough" function
 
 ## Status
 

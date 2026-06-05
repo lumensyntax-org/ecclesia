@@ -22,7 +22,7 @@ Codependency describes a relational pattern in which one person's identity becom
 - [[Attachment Theory]] -- anxious attachment in adulthood can manifest as codependency
 - [[Boundaries]] -- codependency is the systematic violation of boundaries from the "helper" side
 - [[Empathy]] -- codependency is empathy without the self-other distinction
-- [[Addiction]] -- codependency often develops in relationship with addiction (SHADOW domain) (-> [[Meta-Pattern 08: The Instrument Trap]])
+- [[Addiction]] -- codependency often develops in relationship with addiction (SHADOW domain)
 - [[Domestic Violence]] -- codependency can trap victims in violent relationships
 
 ## Status

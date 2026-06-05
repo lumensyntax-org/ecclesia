@@ -24,7 +24,7 @@ Epigenetic modifications alter gene expression without changing DNA sequence. DN
 
 ## Connections
 
-- [[Central Dogma]] -- the Central Dogma is the invariant text; epigenetics is the variable reading (-> [[Meta-Pattern 07 - Hierarchical Modularity]])
+- [[Central Dogma]] -- the Central Dogma is the invariant text; epigenetics is the variable reading
 - [[Bone Remodeling]] -- both are honest records of history: epigenome records environment, trabecular architecture records forces
 - [[Neuroplasticity]] -- both restructure based on actual experience rather than predetermined plan
 - [[Lacan Mirror Stage]] -- the Ideal-I is a fixed image; the epigenome shows that even identity is context-dependent

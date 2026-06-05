@@ -23,7 +23,7 @@ Leviticus 25 mandates a Jubilee every 50 years: debts are forgiven, slaves are f
 
 ## Connections
 
-- [[Debt as Deferred Proportion]] -- debt defers proportion into the future; the Jubilee restores it (-> [[Meta-Pattern 04 - Proportion as Optimization]])
+- [[Debt as Deferred Proportion]] -- debt defers proportion into the future; the Jubilee restores it
 - [[Inflation as Fabrication]] -- both hyperinflation and unpayable debt are proportion failures; the Jubilee addresses debt, devaluation addresses money
 - [[Interest and Usury]] -- three traditions (Jewish, Christian, Islamic) restrict interest; the Jubilee is the Jewish structural solution
 - [[Weber Protestant Ethic]] -- Weber's Calvinists accumulate; the Jubilee tradition limits accumulation -- two theological responses to the same economic forces

@@ -25,7 +25,7 @@ Prion diseases (CJD, BSE, kuru, scrapie) are caused by misfolded proteins. The n
 
 ## Connections
 
-- [[Cancer]] -- both are self-propagating pathological structures (-> [[Meta-Pattern 06]])
+- [[Cancer]] -- both are self-propagating pathological structures
 - [[DNA as Communication]] -- DNA transmits faithfully; prions are transmission of corruption
 - [[Disinformation Ecosystems]] -- both are self-replicating fabrication: each converted unit converts more
 - [[Autoimmune Disease]] -- both involve molecular misclassification

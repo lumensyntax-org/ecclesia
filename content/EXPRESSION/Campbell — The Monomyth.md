@@ -24,7 +24,7 @@ Campbell identified a recurring narrative structure across mythologies worldwide
 ## Connections
 
 - [[Shakespeare's Tragedies]] -- the tragic hero as monomyth inverted: the return fails
-- [[Rites of Passage]] -- the hero's journey as mythic rite of passage (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Rites of Passage]] -- the hero's journey as mythic rite of passage
 - [[Pilgrimage Across Traditions]] -- pilgrimage as the monomyth enacted physically
 - [[The Fall]] -- departure from innocence as the original hero's journey
 - [[Prometheus]] -- the hero who brings the boon (fire) but cannot return

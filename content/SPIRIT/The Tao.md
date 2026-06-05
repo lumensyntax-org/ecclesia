@@ -21,7 +21,7 @@ Non-fabrication: the opening verse is a radical statement -- the moment you name
 ## Connections
 
 - [[Logos in John 1-1]] -- Tao-Logos parallel noted by scholars and translators
-- [[Wittgenstein]] -- "Whereof one cannot speak, thereof one must be silent" -- same boundary (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Wittgenstein]] -- "Whereof one cannot speak, thereof one must be silent" -- same boundary
 - [[Abstract Art as Non-Fabrication]] -- Malevich's *Black Square* as limit of representation
 - [[Buddhist Middle Way]] -- proportion as path; *wu wei* as Taoist equivalent
 - [[Simone Weil]] -- attention as non-forcing; Weil's "waiting" parallels *wu wei*

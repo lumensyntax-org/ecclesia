@@ -24,7 +24,7 @@ Euler proved no walk crosses each Konigsberg bridge exactly once, by abstracting
 ## Connections
 
 - [[Distributed Systems and Consensus]] -- network structure determines consensus feasibility
-- [[Network Effects and Lock-In]] -- hub dominance creates lock-in (-> [[Meta-Pattern 06]])
+- [[Network Effects and Lock-In]] -- hub dominance creates lock-in
 - [[Graceful Degradation vs Catastrophic Failure]] -- hub failure causes cascading collapse
 - [[Langlands Program]] -- both reveal hidden connections between separate structures
 - [[Corruption]] -- corruption networks follow power-law degree distributions

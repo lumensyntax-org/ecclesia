@@ -25,7 +25,7 @@ This is the **Knowledge-Action Gap** at medical scale. We know overuse creates r
 
 ## Connections
 
-- [[Technical Debt]] -- both are Knowledge-Action Gaps: known problems, contradictory action (-> [[Meta-Pattern 03]])
+- [[Technical Debt]] -- both are Knowledge-Action Gaps: known problems, contradictory action
 - [[Materials Science]] -- both are known limits overridden by institutional pressure
 - [[Arendt Banality of Evil]] -- institutional structures overriding individual knowledge
 - [[Error-Correcting Codes]] -- bacteria evolve error correction (resistance) against our error correction (antibiotics)

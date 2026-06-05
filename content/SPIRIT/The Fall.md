@@ -21,7 +21,7 @@ The Fall is the emergence of the Knowledge-Action Gap at the species level. Befo
 ## Connections
 
 - [[Tower of Babel]] -- the next attempt to bridge the gap by force
-- [[Jaynes — Bicameral Mind]] -- the emergence of the Knowledge-Action Gap within the individual (-> [[Meta-Pattern 04: The Instrument Trap]])
+- [[Jaynes — Bicameral Mind]] -- the emergence of the Knowledge-Action Gap within the individual
 - [[Kierkegaard]] -- anxiety as consciousness of freedom that the Fall inaugurated
 - [[Girard — Mimetic Desire and Scapegoat]] -- blame as the first scapegoating
 - [[Shakespeare's Tragedies]] -- Hamlet's K-A Gap; Othello's acceptance of fabrication

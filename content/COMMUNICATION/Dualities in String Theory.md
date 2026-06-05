@@ -25,7 +25,7 @@ Within string theory's mathematical framework, structures that appear to be oppo
 
 - [[String Theory]] -- dualities exist within the string theory framework
 - [[The Landscape Problem]] -- the landscape question: feature or failure?
-- [[Topology]] -- topological equivalences parallel dualities: different surfaces, same structure (-> [[Meta-Pattern 12]])
+- [[Topology]] -- topological equivalences parallel dualities: different surfaces, same structure
 - [[Maxwell's Unification]] -- unification through revealing apparent diversity as single phenomenon
 - [[Continuum Hypothesis]] -- both involve questions that resist resolution from within the framework
 

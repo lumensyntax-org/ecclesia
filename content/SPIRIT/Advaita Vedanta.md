@@ -20,7 +20,7 @@ Non-fabrication: *Pratibhasika* is literally the fabrication of structure where 
 
 ## Connections
 
-- [[Kant]] -- phenomena/noumena parallel to Vyavaharika/Paramarthika (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Kant]] -- phenomena/noumena parallel to Vyavaharika/Paramarthika
 - [[Hindu Mysticism]] -- Atman equals Brahman; the Upanishadic foundation
 - [[Wittgenstein]] -- the boundary of language parallels the boundary between reality levels
 - [[Godel's Incompleteness Theorems]] -- the system cannot fully know itself from within

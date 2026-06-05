@@ -20,7 +20,7 @@ Non-fabrication: apophatic theology is non-fabrication applied to the highest ob
 
 ## Connections
 
-- [[Wittgenstein]] -- proposition 7 as the philosopher's apophasis (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Wittgenstein]] -- proposition 7 as the philosopher's apophasis
 - [[The Tao]] -- "The Tao that can be told is not the eternal Tao" as Taoist apophasis
 - [[Kabbalah]] -- Ein Sof as unknowable; Kabbalistic negative theology
 - [[Sufism]] -- *fana* (annihilation) parallels the dark night

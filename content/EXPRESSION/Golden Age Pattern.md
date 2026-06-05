@@ -20,7 +20,7 @@ This is MYSTERY_EXPLORATION -- the mapping is tentative. Flourishing phases show
 ## Connections
 
 - [[The Flood Narrative]] -- civilizational collapse as structural consequence of misalignment
-- [[Tower of Babel]] -- overreach and fall (-> [[Meta-Pattern 04: The Instrument Trap]])
+- [[Tower of Babel]] -- overreach and fall
 - [[The Axial Age]] -- the original golden age that produced reflective consciousness
 - [[Nietzsche — God Is Dead]] -- the collapse of the framework that grounded Western values
 - [[Planetary Boundaries]] -- modern structural parallel: exceeding the envelope

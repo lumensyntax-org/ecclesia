@@ -26,7 +26,7 @@ European colonialism involved conquest, administration, and exploitation of terr
 ## Connections
 
 - [[Slavery]] -- slavery was a central mechanism of colonial extraction
-- [[Corruption]] -- colonial administration was institutionalized extraction (-> [[Meta-Pattern 06]])
+- [[Corruption]] -- colonial administration was institutionalized extraction
 - [[Propaganda]] -- the "civilizing mission" is propaganda at civilizational scale
 - [[Network Effects and Lock-In]] -- colonial economic structures created lock-in for colonized peoples
 - [[Systemic Racism]] -- colonialism established the racial hierarchies that systemic racism perpetuates

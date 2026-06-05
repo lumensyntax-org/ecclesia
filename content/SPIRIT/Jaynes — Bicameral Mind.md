@@ -21,7 +21,7 @@ Honesty: the breakdown of the bicameral mind is the moment when humans can no lo
 ## Connections
 
 - [[The Fall]] -- parallel narrative: self-consciousness as separation and loss
-- [[The Axial Age]] -- Jaynes's timeline overlaps with Jaspers's; both describe the emergence of reflective consciousness (-> [[Meta-Pattern 04: The Instrument Trap]])
+- [[The Axial Age]] -- Jaynes's timeline overlaps with Jaspers's; both describe the emergence of reflective consciousness
 - [[Socrates]] -- the Socratic daimonion as vestigial bicameral voice
 - [[Asch Conformity]] -- social fabrication replacing inner authority
 - [[Terror Management Theory]] -- cultural worldviews as replacement for lost divine voices

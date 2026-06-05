@@ -21,7 +21,7 @@ Humility: the entire structure is designed to make the human being aware of thei
 ## Connections
 
 - [[Egyptian Pyramids]] -- sacred architecture encoding proportion across millennia
-- [[Hindu Temples]] -- temple as microcosm; each tradition's architecture reflecting its cosmology (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Hindu Temples]] -- temple as microcosm; each tradition's architecture reflecting its cosmology
 - [[Islamic Mosques and Geometric Pattern]] -- sacred space through different means: geometry instead of figuration
 - [[Bach's Well-Tempered Clavier]] -- hearing theological order, as the cathedral makes it visible
 - [[Axis Mundi]] -- the cathedral as vertical axis connecting earth and heaven

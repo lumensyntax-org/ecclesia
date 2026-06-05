@@ -26,7 +26,7 @@ Open source software makes its source code publicly available for inspection, mo
 - [[Cathedral and the Bazaar]] -- Raymond's direct comparison of development models
 - [[Version Control]] -- Git enabled distributed open-source collaboration
 - [[Distributed Systems and Consensus]] -- open source is consensus among distributed developers
-- [[Propaganda]] -- propaganda requires hidden mechanisms; open source eliminates them (-> [[Meta-Pattern 06]])
+- [[Propaganda]] -- propaganda requires hidden mechanisms; open source eliminates them
 - [[Disinformation Ecosystems]] -- transparency is the structural antidote to fabrication at scale
 
 ## Status

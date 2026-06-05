@@ -24,9 +24,9 @@ The human menstrual cycle averages 28 days and is governed by a hormonal cascade
 
 ## Connections
 
-- [[Kidney and Nephron Filtration]] -- both use hormonal feedback to maintain homeostasis (-> [[Meta-Pattern 09 - Feedback and Homeostasis]])
+- [[Kidney and Nephron Filtration]] -- both use hormonal feedback to maintain homeostasis
 - [[Heart and Cardiac Valves]] -- Frank-Starling and HPG axis are both feedback systems matching output to need
-- [[Apoptosis in Development]] -- menstrual shedding parallels developmental apoptosis: removing structure that has no current function (-> [[Meta-Pattern 15 - Death as Function]])
+- [[Apoptosis in Development]] -- menstrual shedding parallels developmental apoptosis: removing structure that has no current function
 - [[Predictive Coding and Free Energy Principle]] -- both are cyclical prediction-correction systems
 - [[Terror Management Theory]] -- TMT explains why we resist accepting that structures must be dismantled; the menstrual cycle enacts it biologically without resistance
 

@@ -27,7 +27,7 @@ Raymond contrasted two development models: the cathedral (small team, controlled
 
 - [[Open Source]] -- the bazaar model is the organizational principle of open source
 - [[Distributed Systems and Consensus]] -- bazaar development is distributed consensus on code
-- [[Propaganda]] -- propaganda is the anti-bazaar: closed production of messaging (-> [[Meta-Pattern 06]])
+- [[Propaganda]] -- propaganda is the anti-bazaar: closed production of messaging
 - [[Just War Theory]] -- both frameworks apply structural principles to complex collective action
 - [[Langlands Program]] -- both reveal unity beneath apparent diversity of approach
 

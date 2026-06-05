@@ -26,7 +26,7 @@ In Hamilton's play, a husband systematically dims the gas lights while insisting
 - [[Propaganda]] -- both exploit the victim's intact honesty norm; gaslighting is intimate-scale propaganda
 - [[Confidence Trick]] -- both require building trust before exploitation
 - [[Language as Meta-Instrument]] -- gaslighting weaponizes language's capacity for confident assertion
-- [[Autoimmune Disease]] -- autoimmunity attacks self-recognition; gaslighting attacks self-trust (-> [[Meta-Pattern 03]])
+- [[Autoimmune Disease]] -- autoimmunity attacks self-recognition; gaslighting attacks self-trust
 - [[Testing]] -- tests verify claims against reality; gaslighting removes the victim's capacity to test
 
 ## Status

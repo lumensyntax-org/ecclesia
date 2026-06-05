@@ -26,7 +26,7 @@ In the Standard Model, forces are the exchange of particles. When two electrons 
 - [[Spectroscopy]] -- atoms communicate identity through photon exchange
 - [[Chemical Signaling]] -- biological signaling parallels force mediation: molecule as message
 - [[DNA as Communication]] -- communication across 3.5 billion years; forces communicate across the universe
-- [[Error-Correcting Codes]] -- both are honest communication through structured channels (-> [[Meta-Pattern 01]])
+- [[Error-Correcting Codes]] -- both are honest communication through structured channels
 - [[Encryption and Hashing]] -- both ensure message integrity: physics by structure, cryptography by mathematics
 
 ## Status

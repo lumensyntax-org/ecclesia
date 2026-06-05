@@ -24,7 +24,7 @@ Genomic imprinting is an epigenetic phenomenon where certain genes are expressed
 
 ## Connections
 
-- [[Gut-Brain Axis]] -- both balance competing demands through structural mechanisms rather than dominance (-> [[Meta-Pattern 17 - Cooperation from Competition]])
+- [[Gut-Brain Axis]] -- both balance competing demands through structural mechanisms rather than dominance
 - [[Blood-Brain Barrier]] -- both restrict authority based on source rather than content alone
 - [[Horizontal Gene Transfer]] -- both concern how genetic information's authority depends on its origin
 - [[Asch Conformity]] -- Asch shows social pressure overriding individual perception; imprinting shows genetic "pressure" from each parent balanced structurally

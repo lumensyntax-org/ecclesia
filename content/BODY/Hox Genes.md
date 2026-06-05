@@ -24,9 +24,9 @@ Hox genes are transcription factors specifying anterior-posterior body axis iden
 
 ## Connections
 
-- [[Central Dogma]] -- Hox genes are the regulatory layer above the Central Dogma's invariant code (-> [[Meta-Pattern 07 - Hierarchical Modularity]])
+- [[Central Dogma]] -- Hox genes are the regulatory layer above the Central Dogma's invariant code
 - [[Gastrulation]] -- gastrulation establishes three layers; Hox genes pattern within those layers
-- [[Epigenetics]] -- both show how the same underlying code produces different outcomes through context (-> [[Meta-Pattern 16 - Compression Equals Meaning]])
+- [[Epigenetics]] -- both show how the same underlying code produces different outcomes through context
 - [[Mirror Neurons]] -- both show the same code used across different contexts (Hox across species, mirror neurons across self/other)
 - [[Illusionism]] -- Hox genes are a structural toolkit, not a teleological plan; illusionism argues consciousness is structural, not phenomenal
 

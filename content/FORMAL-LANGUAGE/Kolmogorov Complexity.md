@@ -23,9 +23,9 @@ Kolmogorov complexity defines the complexity of a finite object as the length of
 
 ## Connections
 
-- [[Halting Problem]] -- uncomputability of Kolmogorov complexity follows from undecidability (-> [[Meta-Pattern 06]])
+- [[Halting Problem]] -- uncomputability of Kolmogorov complexity follows from undecidability
 - [[Big-O Notation]] -- both formalize relationships between structure and resource cost
-- [[Topology]] -- both strip inessential detail to reveal core structure (-> [[Meta-Pattern 16]])
+- [[Topology]] -- both strip inessential detail to reveal core structure
 - [[Golden Ratio]] -- Kolmogorov is the formal test for whether a claimed pattern is real
 - [[Disinformation Ecosystems]] -- fabricated patterns fail the compression test
 

@@ -23,7 +23,7 @@ Bernays argued that conscious manipulation of the masses was essential to democr
 
 ## Connections
 
-- [[Language as Meta-Instrument]] -- propaganda weaponizes language's capacity for aligned messaging (-> [[Meta-Pattern 06]])
+- [[Language as Meta-Instrument]] -- propaganda weaponizes language's capacity for aligned messaging
 - [[Open Source]] -- transparency is the structural opposite of propaganda
 - [[Gaslighting]] -- both exploit the victim's honesty; propaganda at scale, gaslighting in relationship
 - [[Disinformation Ecosystems]] -- industrial evolution of propaganda techniques

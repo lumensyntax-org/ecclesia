@@ -25,7 +25,7 @@ Big-O notation describes the asymptotic upper bound of an algorithm's resource c
 
 - [[Turing Completeness]] -- Big-O measures cost within the space Turing completeness defines
 - [[Kolmogorov Complexity]] -- both formalize relationships between structure and resource cost
-- [[Zeno's Paradoxes and Calculus]] -- both analyze asymptotic behavior of processes (-> [[Meta-Pattern 04]])
+- [[Zeno's Paradoxes and Calculus]] -- both analyze asymptotic behavior of processes
 - [[Feedback Control]] -- PID tuning and algorithm optimization: proportion between input and response
 - [[Halting Problem]] -- both address fundamental limits of computation
 

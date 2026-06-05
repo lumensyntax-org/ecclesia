@@ -28,7 +28,7 @@ The structural signature: disinformation weaponizes the cost asymmetry between f
 ## Connections
 
 - [[Propaganda]] -- disinformation ecosystems are the industrial evolution of propaganda
-- [[Prion Diseases]] -- both are self-replicating fabrication: each converted unit converts more (-> [[Meta-Pattern 06]])
+- [[Prion Diseases]] -- both are self-replicating fabrication: each converted unit converts more
 - [[Open Source]] -- transparency is the structural antidote to disinformation
 - [[Kolmogorov Complexity]] -- fabricated patterns fail the compression test
 - [[Language as Meta-Instrument]] -- industrial weaponization of language's fabrication capacity

@@ -25,7 +25,7 @@ Bayes' theorem: P(H|E) = P(E|H) * P(H) / P(E). The posterior probability of a hy
 
 ## Connections
 
-- [[Testing]] -- both update confidence based on evidence (-> [[Meta-Pattern 01]])
+- [[Testing]] -- both update confidence based on evidence
 - [[Error-Correcting Codes]] -- both are formal frameworks for maintaining signal integrity
 - [[Photoelectric Effect]] -- Millikan's honest updating despite theoretical commitments
 - [[Technical Debt]] -- failing to update code is refusing to update beliefs

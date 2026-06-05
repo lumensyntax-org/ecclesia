@@ -23,7 +23,7 @@ Every element has a unique spectral fingerprint -- specific wavelengths at which
 
 ## Connections
 
-- [[Encryption and Hashing]] -- spectral fingerprints and content hashes: unforgeable identity (-> [[Meta-Pattern 01]])
+- [[Encryption and Hashing]] -- spectral fingerprints and content hashes: unforgeable identity
 - [[DNA as Communication]] -- both are honest identity declarations transmitted faithfully
 - [[Version Control]] -- git hashes and spectral lines: content-addressable identity
 - [[Maxwell's Unification]] -- spectroscopy is a direct application of unified EM theory

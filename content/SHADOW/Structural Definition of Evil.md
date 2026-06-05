@@ -27,7 +27,7 @@ The implication: the response to evil is not to abandon the properties (which wo
 - [[Girard Scapegoat]] -- Girard's analysis of violence disguised as justice
 - [[Propaganda]] -- the paradigmatic case: alignment weaponized
 - [[Cancer]] -- cancer uses the organism's own mechanisms against it: the biological parallel
-- [[Error-Correcting Codes]] -- error correction detects corruption; the Shadow is the pattern's error-correction capacity (-> [[Meta-Pattern 01]])
+- [[Error-Correcting Codes]] -- error correction detects corruption; the Shadow is the pattern's error-correction capacity
 
 ## Status
 

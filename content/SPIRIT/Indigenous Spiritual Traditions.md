@@ -21,7 +21,7 @@ Honesty: the land does not lie. What the river does, what the mountain is, what 
 ## Connections
 
 - [[Oral Tradition and Songlines]] -- songlines as knowledge-preservation through structure
-- [[Stonehenge and Megalithic Structures]] -- knowledge embedded in landscape before writing (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Stonehenge and Megalithic Structures]] -- knowledge embedded in landscape before writing
 - [[Pilgrimage Across Traditions]] -- the land as teacher; the journey as transformation
 - [[Heidegger]] -- *aletheia* as letting reality unconceal itself; land-based knowledge as natural aletheia
 - [[Axis Mundi]] -- the sacred mountain as connection between worlds

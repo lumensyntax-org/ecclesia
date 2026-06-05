@@ -21,7 +21,7 @@ Humility: Prometheus exceeds legitimate scope. Whether he is hero or transgresso
 ## Connections
 
 - [[Tower of Babel]] -- parallel narrative: technology reaching beyond legitimate scope
-- [[The Fall]] -- knowledge as simultaneously gift and separation (-> [[Meta-Pattern 04: The Instrument Trap]])
+- [[The Fall]] -- knowledge as simultaneously gift and separation
 - [[Planetary Boundaries]] -- civilization using fire (fossil fuels) beyond proportional limits
 - [[Golden Age Pattern]] -- the Promethean gift and the end of the mythic Golden Age
 - [[Campbell — The Monomyth]] -- the hero who brings a boon; Prometheus as hero who cannot return

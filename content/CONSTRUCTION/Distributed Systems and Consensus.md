@@ -27,7 +27,7 @@ The Byzantine Generals Problem: how can distributed nodes reach agreement when s
 
 - [[Encryption and Hashing]] -- cryptographic verification underlies distributed consensus
 - [[Redundancy in Aviation]] -- triple redundancy is Byzantine fault tolerance in hardware
-- [[Ponzi Schemes]] -- Ponzi schemes succeed where verification fails; BFT prevents this (-> [[Meta-Pattern 01]])
+- [[Ponzi Schemes]] -- Ponzi schemes succeed where verification fails; BFT prevents this
 - [[Autoimmune Disease]] -- immune consensus on self/non-self parallels distributed consensus
 - [[Open Source]] -- open-source development is consensus among distributed contributors
 

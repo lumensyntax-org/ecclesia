@@ -22,7 +22,7 @@ Domestic violence (intimate partner violence) is a pattern of coercive control i
 - [[Gaslighting]] -- the primary psychological mechanism of domestic violence (SHADOW domain)
 - [[Gottman's Four Horsemen]] -- the Horsemen at their most extreme become coercive control
 - [[Trust and Betrayal]] -- domestic violence is betrayal trauma within the most intimate relationship
-- [[Colonialism]] -- the Instrument Trap at civilizational scale parallels domestic violence at intimate scale (SHADOW domain) (-> [[Meta-Pattern 08: The Instrument Trap]])
+- [[Colonialism]] -- the Instrument Trap at civilizational scale parallels domestic violence at intimate scale (SHADOW domain)
 - [[Boundaries]] -- domestic violence is the total destruction of boundaries
 
 ## Status

@@ -24,7 +24,7 @@ The blood-brain barrier is formed by endothelial cells connected by tight juncti
 
 ## Connections
 
-- [[Kidney and Nephron Filtration]] -- both are biological equators separating inside from outside (-> [[Meta-Pattern 02 - The Boundary Pre-Exists]])
+- [[Kidney and Nephron Filtration]] -- both are biological equators separating inside from outside
 - [[Genetic Imprinting]] -- both restrict authority based on provenance rather than content
 - [[Higher-Order Theories of Consciousness]] -- the equator needs meta-representation; the BBB is a physical boundary that defines scope
 - [[Buddhist Anatta]] -- the BBB demonstrates that boundaries enable function; anatta teaches that constructed boundaries are not ultimate

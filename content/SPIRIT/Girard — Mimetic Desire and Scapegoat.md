@@ -21,7 +21,7 @@ Non-fabrication: the scapegoat mechanism is the fabrication of guilt where none 
 ## Connections
 
 - [[The Fall]] -- blame as the first scapegoating mechanism
-- [[Shakespeare's Tragedies]] -- Othello accepts fabricated guilt; the crowd as structural force (-> [[Meta-Pattern 04: The Instrument Trap]])
+- [[Shakespeare's Tragedies]] -- Othello accepts fabricated guilt; the crowd as structural force
 - [[Sacrifice Across Traditions]] -- Girard's reading of sacrifice as concealed violence
 - [[Asch Conformity]] -- the mechanism by which the crowd enforces fabricated consensus
 - [[Levinas — Face of the Other]] -- the scapegoat's face is the face the crowd refuses to see

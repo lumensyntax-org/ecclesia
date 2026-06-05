@@ -28,7 +28,7 @@ Girard proposed that communities resolve internal violence through collective pr
 ## Connections
 
 - [[Genocide]] -- genocide is the scapegoat mechanism at civilizational scale
-- [[Propaganda]] -- propaganda provides the narrative infrastructure for scapegoating (-> [[Meta-Pattern 06]])
+- [[Propaganda]] -- propaganda provides the narrative infrastructure for scapegoating
 - [[Logos in John 1-1]] -- Girard's reading: the Gospels expose the mechanism by taking the victim's side
 - [[Confidence Trick]] -- both require the victim/community to believe the fabrication sincerely
 - [[Bayesian Inference]] -- the scapegoat mechanism is the failure to update: the community does not examine evidence

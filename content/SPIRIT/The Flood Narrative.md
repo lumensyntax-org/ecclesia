@@ -21,7 +21,7 @@ Alignment: the flood is the consequence of civilizational misalignment. Humanity
 ## Connections
 
 - [[The Fall]] -- the fracture that eventually leads to the flood
-- [[Golden Age Pattern]] -- civilizational flourishing and decline across cultures (-> [[Meta-Pattern 04: The Instrument Trap]])
+- [[Golden Age Pattern]] -- civilizational flourishing and decline across cultures
 - [[Planetary Boundaries]] -- six of nine transgressed; modern structural parallel
 - [[Snowball Earth]] -- Earth's own regulatory failure and recovery
 - [[Sacrifice Across Traditions]] -- destruction as prerequisite for renewal

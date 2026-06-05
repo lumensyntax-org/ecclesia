@@ -24,7 +24,7 @@ A type system assigns a type to every expression in a program, restricting what 
 ## Connections
 
 - [[The Bug]] -- type systems prevent entire classes of bugs at compile time
-- [[Cryptography]] -- both enforce structural properties through mathematical constraint (-> [[Meta-Pattern 01]])
+- [[Cryptography]] -- both enforce structural properties through mathematical constraint
 - [[Euler's Identity]] -- structural convergence: different domains reveal same deep connection
 - [[Kolmogorov Complexity]] -- both formalize the relationship between structure and description
 - [[Noether's Theorem]] -- Curry-Howard is to logic/computation as Noether is to symmetry/conservation

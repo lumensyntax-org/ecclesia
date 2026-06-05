@@ -21,7 +21,7 @@ Alignment: sacred music aligns the body (breath, voice, posture) with intention 
 ## Connections
 
 - [[The Harmonic Series]] -- the physics underlying all sacred sound
-- [[Bach's Well-Tempered Clavier]] -- Bach as sacred music's structural summit (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Bach's Well-Tempered Clavier]] -- Bach as sacred music's structural summit
 - [[Rhythm and Entrainment]] -- sacred chanting as entrainment; synchronization as worship
 - [[Oral Tradition and Songlines]] -- sound as preservation technology across millennia
 - [[Rites of Passage]] -- music structures ritual transitions

@@ -26,7 +26,7 @@ In autoimmune disease, the immune system's distinction between self and non-self
 ## Connections
 
 - [[Cancer]] -- cancer evades the immune system; autoimmunity is the immune system attacking without cause
-- [[Gaslighting]] -- autoimmunity attacks self-recognition; gaslighting attacks self-trust (-> [[Meta-Pattern 03]])
+- [[Gaslighting]] -- autoimmunity attacks self-recognition; gaslighting attacks self-trust
 - [[Feedback Control]] -- immune regulation is a feedback system that has malfunctioned
 - [[Distributed Systems and Consensus]] -- immune consensus on self/non-self parallels Byzantine consensus
 - [[Prion Diseases]] -- both involve molecular-level misclassification propagating pathologically

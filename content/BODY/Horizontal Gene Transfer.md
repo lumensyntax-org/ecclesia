@@ -24,7 +24,7 @@ Horizontal gene transfer is transmission of genetic material between organisms o
 
 ## Connections
 
-- [[Genetic Imprinting]] -- both concern the authority of genetic information based on its source (-> [[Meta-Pattern 17 - Cooperation from Competition]])
+- [[Genetic Imprinting]] -- both concern the authority of genetic information based on its source
 - [[Central Dogma]] -- HGT genes still follow DNA-to-RNA-to-protein; the transfer mechanism is novel, the expression is invariant
 - [[Gut-Brain Axis]] -- both are systems where boundaries are permeable and communication is bidirectional
 - [[Girard Mimetic Desire]] -- mimetic desire "transfers" wants across social boundaries; HGT transfers genes across species boundaries

@@ -23,11 +23,11 @@ DNA is a message -- a sequence of four nucleotide bases (A, T, G, C) encoding in
 
 ## Connections
 
-- [[Error-Correcting Codes]] -- DNA proofreading IS error correction on a molecular sequence (-> [[Meta-Pattern 01]])
+- [[Error-Correcting Codes]] -- DNA proofreading IS error correction on a molecular sequence
 - [[Version Control]] -- both are hash-verified records persisting across time
 - [[Spectroscopy]] -- both are unforgeable identity declarations
 - [[Encryption and Hashing]] -- integrity through structured redundancy
-- [[Prion Diseases]] -- prions are fabrication propagating through DNA's substrate (-> [[Meta-Pattern 10]])
+- [[Prion Diseases]] -- prions are fabrication propagating through DNA's substrate
 - [[Far-From-Equilibrium]] -- life is a dissipative structure; DNA is its persistent message
 
 ## Status

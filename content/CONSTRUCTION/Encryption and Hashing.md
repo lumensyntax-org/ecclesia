@@ -24,7 +24,7 @@ Cryptographic hash functions (SHA-256) take arbitrary input and produce a fixed-
 ## Connections
 
 - [[Version Control]] -- Git uses SHA-1 hashes as its integrity mechanism
-- [[Cryptography]] -- public-key cryptography provides the asymmetric complement (-> [[Meta-Pattern 01]])
+- [[Cryptography]] -- public-key cryptography provides the asymmetric complement
 - [[DNA as Communication]] -- DNA error correction and cryptographic integrity: both bind content to identity
 - [[Spectroscopy]] -- spectral fingerprints and cryptographic hashes: unforgeable identity declarations
 - [[Distributed Systems and Consensus]] -- Byzantine fault tolerance uses cryptographic verification

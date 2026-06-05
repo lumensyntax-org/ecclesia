@@ -25,7 +25,7 @@ Git is a distributed version control system using content-addressable storage: e
 
 ## Connections
 
-- [[Encryption and Hashing]] -- Git uses the same cryptographic primitives (-> [[Meta-Pattern 01]])
+- [[Encryption and Hashing]] -- Git uses the same cryptographic primitives
 - [[DNA as Communication]] -- both are hash-verified records persisting across time
 - [[Open Source]] -- Git enabled distributed open-source collaboration
 - [[Spectroscopy]] -- spectral fingerprints and content hashes: identity declared honestly

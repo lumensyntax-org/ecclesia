@@ -21,7 +21,7 @@ Alignment: attention is the alignment between intention and awareness -- you int
 ## Connections
 
 - [[Kenosis]] -- attention as cognitive kenosis; Weil explicitly connects the two
-- [[Heidegger]] -- *aletheia* (unconcealment) parallels Weil's attention as letting reality appear (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Heidegger]] -- *aletheia* (unconcealment) parallels Weil's attention as letting reality appear
 - [[The Tao]] -- *wu wei* as non-forcing; Weil's "waiting" as Western *wu wei*
 - [[Levinas — Face of the Other]] -- the Face demands attention that precedes any concept
 - [[Bach's Well-Tempered Clavier]] -- the composer serves the structure; Weil's attention serves reality

@@ -25,7 +25,7 @@ A five-note scale built from whole tones and minor thirds, with no semitones. It
 ## Connections
 
 - [[The Harmonic Series]] -- the pentatonic as proportional subset of the harmonic series
-- [[The Golden Rule]] -- independent convergence across unconnected traditions (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[The Golden Rule]] -- independent convergence across unconnected traditions
 - [[The Concept of Zero]] -- independently discovered in multiple civilizations
 - [[Writing Systems]] -- another convergent invention from structural need
 - [[Buddhist Middle Way]] -- expressiveness through what is omitted; proportion as path

@@ -24,7 +24,7 @@ Biological organisms communicate through molecules. Hormones travel through bloo
 ## Connections
 
 - [[Forces as Communication]] -- molecular signaling parallels force mediation: specific carrier, specific response
-- [[Feedback Control]] -- hormonal cascades are biological feedback control systems (-> [[Meta-Pattern 09]])
+- [[Feedback Control]] -- hormonal cascades are biological feedback control systems
 - [[Cancer]] -- cancer fabricates chemical signals; honest signaling is what cancer violates
 - [[Addiction]] -- addiction hijacks chemical signaling: substance overwhelms natural signal proportion
 - [[Autoimmune Disease]] -- immune signaling malfunction: self misclassified as threat

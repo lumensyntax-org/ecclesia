@@ -24,7 +24,7 @@ Well-designed systems respond to stress proportionally: partial failures degrade
 ## Connections
 
 - [[Redundancy in Aviation]] -- Swiss cheese model: defense against cascading failure
-- [[Feedback Control]] -- circuit breakers are feedback mechanisms that limit error propagation (-> [[Meta-Pattern 09]])
+- [[Feedback Control]] -- circuit breakers are feedback mechanisms that limit error propagation
 - [[The Arms Race]] -- cascading escalation without proportional control
 - [[Autoimmune Disease]] -- immune cascades: proportional failure in biological systems
 - [[Disinformation Ecosystems]] -- information cascades parallel power grid cascades

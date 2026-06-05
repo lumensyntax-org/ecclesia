@@ -22,7 +22,7 @@ Cooley proposed the "looking-glass self": our sense of self forms through percei
 
 ## Connections
 
-- [[Narcissus]] -- Cooley is Narcissus looking at others looking at him (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Narcissus]] -- Cooley is Narcissus looking at others looking at him
 - [[Lacan Mirror Stage]] -- Lacan's mirror is optical; Cooley's is social -- different mirrors, same structure of misrecognition
 - [[Winnicott Mother as First Mirror]] -- Winnicott's mother-as-mirror is the infant version of Cooley's looking-glass self
 - [[Mirror Neurons]] -- mirror neurons are the neural substrate; Cooley's theory is the social description

@@ -24,7 +24,7 @@ Bottom-quartile performers estimated themselves near the 62nd percentile. The sk
 
 ## Connections
 
-- [[Split-Brain and Left Hemisphere Interpreter]] -- both involve confident claims without access to the relevant information (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Split-Brain and Left Hemisphere Interpreter]] -- both involve confident claims without access to the relevant information
 - [[Higher-Order Theories of Consciousness]] -- HOT requires meta-representation; D-K is the failure of meta-representation applied to competence
 - [[System 1 and System 2]] -- D-K is System 1 applied to self-evaluation
 - [[Telomeres and Cellular Aging]] -- telomeres structurally enforce limits; D-K shows what happens when limits cannot be self-detected

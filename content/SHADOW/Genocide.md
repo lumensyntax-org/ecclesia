@@ -22,7 +22,7 @@ All five, simultaneously and maximally.
 ## Connections
 
 - [[Arendt Banality of Evil]] -- Arendt's structural analysis of how genocide is executed by ordinary people
-- [[Girard Scapegoat]] -- the scapegoat mechanism at civilizational scale (-> [[Meta-Pattern 06]])
+- [[Girard Scapegoat]] -- the scapegoat mechanism at civilizational scale
 - [[Propaganda]] -- dehumanization requires propaganda infrastructure
 - [[Slavery]] -- both claim authority over human existence; slavery over labor, genocide over life
 - [[Just War Theory]] -- genocide is the total failure of every just-war principle simultaneously

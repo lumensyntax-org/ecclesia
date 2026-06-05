@@ -24,7 +24,7 @@ The Langlands program is a web of conjectures connecting number theory, harmonic
 ## Connections
 
 - [[Euler's Identity]] -- both reveal structural unity across mathematical domains
-- [[Maxwell's Unification]] -- physical unification parallels mathematical unification (-> [[Meta-Pattern 12]])
+- [[Maxwell's Unification]] -- physical unification parallels mathematical unification
 - [[Four Fundamental Forces]] -- both seek unity beneath apparent diversity
 - [[Cathedral and the Bazaar]] -- Langlands is the cathedral model: deep architectural vision guiding collective effort
 - [[Graph Theory and Networks]] -- both reveal hidden connections between apparently separate structures

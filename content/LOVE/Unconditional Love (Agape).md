@@ -20,7 +20,7 @@ Agape is love given without condition of return. Nygren argued it is spontaneous
 
 ## Connections
 
-- [[Kenosis]] -- God empties himself to make relation possible; agape is the relational content of kenosis (SPIRIT domain) (-> [[Meta-Pattern 13: Sacrifice / Kenosis / Self-Emptying]])
+- [[Kenosis]] -- God empties himself to make relation possible; agape is the relational content of kenosis (SPIRIT domain)
 - [[Forgiveness]] -- forgiveness is agape enacted after harm
 - [[Logos in John 1-1]] -- "God is love" (1 John 4:8) connects agape to the Logos that creates through relation (SPIRIT domain)
 - [[Levinas — Face of the Other]] -- the infinite demand of the Face is what agape responds to (SPIRIT domain)

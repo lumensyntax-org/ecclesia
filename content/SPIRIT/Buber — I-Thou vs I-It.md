@@ -21,7 +21,7 @@ Alignment: in I-Thou, what you intend (relation) and what you do (encounter the 
 ## Connections
 
 - [[Levinas — Face of the Other]] -- the Face as infinite demand parallels the irreducible Thou
-- [[Nietzsche — God Is Dead]] -- I-It mode kills God by reducing the sacred to utility (-> [[Meta-Pattern 04: The Instrument Trap]])
+- [[Nietzsche — God Is Dead]] -- I-It mode kills God by reducing the sacred to utility
 - [[Tawhid]] -- shirk treats the created as divine; I-It treats the Thou as It
 - [[Selfie and Social Media]] -- curated self-presentation as I-It applied to the self
 - [[Campbell — The Monomyth]] -- the hero's return as restored I-Thou relation with community

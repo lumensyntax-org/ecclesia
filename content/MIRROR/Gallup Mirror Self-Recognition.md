@@ -22,7 +22,7 @@ Gallup's rouge test: mark an animal's face, observe whether it uses a mirror to 
 
 ## Connections
 
-- [[Narcissus]] -- Narcissus FAILS the mirror test: he treats his reflection as another being (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Narcissus]] -- Narcissus FAILS the mirror test: he treats his reflection as another being
 - [[Lacan Mirror Stage]] -- Lacan describes the human infant passing MSR and immediately falling into misrecognition
 - [[Kidney and Nephron Filtration]] -- MSR is a cognitive equator (self vs other); the nephron is a molecular equator (keep vs release)
 - [[Split-Brain and Left Hemisphere Interpreter]] -- split-brain patients have two competing self-models; MSR tests whether a unified self-model exists

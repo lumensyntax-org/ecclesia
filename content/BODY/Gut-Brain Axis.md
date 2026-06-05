@@ -24,7 +24,7 @@ The enteric nervous system contains hundreds of millions of neurons. Communicati
 
 ## Connections
 
-- [[Genetic Imprinting]] -- both balance competing demands through structural mechanisms rather than one side dominating (-> [[Meta-Pattern 17 - Cooperation from Competition]])
+- [[Genetic Imprinting]] -- both balance competing demands through structural mechanisms rather than one side dominating
 - [[Menstrual Cycle]] -- both are hierarchical systems where the hierarchy listens to feedback
 - [[Cooley Looking-Glass Self]] -- the social self is bidirectional like the gut-brain axis: neither self nor other fully commands
 - [[Milgram Obedience]] -- Milgram shows what happens when hierarchy stops listening; the gut-brain axis shows hierarchy that works because afferent exceeds efferent

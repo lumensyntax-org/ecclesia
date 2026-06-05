@@ -25,7 +25,7 @@ Writing was invented independently at least three times, possibly four. In each 
 ## Connections
 
 - [[Oral Tradition and Songlines]] -- the technology writing eventually supplemented
-- [[The Concept of Zero]] -- independent invention from structural need (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[The Concept of Zero]] -- independent invention from structural need
 - [[Stonehenge and Megalithic Structures]] -- knowledge embedded in stone before text
 - [[Pentatonic Scale]] -- another convergent discovery from shared constraints
 - [[The Golden Rule]] -- cross-cultural convergence on structural necessity

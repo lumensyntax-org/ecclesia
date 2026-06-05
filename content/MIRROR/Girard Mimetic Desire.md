@@ -24,7 +24,7 @@ Girard proposed human desire is fundamentally mimetic: we desire what we see oth
 
 ## Connections
 
-- [[Cooley Looking-Glass Self]] -- Cooley's social mirror constructs the self; Girard's social mirror constructs desire (-> [[Meta-Pattern 06 - Self-Reference and Instrument Trap]])
+- [[Cooley Looking-Glass Self]] -- Cooley's social mirror constructs the self; Girard's social mirror constructs desire
 - [[Asch Conformity]] -- conformity is mimetic desire applied to perception: adopting the group's answer as one's own
 - [[Mirror Neurons]] -- mirror neurons may be the neural substrate of mimetic desire: simulating others' actions and potentially their wants
 - [[Horizontal Gene Transfer]] -- HGT transfers genes across species boundaries; mimetic desire transfers wants across social boundaries

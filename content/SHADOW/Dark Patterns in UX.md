@@ -27,7 +27,7 @@ The structural signature: dark patterns weaponize the user's trust in interface 
 
 ## Connections
 
-- [[Network Effects and Lock-In]] -- dark patterns are the micro-tactics of lock-in (-> [[Meta-Pattern 06]])
+- [[Network Effects and Lock-In]] -- dark patterns are the micro-tactics of lock-in
 - [[Confidence Trick]] -- both exploit trust in conventions
 - [[Gaslighting]] -- both manipulate through designed environments
 - [[Testing]] -- ethical testing verifies code honesty; dark patterns are designed test failures

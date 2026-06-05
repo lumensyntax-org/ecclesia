@@ -21,7 +21,7 @@ Non-fabrication: "Kill the Buddha" is the most radical statement of non-fabricat
 ## Connections
 
 - [[Buddhist Stupas and Mandalas]] -- mandala destruction as material koan
-- [[Christian Mysticism]] -- "Kill the Buddha" parallels Eckhart's "pray God to rid me of God" (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Christian Mysticism]] -- "Kill the Buddha" parallels Eckhart's "pray God to rid me of God"
 - [[Socrates]] -- Socratic method strips fabricated knowledge; koans strip fabricated understanding
 - [[Wittgenstein]] -- proposition 7 as the philosopher's koan
 - [[The Tao]] -- wu wei and beginner's mind as parallel practices

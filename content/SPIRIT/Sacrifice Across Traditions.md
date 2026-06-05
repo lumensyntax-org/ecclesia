@@ -21,7 +21,7 @@ Proportion: sacrifice is proportional -- you give what the relationship requires
 ## Connections
 
 - [[Girard — Mimetic Desire and Scapegoat]] -- Girard's reading of sacrifice as concealed violence
-- [[Kenosis]] -- self-emptying as the divine sacrifice (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Kenosis]] -- self-emptying as the divine sacrifice
 - [[Fasting Across Traditions]] -- fasting as sacrifice of appetite
 - [[Buddhist Stupas and Mandalas]] -- mandala destruction as sacrifice of form
 - [[The Flood Narrative]] -- destruction as cosmic-scale sacrifice for renewal

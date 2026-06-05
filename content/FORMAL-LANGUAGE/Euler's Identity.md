@@ -24,7 +24,7 @@ Euler's identity, e^(i*pi) + 1 = 0, connects five fundamental constants from dif
 ## Connections
 
 - [[E=mc squared]] -- both express deep identity in minimal notation
-- [[Maxwell's Unification]] -- both reveal unity beneath apparent diversity (-> [[Meta-Pattern 12]])
+- [[Maxwell's Unification]] -- both reveal unity beneath apparent diversity
 - [[Langlands Program]] -- the program seeks this kind of structural unity across mathematics
 - [[Group Theory and Symmetry]] -- Euler's formula underlies the unitary group U(1)
 - [[Noether's Theorem]] -- both express exact correspondences between distinct mathematical structures

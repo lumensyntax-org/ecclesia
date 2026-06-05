@@ -19,7 +19,7 @@ Trust is the willingness to be vulnerable to another based on the expectation of
 
 ## Connections
 
-- [[Confidence Trick]] -- the con is betrayal industrialized (SHADOW domain) (-> [[Meta-Pattern 08: The Instrument Trap]])
+- [[Confidence Trick]] -- the con is betrayal industrialized (SHADOW domain)
 - [[Forgiveness]] -- the restoration of the bond after trust is violated
 - [[Domestic Violence]] -- betrayal trauma within the most intimate relationship
 - [[Gottman's Four Horsemen]] -- each Horseman erodes trust through a different property violation

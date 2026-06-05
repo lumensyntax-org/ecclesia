@@ -21,7 +21,7 @@ Humility: the entire *Critique* determines the legitimate scope of reason's auth
 ## Connections
 
 - [[Advaita Vedanta]] -- phenomena/noumena parallels Vyavaharika/Paramarthika
-- [[Wittgenstein]] -- the boundary of language continues what Kant began with reason (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Wittgenstein]] -- the boundary of language continues what Kant began with reason
 - [[Godel's Incompleteness Theorems]] -- consistent systems cannot prove their own consistency; Kant's antinomies from within
 - [[Planck Scale]] -- physics acknowledges where its authority ends
 - [[Socrates]] -- Socratic ignorance as precursor to Kantian limits

@@ -24,7 +24,7 @@ A vibrating string produces overtones at integer multiples of its fundamental fr
 
 ## Connections
 
-- [[Noether's Theorem]] -- proportion as mathematical identity; the harmonic series as proportion made audible (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Noether's Theorem]] -- proportion as mathematical identity; the harmonic series as proportion made audible
 - [[Pentatonic Scale]] -- a proportional subset of the harmonic series, independently discovered
 - [[Bach's Well-Tempered Clavier]] -- systematic exploration of the tonal space the harmonic series defines
 - [[Sacred Music]] -- every tradition's sacred sound is built on these physical relationships

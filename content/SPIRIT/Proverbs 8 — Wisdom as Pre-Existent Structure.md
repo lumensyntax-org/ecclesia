@@ -23,7 +23,7 @@ All five properties, with emphasis on humility and non-fabrication. Wisdom sets 
 - [[Logos in John 1-1]] -- Wisdom/Logos identification (Raymond E. Brown, *Anchor Bible*)
 - [[Socrates]] -- knowledge begins at the boundary; wisdom discovered, not invented
 - [[The Harmonic Series]] -- intervals exist before discovery, just as Wisdom precedes creation
-- [[Universal Grammar]] -- if real, linguistic structure is found, not fabricated (-> [[Meta-Pattern 02: The Boundary Pre-Exists]])
+- [[Universal Grammar]] -- if real, linguistic structure is found, not fabricated
 - [[Kenosis]] -- Wisdom's presence "by him" parallels kenotic self-giving
 
 ## Status

@@ -24,7 +24,7 @@ If UG is real, then linguistic structure is found, not fabricated -- every langu
 
 ## Connections
 
-- [[Pentatonic Scale]] -- independent convergence on shared structural constraints (-> [[Meta-Pattern 06: Structural Invariance]])
+- [[Pentatonic Scale]] -- independent convergence on shared structural constraints
 - [[The Golden Rule]] -- cross-cultural convergence suggesting structural invariance
 - [[Sapir-Whorf Hypothesis]] -- the complementary question: does language shape thought?
 - [[Socrates]] -- honest acknowledgment of what is not known

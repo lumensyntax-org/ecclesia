@@ -21,7 +21,7 @@ Humans perceive electromagnetic radiation between approximately 380 nm (violet) 
 
 ## Connections
 
-- [[Abstraction Layers]] -- human vision is a biological abstraction layer hiding the full spectrum (-> [[Meta-Pattern 02]])
+- [[Abstraction Layers]] -- human vision is a biological abstraction layer hiding the full spectrum
 - [[Materials Science]] -- both are boundaries enforced by physical reality, not choice
 - [[Blackbody Radiation and Planck's Quantum]] -- the Sun's emission peak determines our visual range
 - [[Kolmogorov Complexity]] -- we perceive the compressible fraction; the rest is inaccessible noise
