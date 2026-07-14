@@ -12,7 +12,7 @@ status: textbook
 
 ## Finding
 
-Each kidney contains approximately 1 million nephrons. Glomerular filtration produces ~180 liters of filtrate per day; tubules reabsorb the vast majority, excreting ~1.5 liters as urine. The proximal tubule reclaims glucose, amino acids, and most sodium. The loop of Henle establishes the countercurrent concentration gradient. The distal tubule and collecting duct fine-tune balance under hormonal control (ADH, aldosterone). The kidney makes a continuous decision about what to keep and what to release -- the body's equator.
+Each kidney contains approximately 1 million nephrons. Glomerular filtration produces ~180 liters of filtrate per day; tubules reabsorb the vast majority, excreting ~1.5 liters as urine. The proximal tubule reclaims glucose, amino acids, and most sodium. The loop of Henle establishes the countercurrent concentration gradient. The distal tubule and collecting duct fine-tune balance under hormonal control (ADH, aldosterone). The kidney makes a continuous decision about what to keep and what to release.
 
 ## Pattern Mapping
 
@@ -24,15 +24,15 @@ Each kidney contains approximately 1 million nephrons. Glomerular filtration pro
 
 ## Connections
 
-- [[Blood-Brain Barrier]] -- both are biological equators defining inside vs outside
+- [[Blood-Brain Barrier]] -- both are selective biological boundaries defining inside vs outside
 - [[Menstrual Cycle]] -- both use hormonal feedback to maintain homeostasis
-- [[Gallup Mirror Self-Recognition]] -- MSR is a cognitive equator (self vs other); the nephron is a molecular equator (keep vs release)
+- [[Gallup Mirror Self-Recognition]] -- MSR draws a cognitive boundary (self vs other); the nephron draws a molecular one (keep vs release)
 - [[Confirmation Bias]] -- the kidney honestly sorts by actual properties; confirmation bias sorts by preference, violating the same function
 - [[Liver Detoxification]] -- complementary scope: liver metabolizes, kidney filters
 
 ## Status
 
-Textbook physiology (Vander, 9th ed.; Guyton & Hall). The "equator" metaphor is this project's structural interpretation.
+Textbook physiology (Vander, 9th ed.; Guyton & Hall). The mapping to the five properties is this project's structural interpretation.
 
 ---
 

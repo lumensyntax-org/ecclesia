@@ -26,7 +26,7 @@ OPH manifests all five properties simultaneously — a rare convergence:
 
 **Non-fabrication** — Observer records are present from the start, not fabricated after the fact. Born probabilities emerge from consistency, not from postulation.
 
-**Error Correction** — Mismatch syndromes trigger repair loops. When patches disagree, the system detects and corrects. Same mechanism as DNA proofreading, immune clonal selection, and the epistemic equator in language models.
+**Error Correction** — Mismatch syndromes trigger repair loops. When patches disagree, the system detects and corrects. The same function appears in DNA proofreading and in immune clonal selection.
 
 ## The Strange Loop
 
@@ -34,15 +34,13 @@ OPH's most profound claim: reality is a "timeless self-referential causal struct
 
 Physics → Chemistry → Biology → Minds → Ideas → Physics
 
-This maps to the Ecclesia's structure. The 18 domains are this loop. Each domain emerges from the previous and the last (ideas, understanding) loops back to the first (physics).
-
-Mueller says "reality requires no external creator — it becomes self-referentially closed." Whether the loop was created or is self-generating is MYSTERY_EXPLORATION — the Ecclesia documents both positions without fabricating resolution.
+Mueller says "reality requires no external creator — it becomes self-referentially closed." Whether the loop was created or is self-generating is MYSTERY_EXPLORATION — both positions are documented here without fabricating a resolution.
 
 ## Connections
 
 - [[Noether's Theorem]] — OPH derives conservation from symmetry of S², extending Noether to the holographic screen
 - [[Holographic Principle]] — OPH builds on 't Hooft/Susskind/Maldacena but makes the screen primary
-- [[Concentration of Measure]] — S² as holographic screen shares mathematical structure with the epistemic equator
+- [[Concentration of Measure]] — S² as holographic screen; both concern how structure concentrates on a high-dimensional boundary
 - [[Bell's Theorem]] — OPH resolves nonlocality through patch overlap consistency
 - [[Symmetry Breaking]] — gauge group emerges from patch-gluing, not from symmetry breaking of a larger group
 - [[Quantum Measurement Problem]] — resolved by building observers in from the start (→ Meta-Pattern 11)

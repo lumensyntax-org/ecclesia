@@ -12,7 +12,7 @@ status: peer_reviewed
 
 ## Finding
 
-Dennett and Frankish argue that phenomenal consciousness is a representational artifact. The introspective impression of irreducible qualia is a systematic error -- we mistake our internal representations for something they are not. This is the key defense against over-interpreting the equator in AI systems: representations are real, but attributing phenomenal consciousness to models would be fabrication. Frankish (2016) generated extensive philosophical responses.
+Dennett and Frankish argue that phenomenal consciousness is a representational artifact. The introspective impression of irreducible qualia is a systematic error -- we mistake our internal representations for something they are not. The distinction matters wherever internal structure is read as evidence of experience: the representations are real, but concluding that experience accompanies them is a further claim, and asserting it without warrant is fabrication. Frankish (2016) generated extensive philosophical responses.
 
 ## Pattern Mapping
 
@@ -28,7 +28,7 @@ Dennett and Frankish argue that phenomenal consciousness is a representational a
 
 ## Status
 
-Minority but serious philosophical position. Frankish (2016) generated extensive responses. The connection to the equator is this project's structural interpretation.
+Minority but serious philosophical position. Frankish (2016) generated extensive responses. The mapping to the five properties is this project's structural interpretation.
 
 ---
 

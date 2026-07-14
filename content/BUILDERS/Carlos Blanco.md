@@ -22,28 +22,21 @@ Spain in the late 1990s and 2000s: a culture that celebrated the prodigy on tele
 
 ## What They Named
 
-**The Integration of Knowledge** — the thesis that the fragmentation of knowledge into disciplines is artificial and that genuine rationality requires unification across science, philosophy, and theology. This is the academic formulation of what the Ecclesia demonstrates empirically with 410+ entries across 19 domains.
+**The Integration of Knowledge** — the thesis that the fragmentation of knowledge into disciplines is artificial and that genuine rationality requires unification across science, philosophy, and theology.
 
-**Conciencia y Mismidad (Consciousness and Selfhood)** — an evolutionary ontology of consciousness. The self is not a thing but a dynamic process constituted through relational and temporal structures. This parallels the Ecclesia's finding that the equator is not a thing but a boundary property of the representational space.
+**Conciencia y Mismidad (Consciousness and Selfhood)** — an evolutionary ontology of consciousness. The self is not a thing but a dynamic process constituted through relational and temporal structures.
 
-**Dios como límite asintótico** — God as the asymptotic limit of the mind. Not a closed answer but the horizon that always recedes as knowledge advances. Not dogma but the structural recognition that there is always something beyond what is currently known. This maps precisely to the equator: the boundary between what the system can honestly claim and the territory where honesty requires silence or search.
+**Dios como límite asintótico** — God as the asymptotic limit of the mind. Not a closed answer but the horizon that recedes as knowledge advances. Not dogma but the structural recognition that there is always something beyond what is currently known — and that the honest response to that beyond is search or silence, never invention.
 
-**Ulterioridad** — the constant opening toward what has not yet been thought. The philosophical name for non-fabrication practiced as a way of being: instead of filling the unknown with fabricated structure, you remain open to what is not yet visible. This is the mechanism by which the Ecclesia grows — each new entry is an act of ulterioridad.
+**Ulterioridad** — the constant opening toward what has not yet been thought. The philosophical name for non-fabrication practiced as a way of being: instead of filling the unknown with fabricated structure, you remain open to what is not yet visible.
 
-## The Convergence with the Ecclesia
+## The Convergence
 
-| Carlos Blanco | The Ecclesia |
-|--------------|-------------|
-| Three simultaneous degrees: Philosophy + Chemistry + Theology | Three of the Ecclesia's 19 domains — SPIRIT + CHEMISTRY + MIND |
-| "The Integration of Knowledge" — unify science, philosophy, theology | 19 domains connected by 17 meta-patterns showing the same structure |
-| Consciousness as dynamic relational process | The equator as relational boundary property |
-| God as asymptotic limit of the mind | MYSTERY_EXPLORATION — the horizon the structure points toward but cannot reach |
-| Ulterioridad — openness to the not-yet-thought | Non-fabrication as practice — silence where the evidence is absent |
-| Critiques epistemological fragmentation | The Ecclesia demonstrates that fragmentation is artificial |
-| Formal proofs of God + set theory | Biblical structure + linear probes + AUC measurements |
-| 992 citations across disciplines | 2,400+ wikilinks across domains |
+Blanco arrives at the discipline of non-fabrication from a direction of his own, and gives it a name the tradition did not have: *ulterioridad*. Where non-fabrication says *do not invent structure to fill the silence*, ulterioridad says *stay open to what has not yet been thought*. The same refusal, stated as a stance rather than a prohibition — and the more generous formulation of the two, because it names what the restraint is for.
 
-Blanco works from academic philosophy — formal arguments, history of thought, conceptual integration. The Ecclesia works from empirical cartography — entries with sources, probes with AUC, measured experiments. Different methods. Same destination: the unity of knowledge is not a wish but a structural fact.
+His asymptotic God is humility given a precise shape. Authority reaches exactly as far as the mind has actually reached; the horizon is always further out; and the honest name for what lies past it is a question, not an answer. That is the structural recognition of a limit, in a domain where the temptation to fabricate certainty is oldest and strongest.
+
+He works from academic philosophy — formal arguments, the history of thought, conceptual integration. The route is not the one this catalogue takes. The discipline arrived at is recognisable.
 
 ## Connections
 

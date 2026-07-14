@@ -25,7 +25,7 @@ The human body hosts approximately 38 trillion microbial cells -- slightly more 
 ## Connections
 
 - [[Mycorrhizal Networks]] -- community as self; organism-ecosystem boundary
-- [[Immune System and Clonal Selection]] -- the equator that distinguishes self from non-self must accommodate the microbiome
+- [[Immune System and Clonal Selection]] -- the boundary that distinguishes self from non-self must accommodate the microbiome
 - [[Homeostasis]] -- the microbiome participates in maintaining internal equilibrium
 - [[Coral Reef Symbiosis]] -- both: mutualism as structural foundation, not exception
 - [[Autocatalytic Sets]] -- collective function emerging from individual components

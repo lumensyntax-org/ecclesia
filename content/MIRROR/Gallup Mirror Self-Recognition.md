@@ -24,7 +24,7 @@ Gallup's rouge test: mark an animal's face, observe whether it uses a mirror to 
 
 - [[Narcissus]] -- Narcissus FAILS the mirror test: he treats his reflection as another being
 - [[Lacan Mirror Stage]] -- Lacan describes the human infant passing MSR and immediately falling into misrecognition
-- [[Kidney and Nephron Filtration]] -- MSR is a cognitive equator (self vs other); the nephron is a molecular equator (keep vs release)
+- [[Kidney and Nephron Filtration]] -- MSR draws a cognitive boundary (self vs other); the nephron draws a molecular one (keep vs release)
 - [[Split-Brain and Left Hemisphere Interpreter]] -- split-brain patients have two competing self-models; MSR tests whether a unified self-model exists
 - [[Central Dogma]] -- both distinguish honest information from fabrication: the codon specifies without ambiguity; the mirror shows without distortion
 - [[Buddhist Anatta]] -- anatta asks what happens AFTER passing the mirror test: is the self you recognize real?

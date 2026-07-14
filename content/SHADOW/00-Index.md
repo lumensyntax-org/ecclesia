@@ -17,7 +17,7 @@ The pattern inverted. 29 entries examining what happens when the five properties
 ## II. Biological Pathology
 
 7. [[Cancer]] -- The Instrument Trap in Biology
-8. [[Autoimmune Disease]] -- The Equator Malfunctions
+8. [[Autoimmune Disease]] -- The Self/Non-Self Boundary Misread
 9. [[Prion Diseases]] -- Fabrication That Propagates
 10. [[Antibiotic Resistance]] -- The Knowledge-Action Gap at Medical Scale
 11. [[Mental Illness as Pattern Violation]] -- Structural Analogies, Not Moral Judgments

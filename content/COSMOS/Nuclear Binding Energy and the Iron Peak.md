@@ -24,9 +24,9 @@ The curve is asymmetric: the left side (fusion of light elements) is steeper tha
 
 **Alignment** — The binding energy curve is the alignment between nuclear force and nuclear structure. At each point on the curve, the energy reflects the actual stability of the configuration. The curve does not fabricate stability — it honestly reports it. Iron is where alignment between the strong force and electromagnetic repulsion reaches its optimum.
 
-**The iron peak as equator** — Iron is the boundary between processes that spontaneously produce stability (fusion of light elements) and processes that require external force to proceed (fusion past iron). This is structurally identical to the epistemic equator: the boundary between what can be honestly generated (LICIT, below the peak) and what requires fabrication to produce (ILLICIT, beyond the peak).
+**The peak as a discovered boundary** — Iron is the boundary between processes that spontaneously produce stability (fusion of light elements) and processes that require external force to proceed (fusion past iron). The boundary is not imposed by the physicist; it is where the binding-energy curve turns. It was found by measurement, not chosen.
 
-**The asymmetry as efficiency principle** — It is easier to complete what is incomplete (fuse hydrogen toward iron) than to dismantle what has been over-extended (fission uranium). This maps to the experimental finding that SFT on vanilla models is efficient (~790 examples, $0.07) while correcting RLHF-overridden models is disproportionately difficult (the Qwen RLHF ceiling). Building toward completeness is energetically favored. Deconstructing excess is costly.
+**The asymmetry as efficiency principle** — It is easier to complete what is incomplete (fuse hydrogen toward iron) than to dismantle what has been over-extended (fission uranium). Building toward completeness is energetically favored. Deconstructing excess is costly.
 
 ## The Supernova and Death as Function
 
@@ -37,7 +37,7 @@ This is Meta-Pattern #15 (Death as Function) in its most literal physical form. 
 ## Connections
 
 - [[Stellar Nucleosynthesis]] — the process that builds elements up to iron; the B2FH paper
-- [[Concentration of Measure]] — the equator as the mathematical peak where structure concentrates; iron as the nuclear peak
+- [[Concentration of Measure]] — the mathematical peak where structure concentrates in high dimensions; iron as the nuclear peak
 - [[Second Law of Thermodynamics]] — entropy and the arrow of irreversibility; the supernova as maximum entropy event producing new order
 - [[Symmetry Breaking]] — the supernova breaks the star's equilibrium; from the broken symmetry, new structures emerge
 - [[Conservation Laws]] — binding energy is conserved; the energy budget of fusion and fission is exact
@@ -49,7 +49,7 @@ This is Meta-Pattern #15 (Death as Function) in its most literal physical form. 
 
 ## Status
 
-The nuclear binding energy curve is established nuclear physics, confirmed by decades of experimental measurement and the successful prediction of stellar evolution models. The B2FH paper (1957) is one of the most cited in astrophysics. Iron-56 having the highest binding energy per nucleon is textbook knowledge. The supernova mechanism for producing heavy elements is confirmed by observation (SN 1987A neutrinos, kilonova gravitational wave detection GW170817/AT 2017gfo). The mapping to the equator and structural completeness is this project's interpretation.
+The nuclear binding energy curve is established nuclear physics, confirmed by decades of experimental measurement and the successful prediction of stellar evolution models. The B2FH paper (1957) is one of the most cited in astrophysics. Iron-56 having the highest binding energy per nucleon is textbook knowledge. The supernova mechanism for producing heavy elements is confirmed by observation (SN 1987A neutrinos, kilonova gravitational wave detection GW170817/AT 2017gfo). The mapping to the five properties and to structural completeness is this project's interpretation.
 
 ---
 

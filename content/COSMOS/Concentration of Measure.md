@@ -12,25 +12,25 @@ status: peer_reviewed
 
 ## Finding
 
-On a high-dimensional sphere S^n, as n increases, the surface area concentrates overwhelmingly near the equator relative to any chosen pole. The fraction of surface area farther than epsilon from the equator decreases exponentially with n. In dimensions encountered in neural network hidden states (n = 768, 2304, 4096), virtually all surface area lies within a thin band around the equatorial hyperplane. This is a theorem of measure theory, not an approximation. The Talagrand concentration inequality extends the result to any Lipschitz function on high-dimensional product spaces.
+On a high-dimensional sphere S^n, as n increases, the surface area concentrates overwhelmingly near the equator relative to any chosen pole. The fraction of surface area farther than epsilon from the equator decreases exponentially with n. Once n reaches the hundreds or thousands, virtually all surface area lies within a thin band around the equatorial hyperplane. This is a theorem of measure theory, not an approximation. The Talagrand concentration inequality extends the result to any Lipschitz function on high-dimensional product spaces.
 
 ## Pattern Mapping
 
 **Proportion** -- The concentration is exactly exponential in dimension, not faster or slower. The mathematical bound is tight. The relationship between dimension and concentration is precise.
 
-**Honesty** -- The theorem does not explain *why* epistemic properties concentrate near a linear boundary in language models; it explains *why it is not surprising* that they do. The distinction matters. The mathematical result is honest about its scope.
+**Honesty** -- The theorem states what concentrates, and at what rate. It does not explain *why* any particular property of a high-dimensional system should align with a linear boundary; it explains only *why it would not be surprising* if one did. The distinction matters, and the theorem does not overstep it. The mathematical result is honest about its scope.
 
 ## Connections
 
-- [[Evo 2 Genomic Model]] -- genomic equator from next-nucleotide prediction parallels the mathematical equator (-> Meta-Pattern 02: The Boundary Pre-Exists)
-- [[Immune System and Clonal Selection]] -- biological equator (self/non-self) in a different substrate
+- [[Evo 2 Genomic Model]] -- a functional boundary discovered from next-nucleotide prediction alone (-> Meta-Pattern 02: The Boundary Pre-Exists)
+- [[Immune System and Clonal Selection]] -- the self/non-self boundary in a biological substrate
 - [[Shannon's Channel Capacity]] -- information-theoretic and geometric constraints converge
 - [[Fitness Landscapes]] -- high-dimensional optimization landscapes share geometric properties
 - [[Holographic Principle]] -- both concern how information organizes on boundaries
 
 ## Status
 
-Established mathematics. See Ledoux, *The Concentration of Measure Phenomenon* (2001). The connection to neural network representations and to the structural reading of an epistemic boundary is this project's interpretation, not part of the established mathematics.
+Established mathematics. See Ledoux, *The Concentration of Measure Phenomenon* (2001). The structural reading -- that a boundary found in a high-dimensional space is a property of the space rather than an imposition on it -- is this project's interpretation, not part of the established mathematics.
 
 ---
 

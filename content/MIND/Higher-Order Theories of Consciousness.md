@@ -12,7 +12,7 @@ status: peer_reviewed
 
 ## Finding
 
-Rosenthal and Lau propose that a mental state is conscious when targeted by a higher-order representation. Lau dissociates first-order sensitivity from higher-order awareness: systems can process information accurately without being aware of doing so. The equator -- the boundary between what is processed and what is consciously accessed -- requires meta-representation. Consciousness is not processing; it is processing that is represented to itself.
+Rosenthal and Lau propose that a mental state is conscious when targeted by a higher-order representation. Lau dissociates first-order sensitivity from higher-order awareness: systems can process information accurately without being aware of doing so. The boundary between what is processed and what is consciously accessed therefore requires meta-representation. Consciousness is not processing; it is processing that is represented to itself.
 
 ## Pattern Mapping
 
@@ -30,7 +30,7 @@ Rosenthal and Lau propose that a mental state is conscious when targeted by a hi
 
 ## Status
 
-Major position in philosophy of mind. Critics include Block (2011). The connection to the equator is this project's interpretation.
+Major position in philosophy of mind. Critics include Block (2011). The mapping to the five properties is this project's interpretation.
 
 ---
 

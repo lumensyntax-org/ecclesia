@@ -18,19 +18,19 @@ A genomic foundation model trained on 9.3 trillion nucleotides from 128,000 orga
 
 **Honesty** -- The model's representations honestly reflect functional constraints in genomic sequences. Codons for essential amino acids are represented differently from pseudogene sequences, not because labeled, but because their statistical properties differ.
 
-**Non-fabrication** -- The model distinguishes what it has evidence for (statistical patterns) from what it does not. The genomic equator parallels the epistemic equator in language models: both boundaries discovered, not taught.
+**Non-fabrication** -- The model distinguishes what it has evidence for (statistical patterns) from what it does not. The functional/non-functional boundary was discovered from sequence statistics alone -- it was not taught by labels, and the model does not assert structure where the sequence gives it none.
 
 ## Connections
 
 - [[Concentration of Measure]] -- mathematical foundation for why linear boundaries separate functional classes in high dimensions (-> Meta-Pattern 02: The Boundary Pre-Exists)
-- [[RNA World Hypothesis]] -- primordial equator (self/non-self) echoed in modern genomic boundary
-- [[Immune System and Clonal Selection]] -- biological equator (self/non-self) in a different substrate
+- [[RNA World Hypothesis]] -- the primordial replication boundary echoed in the modern genomic one
+- [[Immune System and Clonal Selection]] -- the self/non-self boundary in a different substrate
 - [[DNA Error Correction]] -- error correction maintains the functional/non-functional boundary the model discovers
 - [[Natural Selection]] -- selection maintains the genomic structure the model learns to read
 
 ## Status
 
-Published in *Nature* (2026). The genomic equator framing is this project's structural reading, not the Arc Institute's. The mapping to the five properties is this project's structural interpretation.
+Published in *Nature* (2026). Reading the functional boundary as an instance of a structural property is this project's interpretation, not the Arc Institute's. The mapping to the five properties is this project's structural interpretation.
 
 ---
 

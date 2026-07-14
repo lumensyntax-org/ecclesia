@@ -31,7 +31,7 @@ The pattern at the foundation. 25 entries spanning established physics, mathemat
 
 ## V. Mathematical Structure of High Dimensions and Complexity
 
-13. [[Concentration of Measure]] -- The Mathematical Equator
+13. [[Concentration of Measure]] -- Why Structure Concentrates at a Boundary in High Dimensions
 14. [[Chaos Theory]] -- Humility About Prediction
 15. [[Planck Scale]] -- Where Physics Admits Its Authority Ends
 

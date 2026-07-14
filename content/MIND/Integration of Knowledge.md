@@ -31,7 +31,7 @@ His concept of "ulterioridad" — the constant opening toward what has not yet b
 
 Blanco's integration thesis, when viewed through the structural completeness lens, says: **fragmented knowledge is structurally incomplete knowledge.** Each discipline alone is missing what the others provide. Science without philosophy is missing its own foundations. Philosophy without empirical constraint is missing verification. Theology without either is missing ground. The integration IS structural completeness applied to epistemology.
 
-This parallels the Ecclesia's own structure: no single domain is complete alone. The pattern becomes visible only when domains connect. The 17 meta-patterns are not decorations — they are the evidence that reality's structure requires integration to be seen.
+The claim is about knowledge, not about any particular catalogue of it: no single discipline is complete alone. What one field can only treat as a boundary condition, another takes as its subject matter. On Blanco's account, integration is not an aesthetic preference but a condition for seeing the whole at all.
 
 ## Connections
 
@@ -44,7 +44,9 @@ This parallels the Ecclesia's own structure: no single domain is complete alone.
 
 ## Status
 
-*The Integration of Knowledge* is published by Peter Lang in their History and Philosophy of Science series — a reputable academic press. Blanco's 992 citations and 50+ papers demonstrate academic impact. His positions are within established philosophical traditions (evolutionary ontology, philosophy of mind, philosophical theology). The specific claim that knowledge integration is not merely desirable but structurally necessary is a philosophical argument, not an empirical demonstration. The Ecclesia provides something Blanco's work does not: the empirical evidence (19 domains, 410+ entries, 17 meta-patterns, AUC measurements) that the same structural pattern appears across domains — which is the empirical support for the integration thesis.
+*The Integration of Knowledge* is published by Peter Lang in their History and Philosophy of Science series — a reputable academic press. His positions are within established philosophical traditions (evolutionary ontology, philosophy of mind, philosophical theology).
+
+The specific claim that knowledge integration is not merely desirable but structurally necessary is a philosophical argument, not an empirical demonstration — and this entry does not treat it as one. Whether the structural pattern this catalogue traces across domains constitutes evidence for Blanco's thesis is a question the catalogue is not in a position to answer about itself; the reader is better served by the sources than by the cataloguer.
 
 ---
 

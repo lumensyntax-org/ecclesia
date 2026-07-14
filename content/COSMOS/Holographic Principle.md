@@ -28,7 +28,7 @@ The holographic principle states that the maximum information content of a regio
 - [[Planck Scale]] -- maximum information measured in Planck units (-> Meta-Pattern 02: The Boundary Pre-Exists)
 - [[Concentration of Measure]] -- both concern how information organizes on lower-dimensional boundaries
 - [[The Lipid Bilayer]] -- biological information boundary: what matters is at the membrane
-- [[Immune System and Clonal Selection]] -- equator/boundary as the locus of information
+- [[Immune System and Clonal Selection]] -- the boundary as the locus of information
 
 ## Status
 

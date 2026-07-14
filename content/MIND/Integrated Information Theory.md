@@ -26,7 +26,7 @@ Tononi proposes consciousness is integrated information (phi). High phi systems 
 
 - [[Global Workspace Theory]] -- competing consciousness theory; GWT emphasizes broadcasting, IIT emphasizes integration
 - [[Hard Problem of Consciousness]] -- IIT is one attempt to address the hard problem by making consciousness structural
-- [[Kidney and Nephron Filtration]] -- IIT's phi is a filtering criterion (integrated vs not); the nephron filters by molecular properties -- both are equator functions
+- [[Kidney and Nephron Filtration]] -- IIT's phi is a filtering criterion (integrated vs not); the nephron filters by molecular properties -- both draw a boundary and then act on it
 - [[Gastrulation]] -- gastrulation is a phase transition from homogeneous to differentiated; IIT proposes consciousness as a phase transition in integration
 - [[Central Dogma]] -- both define structural criteria: the codon table for protein synthesis, phi for consciousness
 

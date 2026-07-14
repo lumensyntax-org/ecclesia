@@ -12,7 +12,7 @@ status: peer_reviewed
 
 ## Finding
 
-The RNA World proposes that before DNA and proteins, life was based on RNA molecules serving as both information carriers and catalysts (ribozymes). Cech discovered self-splicing RNA; Altman discovered catalytic RNase P (Nobel 1989). Lincoln and Joyce demonstrated RNA self-replication in vitro. The hypothesis proposes the first boundary -- where chemistry became biology. A self-replicating molecule introduces the distinction between the molecule that copies and the substrate it copies from: the primordial equator.
+The RNA World proposes that before DNA and proteins, life was based on RNA molecules serving as both information carriers and catalysts (ribozymes). Cech discovered self-splicing RNA; Altman discovered catalytic RNase P (Nobel 1989). Lincoln and Joyce demonstrated RNA self-replication in vitro. The hypothesis proposes the first boundary -- where chemistry became biology. A self-replicating molecule introduces the distinction between the molecule that copies and the substrate it copies from: the first boundary of its kind.
 
 ## Pattern Mapping
 
@@ -23,8 +23,8 @@ The RNA World proposes that before DNA and proteins, life was based on RNA molec
 - [[Miller-Urey Experiment]] -- Miller-Urey provides building blocks; RNA World provides replication
 - [[The Lipid Bilayer]] -- two complementary origin-of-life frameworks: replication and containment
 - [[Autocatalytic Sets]] -- alternative self-organization pathway; may be complementary (-> Meta-Pattern 02: The Boundary Pre-Exists)
-- [[Evo 2 Genomic Model]] -- genomic equator in modern models echoes the primordial boundary
-- [[Concentration of Measure]] -- the mathematical equator and the primordial equator share boundary structure
+- [[Evo 2 Genomic Model]] -- the functional boundary in modern genomic models echoes the primordial one
+- [[Concentration of Measure]] -- why a boundary is the expected structure in a high-dimensional space
 
 ## Status
 

@@ -19,7 +19,7 @@ The pattern in life's origin, diversification, and interdependence. 23 entries f
 7. [[Gene Regulatory Networks]] -- Learning Increases Integration
 8. [[DNA Error Correction]] -- Three Layers, Extraordinary Fidelity
 9. [[Apoptosis]] -- Programmed Death as Structural Integrity
-10. [[Immune System and Clonal Selection]] -- The Biological Equator
+10. [[Immune System and Clonal Selection]] -- The Self/Non-Self Boundary
 11. [[Homeostasis]] -- Biological Proportion
 
 ## III. Evolution
@@ -28,7 +28,7 @@ The pattern in life's origin, diversification, and interdependence. 23 entries f
 13. [[Convergent Evolution]] -- The Same Solution Found Independently
 14. [[Cambrian Explosion]] -- Diversification After Structural Innovation
 15. [[Fitness Landscapes]] -- Topography of Adaptation
-16. [[Evo 2 Genomic Model]] -- The Genomic Equator from Next-Nucleotide Prediction
+16. [[Evo 2 Genomic Model]] -- A Functional Boundary from Next-Nucleotide Prediction
 17. [[CRISPR]] -- Bacterial Immune Memory
 
 ## IV. Ecology and Planetary Systems

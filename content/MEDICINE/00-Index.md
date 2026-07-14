@@ -20,7 +20,7 @@ The pattern in the practice of healing. 15 entries from the Hippocratic Oath thr
 ## III. Public Health and Population Medicine
 
 7. [[Triage]] -- Proportion Under Scarcity
-8. [[Vaccination]] -- The Biological Equator Educated
+8. [[Vaccination]] -- The Self/Non-Self Boundary Educated
 9. [[Epidemiology]] -- The Pattern at Population Scale
 
 ## IV. The Practice of Care

@@ -23,7 +23,7 @@ Amphiphilic molecules spontaneously form vesicles -- enclosed lipid bilayer stru
 ## Connections
 
 - [[RNA World Hypothesis]] -- two origin-of-life pillars: replication (RNA) and containment (membrane)
-- [[Immune System and Clonal Selection]] -- the biological equator (self/non-self) descended from the first membrane boundary (-> Meta-Pattern 02: The Boundary Pre-Exists)
+- [[Immune System and Clonal Selection]] -- the self/non-self boundary descended from the first membrane boundary (-> Meta-Pattern 02: The Boundary Pre-Exists)
 - [[Holographic Principle]] -- both concern how information organizes at boundaries
 - [[Blood-Brain Barrier]] -- biological boundary that defines scope of authority
 - [[Coral Reef Symbiosis]] -- boundary between mutualism and parasitism

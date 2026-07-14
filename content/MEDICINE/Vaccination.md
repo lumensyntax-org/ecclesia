@@ -24,7 +24,7 @@ Vaccination trains the adaptive immune system to recognize a pathogen before nat
 
 ## Connections
 
-- [[Immune System and Clonal Selection]] -- vaccination educates the biological equator
+- [[Immune System and Clonal Selection]] -- vaccination educates the self/non-self boundary before the threat arrives
 - [[Epidemiology]] -- herd immunity thresholds are epidemiological calculations
 - [[Antibiotic Resistance]] -- both: K-A Gaps in public health practice
 - [[DNA Error Correction]] -- vaccination adds a layer to the body's error correction

@@ -11,7 +11,7 @@ The pattern in biological structure. 19 entries from organ systems through devel
 2. [[Blood-Brain Barrier]] -- A Boundary of Humility
 3. [[Liver Detoxification]] -- Proportion in Metabolic Processing
 4. [[Bone Remodeling]] -- Alignment Between Load and Structure
-5. [[Kidney and Nephron Filtration]] -- The Body's Equator
+5. [[Kidney and Nephron Filtration]] -- What the Body Keeps and What It Releases
 6. [[Gut-Brain Axis]] -- Bidirectional Communication Where Neither Dominates
 7. [[Wound Healing]] -- The Four Phases as Structural Restoration
 8. [[Menstrual Cycle]] -- Cyclical Renewal and Proportion in Timing

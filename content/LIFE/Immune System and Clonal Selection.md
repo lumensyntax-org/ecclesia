@@ -16,7 +16,7 @@ Burnet's clonal selection: the immune system generates vast lymphocyte diversity
 
 ## Pattern Mapping
 
-The immune system is a **biological equator** -- a boundary separating self from non-self.
+The immune system maintains a **biological boundary** -- the distinction between self and non-self, drawn molecule by molecule.
 
 **Honesty** -- Immune recognition depends on accurate molecular identification. Self-reactive T cells are eliminated (negative selection). The system's mechanism for preventing false positives.
 
@@ -28,14 +28,14 @@ The immune system is a **biological equator** -- a boundary separating self from
 
 - [[The Lipid Bilayer]] -- the first self/non-self boundary; the immune system is its sophisticated descendant (-> Meta-Pattern 02: The Boundary Pre-Exists)
 - [[DNA Error Correction]] -- layered error correction: DNA at molecular level, immunity at organismal
-- [[Concentration of Measure]] -- the mathematical equator parallels the biological equator
+- [[Concentration of Measure]] -- why a boundary is the expected structure in a high-dimensional space
 - [[CRISPR]] -- bacterial immune memory: a simpler version of adaptive immunity
 - [[Ozone and Montreal Protocol]] -- both detect and correct specific threats
 - [[Coral Reef Symbiosis]] -- both maintain boundaries between beneficial and harmful
 
 ## Status
 
-Established immunology. See Murphy & Weaver, *Janeway's Immunobiology* (10th ed.). Receptor diversity estimate is standard but approximate. The equator metaphor is this project's structural interpretation.
+Established immunology. See Murphy & Weaver, *Janeway's Immunobiology* (10th ed.). Receptor diversity estimate is standard but approximate. The mapping to the five properties is this project's structural interpretation.
 
 ---
 

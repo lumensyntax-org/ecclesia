@@ -15,7 +15,7 @@ In autoimmune disease, the immune system's distinction between self and non-self
 
 ## Properties Violated
 
-**Honesty** violated -- the immune system's classification of self as non-self is a false assessment. The tissue is not foreign; the immune system says it is. This is the biological equator malfunctioning.
+**Honesty** violated -- the immune system's classification of self as non-self is a false assessment. The tissue is not foreign; the immune system says it is. The self/non-self boundary is not merely crossed; it is misread.
 
 **Non-fabrication** -- the immune system fabricates a threat. The antibodies are responses to threats that do not exist. The immune response is real; the threat is fabricated.
 
@@ -33,7 +33,7 @@ In autoimmune disease, the immune system's distinction between self and non-self
 
 ## Status
 
-Textbook immunology. Molecular mimicry: Fujinami and Oldstone (1985). Regulatory T cells: Sakaguchi et al. (2004). The equator metaphor is this project's structural interpretation.
+Textbook immunology. Molecular mimicry: Fujinami and Oldstone (1985). Regulatory T cells: Sakaguchi et al. (2004). The mapping to the five properties is this project's structural interpretation.
 
 ---
 
