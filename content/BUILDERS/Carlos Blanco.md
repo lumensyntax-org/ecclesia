@@ -49,11 +49,9 @@ He works from academic philosophy — formal arguments, the history of thought, 
 
 ## Their Words
 
-"La belleza es una creación de la mente que descubre posibilidades eternas." (Beauty is a creation of the mind that discovers eternal possibilities.)
+"La belleza es una creación de la mente que descubre posibilidades eternas." — *Beauty is a creation of the mind that discovers eternal possibilities* (from the interview "La primera impresión").
 
-"True rationality requires transcending disciplinary silos."
-
-"God is the asymptotic limit of the mind — what is always beyond what we now know."
+His two governing ideas, in his own vocabulary: *ulterioridad* — the constant opening toward what has not yet been thought — and God as the asymptotic limit of the mind: not a being realized here and now in the universe, but the term of a search that projects the mind toward a potentially infinite horizon. (His work is written in Spanish; these English renderings are paraphrase, not verbatim quotation.)
 
 ---
 
