@@ -7,22 +7,22 @@ MYSTERY_EXPLORATION throughout. These entries trace how the encounter with one's
 
 ## I. The Mirror Test -- Self-Recognition Across Species
 
-1. [[Mirror Self-Recognition Test]] -- Gallup (1970)
+1. [[MIRROR/Gallup Mirror Self-Recognition|Mirror Self-Recognition Test]] -- Gallup (1970)
 
 ## II. Psychoanalysis and Developmental Psychology
 
 2. [[Lacan Mirror Stage]] -- The Mirror Stage (1949)
-3. [[Winnicott Mirror Role]] -- The Mirror Role of the Mother (1971)
-4. [[Looking-Glass Self]] -- Cooley (1902)
+3. [[MIRROR/Winnicott Mother as First Mirror|Winnicott Mirror Role]] -- The Mirror Role of the Mother (1971)
+4. [[MIRROR/Cooley Looking-Glass Self|Looking-Glass Self]] -- Cooley (1902)
 
 ## III. The History of Mirrors as Technology
 
-5. [[History of Mirrors]] -- From Obsidian to Silvered Glass
+5. [[MIRROR/Material History of Mirrors|History of Mirrors]] -- From Obsidian to Silvered Glass
 
 ## IV. Art and the Mirror
 
-6. [[Brunelleschi's Mirror Experiment]] -- The Birth of Perspective from a Mirror
-7. [[Self-Portraits in Art]] -- The Artist Confronts the Mirror
+6. Brunelleschi's Mirror Experiment -- The Birth of Perspective from a Mirror
+7. [[MIRROR/Rembrandt Self-Portraits|Self-Portraits in Art]] -- The Artist Confronts the Mirror
 
 ## V. Mythology and Philosophy of the Mirror
 

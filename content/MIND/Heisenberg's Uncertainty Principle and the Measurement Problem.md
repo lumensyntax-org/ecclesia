@@ -104,7 +104,7 @@ This is an instance of [[The Recurring Hole at the Boundary of Method]]: the met
 - [[Wittgenstein]] — the boundary of what can be said: "of that whereof one cannot speak, one must remain silent"
 - [[Heidegger]] — *aletheia* (unconcealment): coming into appearance always brings the concealed with it
 - [[Higher-Order Theories of Consciousness]] — the meta-level: representations of one's own state encounter their own residue
-- [[Logos in John]] — the pattern that precedes any particular method
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the pattern that precedes any particular method
 - [[Christian Mysticism]] — the apophatic discipline of refusing to fabricate the unsayable
 - [[Kabbalah]] — the *mecubal* who studies from inside the system; the convergence with the observer who cannot exit the quantum scale
 

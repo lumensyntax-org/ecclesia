@@ -23,7 +23,7 @@ Empathy operates at three levels: emotional contagion (automatic), sympathetic c
 - [[Codependency]] -- codependency is empathy without the self-other distinction
 - [[Levinas — Face of the Other]] -- the Face as the ethical demand that empathy registers (SPIRIT domain)
 - [[Buber — I-Thou vs I-It]] -- empathy is the bridge from I-It to I-Thou (SPIRIT domain)
-- [[Mirror Self-Recognition Test]] -- the self-other distinction that empathy requires (MIRROR domain)
+- [[MIRROR/Gallup Mirror Self-Recognition|Mirror Self-Recognition Test]] -- the self-other distinction that empathy requires (MIRROR domain)
 
 ## Status
 

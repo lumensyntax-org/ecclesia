@@ -26,7 +26,7 @@ The legal and ethical requirement that a patient must be given adequate informat
 
 - [[Hippocratic Oath]] -- consent operationalizes the Oath's proportionality
 - [[CRISPR Gene Therapy]] -- germline editing violates consent of future generations (He Jiankui case)
-- [[Nuremberg Trials]] -- the Code emerged from the darkest violation of medical consent
+- Nuremberg Trials -- the Code emerged from the darkest violation of medical consent
 - [[Evidence-Based Medicine]] -- both require that claims match evidence, not authority
 - [[Gaslighting]] -- gaslighting destroys the capacity for informed consent by attacking self-trust
 

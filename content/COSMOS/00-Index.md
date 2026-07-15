@@ -37,7 +37,7 @@ The pattern at the foundation. 25 entries spanning established physics, mathemat
 
 ## VI. Celestial Mechanics, Boundaries, and Information
 
-16. [[Kepler's Laws]] -- Proportion in Celestial Mechanics
+16. [[EARTH/Kepler's Laws (Earth Context)|Kepler's Laws]] -- Proportion in Celestial Mechanics
 17. [[Holographic Principle]] -- Information on Boundaries
 18. [[Fine-Tuning and Anthropic Observations]] -- The Honest Open Question
 
@@ -49,7 +49,7 @@ The pattern at the foundation. 25 entries spanning established physics, mathemat
 
 ## VIII. Unresolved Frontiers and Convergence
 
-22. [[Cosmic Web]] -- Structure Honestly Amplified
+22. [[COSMOS/The Cosmic Web|Cosmic Web]] -- Structure Honestly Amplified
 23. [[Riemann Hypothesis]] -- Non-Fabrication at the Frontier of Knowledge
 24. [[Black Hole Thermodynamics]] -- Where All Five Properties Converge
 25. [[Cosmological Principle]] -- Alignment as Foundational Assumption

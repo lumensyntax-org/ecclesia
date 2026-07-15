@@ -24,7 +24,7 @@ The placebo effect is measurable physiological improvement from an inert treatme
 
 ## Connections
 
-- [[Consciousness and the Hard Problem]] -- belief produces physical change; the mind-body boundary
+- [[MIND/Hard Problem of Consciousness|Consciousness and the Hard Problem]] -- belief produces physical change; the mind-body boundary
 - [[Homeostasis]] -- the placebo engages the body's own regulatory systems
 - [[Diagnosis]] -- the diagnosis itself can trigger physiological responses (nocebo effect)
 - [[Informed Consent]] -- placebo prescription creates a tension with the duty to inform

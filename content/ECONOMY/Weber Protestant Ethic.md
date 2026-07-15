@@ -23,11 +23,11 @@ Weber argued that Calvinist theology -- specifically the doctrine of predestinat
 
 ## Connections
 
-- [[Adam Smith Invisible Hand]] -- Smith's moral framework preceded his economics; Weber shows religion shaping economic behavior from the other direction
+- [[ECONOMY/Adam Smiths Invisible Hand|Adam Smith Invisible Hand]] -- Smith's moral framework preceded his economics; Weber shows religion shaping economic behavior from the other direction
 - [[Interest and Usury]] -- the religious prohibition on usury (Judaism, Christianity, Islam) is the theological counterpart to Weber's analysis
 - [[Invention of Money]] -- money as trust technology meets religious meaning through the Protestant ethic
 - [[Terror Management Theory]] -- both describe how existential anxiety (death, damnation) shapes behavior systems
-- [[The Scientific Revolution]] -- Weber's rationalization thesis extends beyond economics to science: methodical inquiry as another expression of the same spirit
+- [[CIVILIZATION/Scientific Revolution|The Scientific Revolution]] -- Weber's rationalization thesis extends beyond economics to science: methodical inquiry as another expression of the same spirit
 
 ## Status
 

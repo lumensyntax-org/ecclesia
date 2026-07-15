@@ -24,7 +24,7 @@ Same substance, different structure at different energies. Water exists as ice, 
 ## Connections
 
 - [[Phase Transitions]] -- the physics treatment of the same phenomenon (-> [[COMMUNICATION/00-Index]])
-- [[Dissipative Structures (Earth)]] -- far-from-equilibrium phase transitions create order (-> [[EARTH/00-Index]])
+- [[EARTH/Dissipative Structures|Dissipative Structures (Earth)]] -- far-from-equilibrium phase transitions create order (-> [[EARTH/00-Index]])
 - [[Water's Anomalous Properties]] -- water's phase behavior is anomalous and essential for life (-> [[EARTH/00-Index]])
 - [[Symmetry Breaking]] -- phase transitions are instances of symmetry breaking (-> [[COSMOS/00-Index]])
 - [[Gibbs Free Energy]] -- DeltaG determines which phase is stable at given conditions

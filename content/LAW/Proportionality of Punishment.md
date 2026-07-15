@@ -26,7 +26,7 @@ The punishment must be proportionate to the offense. Hammurabi established "an e
 - [[Speed of Light]] -- proportion as physical law; the universe has built-in limits (-> COSMOS)
 - [[Le Chatelier's Principle]] -- proportional response to disturbance; equilibrium restored, not exceeded (-> EARTH)
 - [[The Jubilee (Law)]] -- proportion applied at civilizational scale through periodic reset
-- [[Arms Race]] -- what happens when proportionality is abandoned: escalation without limit (-> SHADOW)
+- [[SHADOW/The Arms Race|Arms Race]] -- what happens when proportionality is abandoned: escalation without limit (-> SHADOW)
 - [[Feedback Control]] -- proportional response is the basis of control theory (-> CONSTRUCTION)
 
 ## Status

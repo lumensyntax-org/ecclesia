@@ -27,7 +27,7 @@ Three thinkers across 111 years. Hobbes: individuals surrender freedom for secur
 - [[Constitutions as Structural Firmware]] -- the contract made durable through constitutional encoding
 - [[The Rule of Law]] -- the contract requires that the state itself be subject to law
 - [[Kant]] -- the categorical imperative as moral parallel to the social contract (-> SPIRIT)
-- [[Tragedy vs Ostrom (Economy)]] -- commons governance as social contract at community scale (-> ECONOMY)
+- [[ECONOMY/Commons Hardin vs Ostrom|Tragedy vs Ostrom (Economy)]] -- commons governance as social contract at community scale (-> ECONOMY)
 - [[Nash Equilibrium]] -- the social contract as a cooperative equilibrium (-> FORMAL-LANGUAGE)
 
 ## Status

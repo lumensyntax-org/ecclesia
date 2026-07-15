@@ -23,7 +23,7 @@ No object with mass can reach or exceed the speed of light in vacuum, c = 299,79
 ## Connections
 
 - [[Planck Scale]] -- where the speed of light meets quantum gravity (c appears in Planck units)
-- [[E equals mc squared]] -- mass-energy equivalence follows directly from special relativity (-> [[COMMUNICATION/00-Index]])
+- [[COMMUNICATION/E=mc squared|E equals mc squared]] -- mass-energy equivalence follows directly from special relativity (-> [[COMMUNICATION/00-Index]])
 - [[Bell's Theorem]] -- nonlocality in quantum mechanics challenges but does not violate c (no superluminal signaling)
 - [[Shannon's Channel Capacity]] -- information transmission also has structural speed limits
 - [[Holographic Principle]] -- c constrains causal structure, defining event horizons

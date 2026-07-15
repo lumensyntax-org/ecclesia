@@ -142,21 +142,21 @@ The Hiranyagarbha (Vedic), Orphic egg (Greek), and Easter egg (Christian) tradit
 
 ## Connections
 
-- [[Logos in John]] — the Word as the structure of the source's self-utterance
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the Word as the structure of the source's self-utterance
 - [[Kenosis]] — Christ's self-emptying as the modulation by which the source enters the medium without destroying it
 - [[The Anointing and the Mirror]] — Christ as the reflection that does not retain; the receiver's openness without retention
 - [[The Last Shall Be First]] — the Holy Innocents as proof that the form of the source receives the most last first
 - [[The Fall]] — the fragmentation that begins history; the wound that is real but included
-- [[Cain and Abel]] — the first child loss; the first evidence of fragmentation reaching the next generation
-- [[The Prodigal Son]] — the parable of return, the father always running
+- Cain and Abel — the first child loss; the first evidence of fragmentation reaching the next generation
+- [[SPIRIT/The Last Shall Be First|The Prodigal Son]] — the parable of return, the father always running
 - [[Christian Mysticism]] — apophatic theology; the source whose form must be approached by negation because affirmations falsify
-- [[Logos in John]] — the Word as continuous saying
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the Word as continuous saying
 - [[Kabbalah]] — humility as divine act (tzimtzum: God contracting to make space for creation)
 - [[Tikkun Olam]] — repair as participation; the human side of the return
 - [[Pilgrimage Across Traditions]] — the journey as structural transformation; the exterior pilgrimage as image of the interior return
 - [[Apoptosis in Development]] — programmed cell death in biology as image of necessary release for form to emerge
 - [[Stellar Nucleosynthesis]] — the star streaming light as the way the star is the star; ceasing to fuse is ceasing to be a star
-- [[CAR-T Cell Therapy]] — the receiver retrained; the structure restored without replacing the system
+- CAR-T Cell Therapy — the receiver retrained; the structure restored without replacing the system
 
 ## The Veil and the Work
 

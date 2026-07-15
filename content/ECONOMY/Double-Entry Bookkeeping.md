@@ -17,7 +17,7 @@ Double-entry bookkeeping makes commercial dishonesty structurally detectable. If
 **Honesty** -- double-entry makes dishonesty structurally detectable. The internal consistency requirement means fabrication must propagate, creating increasingly complex webs that eventually collapse under audit. **Alignment** -- the books represent a claim about reality (what the business owns, owes, earned). Double-entry forces internal consistency: stated position must align with sum of all transactions. **Proportion** -- nothing is created or destroyed in the ledger. This is the economic equivalent of a conservation law: value is transformed, not conjured.
 
 ## Connections
-- [[Noethers Theorem]] -- Noether proved conservation laws follow from symmetry; double-entry is a conservation law for commercial value (Meta-Pattern 12: Conservation / Invariance)
+- [[COSMOS/Noether's Theorem|Noethers Theorem]] -- Noether proved conservation laws follow from symmetry; double-entry is a conservation law for commercial value (Meta-Pattern 12: Conservation / Invariance)
 - [[Nuclear Arms Control]] -- material accounting for nuclear fuel parallels double-entry for financial flows (Meta-Pattern 01: Error Correction)
 - [[Wikipedia]] -- edit histories function like double-entry: every change tracked, imbalances detectable
 - [[Invention of Writing]] -- double-entry is structured writing specifically designed to resist the fabrication writing enables

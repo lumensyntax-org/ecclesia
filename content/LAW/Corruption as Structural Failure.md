@@ -29,7 +29,7 @@ The legal dimension of corruption (already in SHADOW as property violation): sys
 - [[Whistleblower Protection]] -- whistleblowers expose what anti-corruption law tries to prevent
 - [[Double-Entry Bookkeeping]] -- structural honesty in commerce; FOIA is structural honesty in governance (-> ECONOMY)
 - [[The Rule of Law]] -- anti-corruption requires that the law apply to those who make it
-- [[Transparency International]] -- the measurement infrastructure for the legal framework
+- Transparency International -- the measurement infrastructure for the legal framework
 
 ## Status
 

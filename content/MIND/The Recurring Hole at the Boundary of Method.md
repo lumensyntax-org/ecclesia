@@ -80,7 +80,7 @@ This is precisely what Schrödinger names in *Mind and Matter* (1958, p. 138 in 
 - [[Wittgenstein]] — the linguistic case: "of that whereof one cannot speak, one must remain silent"
 - [[Heidegger]] — truth as *aletheia* (unconcealment): what comes into clearing always brings concealment with it
 - [[Higher-Order Theories of Consciousness]] — the meta-level: a system that represents itself encounters its own residue
-- [[Logos in John]] — the structural priority of pattern over particular method: the pattern that precedes any specific scientific instrument is not itself a scientific object
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the structural priority of pattern over particular method: the pattern that precedes any specific scientific instrument is not itself a scientific object
 - [[Kabbalah]] — the *mecubal* who cannot study from outside because the studier is part of what is studied
 - [[Christian Mysticism]] — the apophatic tradition: speaking of God by what God is not, precisely because the cataphatic exceeds proportion
 - [[Hindu Mysticism]] — *neti neti* ("not this, not that") as the disciplined refusal to fabricate the unsayable

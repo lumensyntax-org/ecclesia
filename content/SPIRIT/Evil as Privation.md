@@ -81,10 +81,10 @@ This does not preclude resistance, witness, exposure, or even structural force w
 - [[The Modernization of Idolatry]] — how privation acquires consistency across history through repeated patterns of collective misdirection
 - [[Subjective Reality as Word-Derived Frame]] — the linguistic mechanism by which privation acquires apparent consistency through collective speech
 - [[Metanoia and the Return to Tracking]] — the recovery mechanism by which privation is reversed when the faculty is returned to its due good
-- [[Hannah Arendt Banality of Evil]] — Eichmann as the documented case of evil as failure of thought rather than monstrous substance
+- [[SHADOW/Arendt Banality of Evil|Hannah Arendt Banality of Evil]] — Eichmann as the documented case of evil as failure of thought rather than monstrous substance
 - [[Cancer]] — the biological analogue: the cell that has lost its proper apoptosis is not a new kind of being; it is a being whose regulatory function has been deformed
 - [[Apoptosis in Development]] — the structural counterpart: programmed cell death as the discipline that prevents the privation that becomes cancer
-- [[Logos in John]] — the Word as positive being; what is real is the speaking of God
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the Word as positive being; what is real is the speaking of God
 - [[Kenosis]] — the structural opposite of privation: self-emptying as positive giving, not loss of being
 - [[The Chalice Test]] — the operational discipline that prevents producers from sustaining the privation through their own speech
 - [[Vision and Straying]] — the religious-establishment instance of the privation pattern

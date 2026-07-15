@@ -25,7 +25,7 @@ Entropy is not "disorder" -- it is the logarithm of the number of accessible mic
 - [[Gibbs Free Energy]] -- the TDeltaS term connects entropy to spontaneity in chemistry
 - [[Boltzmann Distribution]] -- both derive from Boltzmann's statistical framework
 - [[Conservation Laws]] -- the First Law conserves energy; the Second Law (entropy) adds directionality (-> [[COSMOS/00-Index]])
-- [[Dissipative Structures (Earth)]] -- local entropy decrease requires greater entropy export (-> [[EARTH/00-Index]])
+- [[EARTH/Dissipative Structures|Dissipative Structures (Earth)]] -- local entropy decrease requires greater entropy export (-> [[EARTH/00-Index]])
 
 ## Status
 

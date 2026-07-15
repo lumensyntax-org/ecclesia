@@ -28,7 +28,7 @@ The adaptive immune system is a biological mirror: it functions by distinguishin
 - [[Immune System and Clonal Selection]] -- the LIFE entry covers the mechanism; this MIRROR entry covers the structural meaning
 - [[DNA Error Correction]] -- both are biological error correction; immune system corrects identity errors, DNA corrects sequence errors
 - [[Lacan Mirror Stage]] -- Lacan's meconnaissance (misrecognition) parallels autoimmunity: the system sees itself incorrectly
-- [[Lipid Bilayer]] -- the first physical self/non-self boundary; the immune system is its adaptive descendant
+- [[LIFE/The Lipid Bilayer|Lipid Bilayer]] -- the first physical self/non-self boundary; the immune system is its adaptive descendant
 
 ## Status
 

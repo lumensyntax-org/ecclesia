@@ -113,13 +113,13 @@ The encyclical closes (§16) with the image of the rebuilding under Nehemiah bro
 
 - [[Tower of Babel]] — the encyclical's central organizing metaphor; the document develops the Genesis 11 narrative as the diagnostic of the technocratic-dominance pattern
 - [[Nehemiah — The Wall Rebuilt in Sections]] — the complementary pattern the encyclical proposes as the alternative to Babel; Nehemiah is cited multiple times as the model of distributed rebuilding under common direction
-- [[Logos in John]] — the cristological framing of the opening (§1, citing *Gaudium et Spes* §22 on the Word made flesh as the one in whom the mystery of humanity becomes clear)
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the cristological framing of the opening (§1, citing *Gaudium et Spes* §22 on the Word made flesh as the one in whom the mystery of humanity becomes clear)
 - [[Kenosis]] — the implicit structural framing of the response: the Church does not claim technical authority, the state does not claim total competence, the technology does not claim moral neutrality; each empties its claim and accepts proportion
 - [[Ten Commandments]] — the structural pattern of grounding ethical claims in the ontological structure of creation rather than in pragmatic calculation
 - [[Subjective Reality as Word-Derived Frame]] — the encyclical's diagnosis of populations "frightened or manipulated" (§56) names the same structural pattern from the social-doctrinal register
 - [[The Inverted Outlet]] — the encyclical's warning against algorithmic discrimination and against the ideology that requires the person to "earn or justify his or her own worth" (§51) names structurally the same inversion at the institutional scale
 - [[Structural Definition of Evil]] — the encyclical operates without using that phrase but the structural diagnostic of the technocratic paradigm has the same shape
-- [[Imago Dei]] (cross-referenced through §50) — the foundational claim that grounds the rest of the document
+- Imago Dei (cross-referenced through §50) — the foundational claim that grounds the rest of the document
 - [[Just War Theory]] — the "disarm AI" framing extends the just-war tradition to a new category; the structural move parallels how the Church addressed nuclear weapons in *Gaudium et Spes* §80
 
 ## Status

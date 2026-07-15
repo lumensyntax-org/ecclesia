@@ -53,7 +53,7 @@ These accounts converge on the same structure: a mechanism by which the human, h
 
 ### The recursion
 
-Like the [[Chalice Test]], metanoia applies recursively. The frame in which one identifies one's drift may itself be a drift. The discipline of metanoia is not a meta-frame from which all other frames can be evaluated; it is the ongoing practice of allowing one's current frame to be tested against reality. There is no privileged position above the drift. There is only the discipline of return performed from wherever one is.
+Like the [[SPIRIT/The Chalice Test|Chalice Test]], metanoia applies recursively. The frame in which one identifies one's drift may itself be a drift. The discipline of metanoia is not a meta-frame from which all other frames can be evaluated; it is the ongoing practice of allowing one's current frame to be tested against reality. There is no privileged position above the drift. There is only the discipline of return performed from wherever one is.
 
 This is why the classical tradition treats *humility* as the operational requirement of metanoia. The person convinced that their frame is currently in tracking is, by that very conviction, defended against the recognition of any drift in it. Humility — in the structural sense [[The Chalice Test]] uses — is the posture that keeps the frame open to correction.
 
@@ -83,11 +83,11 @@ The bug discovered in the deploy chain (2026-05-19, the YAML wikilink failure th
 - [[Vision and Straying]] — the religious-establishment case of failure of metanoia; access without return
 - [[Reframe Over Refute]] — Jesus's mode of inviting metanoia rather than arguing the prior frame
 - [[The Anointing and the Mirror]] — the bearer returns to bearing by metanoia when the bearer drifts toward retention
-- [[Logos in John]] — the Word as the source against which the human word is returned in tracking
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the Word as the source against which the human word is returned in tracking
 - [[Kenosis]] — the structural movement that creates the space within which return is possible
-- [[Bayesian Updating]] — the formal-probabilistic analogue: belief revision in light of evidence, the secular mechanism that parallels the structural insight
+- [[FORMAL-LANGUAGE/Bayesian Inference|Bayesian Updating]] — the formal-probabilistic analogue: belief revision in light of evidence, the secular mechanism that parallels the structural insight
 - [[Apoptosis in Development]] — the biological analogue: the regulatory cell death that prevents the proliferation of drift in tissue
-- [[DNA Polymerase Proofreading]] — the molecular analogue: the correction operation built into the replication process itself
+- [[LIFE/DNA Error Correction|DNA Polymerase Proofreading]] — the molecular analogue: the correction operation built into the replication process itself
 
 ## Status
 

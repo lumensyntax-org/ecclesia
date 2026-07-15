@@ -97,7 +97,7 @@ Where the Jubilee exists — where structural resets prevent permanent accumulat
 - [[Adam Smiths Invisible Hand]] — only works within moral constraints (both books, not just one)
 - [[Marxs Critique]] — surplus value extraction = light retention by the capitalist
 - [[Zuboff Surveillance Capitalism]] — Phase 4: extraction as business model
-- [[The Biblical Jubilee]] — the structural reset that prevents permanent retention
+- [[ECONOMY/Biblical Jubilee|The Biblical Jubilee]] — the structural reset that prevents permanent retention
 - [[Debt as Deferred Proportion]] — borrowing as promising future reflection that may not materialize
 - [[Resource Curse]] — when economic value comes from a resource rather than human productivity, institutions degrade (retention at national scale)
 - [[Tragedy of the Commons]] — individual retention destroys the shared resource

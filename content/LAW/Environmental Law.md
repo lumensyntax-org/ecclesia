@@ -26,7 +26,7 @@ Emerged in the 1960s-1970s. Carson documented DDT damage. NEPA required environm
 - [[Le Chatelier's Principle]] -- ecosystems resist disturbance up to a point; environmental law protects that capacity (-> EARTH)
 - [[Planetary Boundaries]] -- the scientific framework environmental law tries to encode (-> EARTH)
 - [[The Tao]] -- nature has its own way; environmental law recognizes limits to human intervention (-> SPIRIT)
-- [[Tragedy vs Ostrom (Economy)]] -- environmental law is commons governance at planetary scale (-> ECONOMY)
+- [[ECONOMY/Commons Hardin vs Ostrom|Tragedy vs Ostrom (Economy)]] -- environmental law is commons governance at planetary scale (-> ECONOMY)
 - [[Bone Remodeling]] -- proportional response to stress; environmental law as proportional response to ecological stress (-> BODY)
 
 ## Status

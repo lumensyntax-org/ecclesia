@@ -78,13 +78,13 @@ These corroborations indicate that the structural readings in this project's ent
 
 ## Connections
 
-- [[Logos in John]] — the Word as continuous utterance; the textual realization of that utterance is the recursive citation web
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the Word as continuous utterance; the textual realization of that utterance is the recursive citation web
 - [[The Divine Child]] — the streaming chain documented across the canon is one of the most densely cross-referenced patterns in the dataset
 - [[The Last Shall Be First]] — the first-last inversion cluster corroborated by Romans 9:30, Matthew 8:11-12, Luke 7:47
 - [[Reframe Over Refute]] — the reframe pattern anchored in Proverbs 26:5 as wisdom-tradition precedent
 - [[Vision and Straying]] — the visionary-who-strays critique cross-references heavily to Hosea 4:6, Isaiah 6:9-10, Jeremiah 7:11 — the prophetic tradition already had the pattern
 - [[Sacred Music]] — analogous: structural coherence emerging across composers and centuries without central planning
-- [[DNA Polymerase Proofreading]] — the biological image of fidelity across replication; the canon's self-witness is the textual image
+- [[LIFE/DNA Error Correction|DNA Polymerase Proofreading]] — the biological image of fidelity across replication; the canon's self-witness is the textual image
 - [[Concentration of Measure]] — the mathematical fact that high-dimensional structures concentrate; the canon's themes concentrate at landmark passages
 
 ## Status

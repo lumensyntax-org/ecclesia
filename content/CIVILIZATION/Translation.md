@@ -26,8 +26,8 @@ Translation is the attempt to align meaning across languages. The history spans 
 - [[Invention of Writing]] -- writing made translation possible by externalizing language
 - [[Sapir-Whorf Hypothesis]] -- if language shapes thought, translation is not just word-swapping but worldview-bridging
 - [[Universal Grammar]] -- if deep structure is shared, translation is possible because languages share a common substrate
-- [[Printing Press]] -- the press scaled translation's reach (Luther's Bible shaped German itself)
-- [[Predictive Coding]] -- the brain predicts meaning; translation tests whether prediction transfers across linguistic systems
+- [[CIVILIZATION/The Printing Press|Printing Press]] -- the press scaled translation's reach (Luther's Bible shaped German itself)
+- [[MIND/Predictive Coding and Free Energy Principle|Predictive Coding]] -- the brain predicts meaning; translation tests whether prediction transfers across linguistic systems
 
 ## Status
 

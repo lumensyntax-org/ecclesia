@@ -22,9 +22,9 @@ State what was discovered, proved, or proposed. Cite specific papers. Distinguis
 
 ## Connections
 
-- [[Other Entry Name]] -- brief description of the connection
-- [[Another Entry]] -- what links them
-- [[Cross-Domain Entry]] -- how the structure recurs
+- `[[Other Entry Name]]` -- brief description of the connection
+- `[[Another Entry]]` -- what links them
+- `[[Cross-Domain Entry]]` -- how the structure recurs
 
 ## Status
 

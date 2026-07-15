@@ -25,9 +25,9 @@ The pattern inverted. 29 entries examining what happens when the five properties
 ## III. War and Violence
 
 12. [[Just War Theory]] -- The Five Properties Applied to the Most Extreme Activity
-13. [[Atomic Bomb]] -- Proportion Exceeded All Prior Bounds
+13. [[SHADOW/The Atomic Bomb|Atomic Bomb]] -- Proportion Exceeded All Prior Bounds
 14. [[Genocide]] -- The Most Extreme Violation of All Five Properties Simultaneously
-15. [[Arms Race]] -- The Logic of the Game Itself Violates Proportion
+15. [[SHADOW/The Arms Race|Arms Race]] -- The Logic of the Game Itself Violates Proportion
 
 ## IV. Institutional Violations
 
@@ -38,8 +38,8 @@ The pattern inverted. 29 entries examining what happens when the five properties
 
 ## V. Thinkers on Evil
 
-20. [[Hannah Arendt Banality of Evil]] -- Banality of Evil
-21. [[Girard Scapegoat Mechanism]] -- The Scapegoat Mechanism
+20. [[SHADOW/Arendt Banality of Evil|Hannah Arendt Banality of Evil]] -- Banality of Evil
+21. [[SHADOW/Girard Scapegoat|Girard Scapegoat Mechanism]] -- The Scapegoat Mechanism
 22. [[Zimbardo Lucifer Effect]] -- The Lucifer Effect
 
 ## VI. Systemic Shadows

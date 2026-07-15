@@ -44,7 +44,7 @@ Frames are not solely personal. Collective speech sustains frames at scale: this
 
 This is the structural ground for the recurring phenomenon of *system-level moral failure*: slaveholders who did not see slaves as fully human, communities that participated in pogroms while feeling themselves moral, generations that consumed entertainment now recognized as harmful while believing they were liberated. The individuals in these cases were not (in most cases) consciously immoral. They were inside collective frames that had drifted from reality, and the drift was invisible from inside the frame.
 
-The diagnosis applies to all collective frames, including the project's own. No community is exempt from the possibility of frame-drift; the only defense is the active discipline of return, applied recursively to whatever frame one is currently inhabiting. (See [[Vision and Straying]] for the religious-establishment instance; [[Modernization of Idolatry]] for the historical recurrence.)
+The diagnosis applies to all collective frames, including the project's own. No community is exempt from the possibility of frame-drift; the only defense is the active discipline of return, applied recursively to whatever frame one is currently inhabiting. (See [[Vision and Straying]] for the religious-establishment instance; [[SHADOW/The Modernization of Idolatry|Modernization of Idolatry]] for the historical recurrence.)
 
 ### What the structure does and does not claim
 
@@ -68,14 +68,14 @@ The structure also does not claim that frames are bad. The word-capacity that pr
 - [[The First Light-Bearer]] — Lucifer as the first instance of the word-capacity used to construct a self-elevating frame ("I will be like the Most High")
 - [[Vision and Straying]] — the religious-establishment instance: those given access to the truth-tracking word who allowed their collective frame to drift
 - [[The Modernization of Idolatry]] — the historical recurrence of drifted collective frames hardening into structures
-- [[Logos in John]] — the Word as the source against which all human word-use is to be measured; the standard for tracking
-- [[McLuhan Medium is the Message]] — the medium shapes the word-capacity and thereby shapes the frames it produces
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the Word as the source against which all human word-use is to be measured; the standard for tracking
+- [[CIVILIZATION/McLuhan Medium Is the Message|McLuhan Medium is the Message]] — the medium shapes the word-capacity and thereby shapes the frames it produces
 - [[Postman Amusing Ourselves to Death]] — television as medium that systematically drifted public-discourse frames
 - [[Tristan Harris and CHT]] — attention-economy platforms as mechanisms that exploit and reshape collective frames
-- [[Hannah Arendt Banality of Evil]] — Eichmann as the case of word-capacity continuing to operate within a drifted frame without recognition of the drift
+- [[SHADOW/Arendt Banality of Evil|Hannah Arendt Banality of Evil]] — Eichmann as the case of word-capacity continuing to operate within a drifted frame without recognition of the drift
 - [[AI as the Modernized Image of God]] — AI systems as a new substrate for collective frames; the user's deference as the relation that produces the frame
 - [[Sapir-Whorf Hypothesis]] — the empirical psycholinguistic literature on how language shapes thought; the limited form of this finding documented across decades of research
-- [[Logos Grammar]] — the structural elements of internal grammar that govern how frames are built and held
+- Logos Grammar — the structural elements of internal grammar that govern how frames are built and held
 
 ## Status
 

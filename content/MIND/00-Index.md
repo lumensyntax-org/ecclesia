@@ -7,7 +7,7 @@ The pattern in mind and behavior: established neuroscience, consciousness theori
 
 ## I. Neuroscience
 
-1. [[Predictive Coding]] -- The Brain Minimizes Surprise
+1. [[MIND/Predictive Coding and Free Energy Principle|Predictive Coding]] -- The Brain Minimizes Surprise
 2. [[Default Mode Network]] -- The Brain at Rest Generates Narrative
 3. [[Split-Brain and Left Hemisphere Interpreter]] -- Confabulation in Neural Tissue
 4. [[Mirror Neurons]] -- Shared Coding for Self and Other
@@ -22,16 +22,16 @@ The pattern in mind and behavior: established neuroscience, consciousness theori
 10. [[Panpsychism]] -- Consciousness as Fundamental Property
 11. [[Illusionism]] -- Defense Against Over-Reading Representations
 12. [[Joscha Bach on Consciousness]] -- Consciousness as Computational Process
-13. [[Kuhn's Taxonomy of Consciousness Theories]] -- Non-Adjudicative
+13. [[MIND/Kuhn Taxonomy of Consciousness Theories|Kuhn's Taxonomy of Consciousness Theories]] -- Non-Adjudicative
 
 ## III. Psychology
 
-14. [[Conway's Memory and the Self]] -- Coherence Over Correspondence
+14. [[MIND/Conway Memory and the Self|Conway's Memory and the Self]] -- Coherence Over Correspondence
 15. [[System 1 and System 2]] -- Where the Properties Are at Risk
 16. [[Cognitive Dissonance]] -- The Felt Cost of Misalignment
 17. [[Confirmation Bias]] -- Honesty Violated at the Epistemic Strategy Level
 18. [[Dunning-Kruger Effect]] -- Humility Failure as Structural Deficit
-19. [[Milgram's Obedience]] -- The Knowledge-Action Gap Under Authority
+19. [[MIND/Milgram Obedience|Milgram's Obedience]] -- The Knowledge-Action Gap Under Authority
 20. [[Stanford Prison Experiment]] -- The Instrument Trap of Social Roles (with Criticism)
 21. [[Asch Conformity]] -- Social Fabrication of False Consensus
 22. [[Terror Management Theory]] -- Why Fabrication Persists

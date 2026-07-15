@@ -26,7 +26,7 @@ Ordinary citizens determine facts and render verdicts. By the 14th century, the 
 - [[The Rule of Law]] -- jury trial ensures the law serves the community, not just the state
 - [[The Adversarial System]] -- the jury is the arbiter within the adversarial framework
 - [[Wikipedia]] -- distributed knowledge production by non-experts; same structural humility (-> CIVILIZATION)
-- [[Tragedy vs Ostrom (Economy)]] -- Ostrom's principle 4 (monitoring by community members) parallels jury function (-> ECONOMY)
+- [[ECONOMY/Commons Hardin vs Ostrom|Tragedy vs Ostrom (Economy)]] -- Ostrom's principle 4 (monitoring by community members) parallels jury function (-> ECONOMY)
 - [[Distributed Systems and Consensus]] -- consensus by distributed nodes, not central authority (-> CONSTRUCTION)
 
 ## Status

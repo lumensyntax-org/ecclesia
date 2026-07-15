@@ -28,7 +28,7 @@ CRISPR-Cas9, adapted from bacterial immune defense, enables programmable gene ed
 - [[Apoptosis]] -- both: mechanisms that maintain genetic integrity, now subject to intervention
 - [[Informed Consent]] -- germline editing is the ultimate informed consent violation
 - [[CRISPR]] (LIFE domain) -- the bacterial origin: immune memory that became therapeutic tool
-- [[Atomic Bomb]] -- both: scientific capability that raises the ultimate proportion question
+- [[SHADOW/The Atomic Bomb|Atomic Bomb]] -- both: scientific capability that raises the ultimate proportion question
 
 ## Status
 

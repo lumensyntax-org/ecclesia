@@ -17,9 +17,9 @@ Shannon proved that communication has inherent structural limits that no amount 
 **Proportion** -- channel capacity is the mathematical expression of proportion in communication: you can transmit exactly as much information as the channel allows, no more. Any system claiming to exceed channel capacity is fabricating performance. **Humility** -- Shannon's theorem defines the boundary of legitimate authority for any communication system. No encoding scheme, however clever, can exceed C. The system's authority extends to C and no further. **Non-fabrication** -- claims of communication reliability above the Shannon limit are structurally impossible. The theorem provides a formal criterion for identifying fabricated performance claims.
 
 ## Connections
-- [[Noethers Theorem]] -- both are formal proofs that structural limits are theorems, not engineering failures (Meta-Pattern 02: The Boundary Pre-Exists)
-- [[Goedels Incompleteness Theorems]] -- both prove systems have inherent boundaries that cannot be overcome from within (Meta-Pattern 02)
-- [[DNA]] -- the longest continuously operating communication channel, using error-correcting codes Shannon's theory describes (Meta-Pattern 01: Error Correction)
+- [[COSMOS/Noether's Theorem|Noethers Theorem]] -- both are formal proofs that structural limits are theorems, not engineering failures (Meta-Pattern 02: The Boundary Pre-Exists)
+- [[COSMOS/Godel's Incompleteness Theorems|Goedels Incompleteness Theorems]] -- both prove systems have inherent boundaries that cannot be overcome from within (Meta-Pattern 02)
+- [[COMMUNICATION/DNA as Communication|DNA]] -- the longest continuously operating communication channel, using error-correcting codes Shannon's theory describes (Meta-Pattern 01: Error Correction)
 - [[Invention of Writing]] -- writing as a communication channel without Shannon's formal constraints
 - [[Bretton Woods]] -- a system that exceeded its structural capacity, as if violating its own channel limit
 

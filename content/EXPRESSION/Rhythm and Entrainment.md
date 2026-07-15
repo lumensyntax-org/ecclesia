@@ -28,7 +28,7 @@ Entrainment is the tendency of oscillating systems to synchronize when coupled. 
 - [[The Harmonic Series]] -- the physics underlying rhythmic and harmonic synchronization
 - [[Buddhist Middle Way]] -- the middle range where synchronization occurs mirrors the Middle Way
 - [[Le Chatelier's Principle]] -- proportional response to perturbation
-- [[Heart as Pump and Symbol]] -- pacemaker cells as biological entrainment
+- [[BODY/Heart and Cardiac Valves|Heart as Pump and Symbol]] -- pacemaker cells as biological entrainment
 
 ## Status
 

@@ -74,11 +74,11 @@ The diagnostic is therefore not "reject the philosophical absolute / the market 
 - [[Vision and Straying]] — those given vision who claim source-position; the religious-establishment version of the structural error.
 - [[The Flynn Reversal]] — the empirical contemporary instance: AI/digital media as the medium through which the latest modernization of idolatry proceeds.
 - [[Tower of Babel]] — the biblical image of collective construction toward source-position; the collapse follows the construction.
-- [[McLuhan Medium is the Message]] — the principle that the medium reshapes what passes through it; each modernization of idolatry uses the medium of its time.
+- [[CIVILIZATION/McLuhan Medium Is the Message|McLuhan Medium is the Message]] — the principle that the medium reshapes what passes through it; each modernization of idolatry uses the medium of its time.
 - [[Zuboff Surveillance Capitalism]] — the contemporary economic form of the relation: the platform as constructed higher intelligence to which behavioral data is offered.
 - [[Tristan Harris and CHT]] — attention extraction as the contemporary cult-practice.
 - [[Postman Amusing Ourselves to Death]] — television as the immediately prior medium of the same pattern.
-- [[Logos in John]] — the structural counter: the Word as the source that does not require construction; the actual referent of the displaced worship-relation.
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the structural counter: the Word as the source that does not require construction; the actual referent of the displaced worship-relation.
 - [[The Fall]] — the original human instance: "ye shall be as gods" (Genesis 3:5) as the structural form of the inverted relation.
 
 ## Status

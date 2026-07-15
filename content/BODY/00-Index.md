@@ -1,6 +1,6 @@
 # BODY -- Anatomy, Physiology, and Genetics
 
-The pattern in biological structure. 19 entries from organ systems through developmental biology. The biological facts are textbook; the mapping to the five properties is this project's contribution.
+The pattern in biological structure. 18 entries from organ systems through developmental biology. The biological facts are textbook; the mapping to the five properties is this project's contribution.
 
 
 ---
@@ -31,7 +31,6 @@ The pattern in biological structure. 19 entries from organ systems through devel
 16. [[Gastrulation]] -- The Most Important Event in Your Life
 17. [[Apoptosis in Development]] -- Creation Through Selective Destruction
 18. [[Left-Right Asymmetry]] -- Symmetry Breaking at the Organism Scale
-19. [[Neural Crest Cells]] -- One Population, Many Expressions
 
 ---
 

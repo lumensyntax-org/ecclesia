@@ -25,8 +25,8 @@ The pattern in built systems. 20 entries from software bugs through game theory.
 
 ## III. Physical Engineering
 
-13. [[Structural Engineering Safety Factors]] -- Humility Built Into Steel
-14. [[Feedback Control Systems]] -- Proportion as Engineering
+13. [[CONSTRUCTION/Safety Factors in Structural Engineering|Structural Engineering Safety Factors]] -- Humility Built Into Steel
+14. [[CONSTRUCTION/Feedback Control|Feedback Control Systems]] -- Proportion as Engineering
 15. [[Redundancy in Aviation]] -- All Five Properties at Operational Scale
 16. [[Materials Science]] -- Structural Limits That Cannot Be Negotiated
 
@@ -34,7 +34,7 @@ The pattern in built systems. 20 entries from software bugs through game theory.
 
 17. [[Nash Equilibrium]] -- Alignment Between Individual and Collective
 18. [[Network Effects and Lock-In]] -- The Economic Instrument Trap
-19. [[Graceful Degradation]] -- Proportion in Failure
+19. [[CONSTRUCTION/Graceful Degradation vs Catastrophic Failure|Graceful Degradation]] -- Proportion in Failure
 20. [[Cathedral and the Bazaar]] -- Two Models of Building
 
 ---

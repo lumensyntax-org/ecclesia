@@ -20,7 +20,7 @@ The Industrial Revolution is the paradigmatic case of proportion violated. The p
 - [[Marxs Critique]] -- Marx's structural analysis of capital accumulation emerged directly from observing the Industrial Revolution (Meta-Pattern 03: Knowledge-Action Gap)
 - [[Schumpeter Creative Destruction]] -- Schumpeter saw the same process as capitalism's defining feature rather than its pathology (Meta-Pattern 15: Death as Function)
 - [[Resource Curse]] -- same pattern: wealth extraction without proportional institutional capacity (Meta-Pattern 04: Proportion as Optimization)
-- [[Bone Remodeling and Wolffs Law]] -- biological systems optimize under constraint; the Industrial Revolution removed the constraint
+- [[BODY/Bone Remodeling|Bone Remodeling and Wolffs Law]] -- biological systems optimize under constraint; the Industrial Revolution removed the constraint
 - [[Keynesian Economics]] -- Keynes's counter-cyclical framework emerged as response to industrial capitalism's boom-bust cycles
 
 ## Status

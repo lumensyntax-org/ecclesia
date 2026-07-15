@@ -94,7 +94,7 @@ Are you reflecting or retaining?
 ## Connections
 
 - [[Attachment Theory]] — the first social mirror: the mother/caregiver (Bowlby, Ainsworth)
-- [[Gottmans Four Horsemen]] — relationship failure as mirror malfunction between partners
+- [[LOVE/Gottman's Four Horsemen|Gottmans Four Horsemen]] — relationship failure as mirror malfunction between partners
 - [[Winnicott Mother as First Mirror]] — "When I look I am seen, so I exist" — the origin of the social mirror
 - [[Mirror Neurons]] — the biological hardware of the social mirror
 - [[Lacan Mirror Stage]] — the ego as constitutive fiction formed by the mirror; the social mirror as the communal version

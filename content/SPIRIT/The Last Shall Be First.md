@@ -97,9 +97,9 @@ Three corollaries follow:
 - [[Logos in John 1-1]] — the Word incarnate enters the pattern of child loss from the moment of birth
 - [[Kenosis]] — Christ's self-emptying; the Innocents as the receiving end of kenotic structure
 - [[The Anointing and the Mirror]] — Christ as the reflection that does not retain; the lost received without being held
-- [[Cain and Abel]] — first lost child by parental fall; first enactment of the pattern
-- [[The Prodigal Son]] — explicit restoration parable for the lost child
-- [[Death as Function]] — the meta-pattern; loss as the mechanism by which restoration becomes structural rather than compensatory
+- Cain and Abel — first lost child by parental fall; first enactment of the pattern
+- [[SPIRIT/The Last Shall Be First|The Prodigal Son]] — explicit restoration parable for the lost child
+- Death as Function — the meta-pattern; loss as the mechanism by which restoration becomes structural rather than compensatory
 - [[Nuclear Binding Energy and the Iron Peak]] — proportionate response at the structural limit; supernova as restoration through death
 - [[Apoptosis]] — programmed death as condition for restoration in cellular biology
 

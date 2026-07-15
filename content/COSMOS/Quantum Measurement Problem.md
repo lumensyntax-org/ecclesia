@@ -25,7 +25,7 @@ In quantum mechanics, a system exists in a superposition of states until measure
 - [[Bell's Theorem]] -- Bell formalized and Aspect confirmed the impossibility of local hidden variables
 - [[Planck Scale]] -- both mark structural limits on what physics can know (-> Meta-Pattern 02: The Boundary Pre-Exists)
 - [[Immune System and Clonal Selection]] -- biological measurement (antigen recognition) also changes the system (clonal expansion)
-- [[Predictive Coding]] -- brain's prediction machinery faces the same observer-participation problem
+- [[MIND/Predictive Coding and Free Energy Principle|Predictive Coding]] -- brain's prediction machinery faces the same observer-participation problem
 - [[Coral Reef Symbiosis]] -- bleaching reveals that observation/measurement reveals underlying state
 
 ## Status

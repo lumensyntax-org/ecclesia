@@ -27,7 +27,7 @@ Every 50 years: debts forgiven, slaves freed, land returned to original tribal a
 - [[Debt as Deferred Proportion]] -- debt without Jubilee becomes permanent extraction (-> ECONOMY)
 - [[Proverbs 8 — Wisdom as Pre-Existent Structure]] -- wisdom as structural property preceding human invention (-> SPIRIT)
 - [[Tikkun Olam]] -- repair of the world includes economic repair (-> SPIRIT)
-- [[Marx's Critique]] -- Marx identified the compounding structural inequality the Jubilee was designed to prevent (-> ECONOMY)
+- [[ECONOMY/Marxs Critique|Marx's Critique]] -- Marx identified the compounding structural inequality the Jubilee was designed to prevent (-> ECONOMY)
 - [[Bubbles and Crashes]] -- the Jubilee is the controlled version of what crashes do uncontrollably (-> ECONOMY)
 
 ## Status

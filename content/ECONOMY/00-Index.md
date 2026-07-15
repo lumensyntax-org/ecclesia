@@ -35,14 +35,14 @@ The pattern in exchange, value, and institutional design. 20 entries from the in
 
 ## VI. Economic Thought
 
-14. [[Adam Smith Invisible Hand]] -- Self-Interest Within Moral Bounds
-15. [[Marx's Critique]] -- Structural Misalignment Between Production and Benefit
+14. [[ECONOMY/Adam Smiths Invisible Hand|Adam Smith Invisible Hand]] -- Self-Interest Within Moral Bounds
+15. [[ECONOMY/Marxs Critique|Marx's Critique]] -- Structural Misalignment Between Production and Benefit
 16. [[Keynesian Economics]] -- Counter-Cyclical Proportion
-17. [[Tragedy vs Ostrom (Economy)]] -- Governing the Commons
+17. [[ECONOMY/Commons Hardin vs Ostrom|Tragedy vs Ostrom (Economy)]] -- Governing the Commons
 
 ## VII. Contemporary Questions
 
-18. [[GDP as Measure]] -- Goodhart's Law and the Intelligence Curse
+18. [[ECONOMY/GDP and Goodharts Law|GDP as Measure]] -- Goodhart's Law and the Intelligence Curse
 19. [[Universal Basic Income]] -- The Open Question
 20. [[Cryptocurrency and Blockchain]] -- Structural Honesty Without Trusted Intermediaries
 

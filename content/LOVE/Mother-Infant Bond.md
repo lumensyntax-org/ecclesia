@@ -19,9 +19,9 @@ Winnicott proposed that the mother's face is the infant's first mirror. Tronick'
 
 ## Connections
 
-- [[Winnicott Mirror Role]] -- the same finding seen from the self-recognition side (MIRROR domain)
+- [[MIRROR/Winnicott Mother as First Mirror|Winnicott Mirror Role]] -- the same finding seen from the self-recognition side (MIRROR domain)
 - [[Attachment Theory]] -- the quality of mirroring determines attachment style
-- [[Looking-Glass Self]] -- Cooley's social mirror as the adult extension of maternal mirroring (MIRROR domain)
+- [[MIRROR/Cooley Looking-Glass Self|Looking-Glass Self]] -- Cooley's social mirror as the adult extension of maternal mirroring (MIRROR domain)
 - [[Lacan Mirror Stage]] -- the physical mirror succeeds the maternal mirror (MIRROR domain)
 - [[Parenting Styles]] -- authoritative parenting continues the "good enough" function
 

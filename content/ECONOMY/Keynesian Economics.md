@@ -21,7 +21,7 @@ Keynesianism is explicitly about proportion management. The private sector overs
 - [[Industrial Revolution]] -- Keynesian economics emerged as response to industrial capitalism's boom-bust cycles
 - [[Adam Smiths Invisible Hand]] -- Keynes challenged Smith's implicit assumption that markets self-correct; sometimes they do not
 - [[Bubbles and Crashes]] -- counter-cyclical policy aims to prevent Minsky's progression from hedge to Ponzi finance
-- [[Le Chateliers Principle]] -- counter-cyclical policy is the economic equivalent of Le Chatelier's principle: counteract the perturbation (Meta-Pattern 09: Feedback / Homeostasis)
+- [[EARTH/Le Chatelier's Principle|Le Chateliers Principle]] -- counter-cyclical policy is the economic equivalent of Le Chatelier's principle: counteract the perturbation (Meta-Pattern 09: Feedback / Homeostasis)
 
 ## Status
 Peer-reviewed. Foundational. See Skidelsky, *John Maynard Keynes* (3 vols., 2000). For monetarist critique, Friedman and Schwartz, *A Monetary History of the United States* (1963). For New Keynesian synthesis, Mankiw and Romer (1991).

@@ -24,10 +24,10 @@ John Snow mapped cholera deaths in Soho during the 1854 London epidemic, identif
 
 ## Connections
 
-- [[Graph Theory]] -- Snow's map IS a graph; disease clusters reveal network structure
+- [[FORMAL-LANGUAGE/Graph Theory and Networks|Graph Theory]] -- Snow's map IS a graph; disease clusters reveal network structure
 - [[Vaccination]] -- herd immunity thresholds are epidemiological calculations
 - [[Diagnosis]] -- population patterns inform individual diagnostic priors
-- [[Scientific Method]] -- Hill's criteria formalize causal inference in observational science
+- Scientific Method -- Hill's criteria formalize causal inference in observational science
 - [[Opioid Crisis]] -- epidemiological data revealed the crisis pattern before institutions acted
 
 ## Status

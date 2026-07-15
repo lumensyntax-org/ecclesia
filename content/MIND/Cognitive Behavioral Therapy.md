@@ -28,7 +28,7 @@ CBT treats depression as a cognitive misalignment: the patient's model of self, 
 - [[System 1 and System 2]] -- cognitive distortions are System 1 producing fabricated fast answers; CBT activates System 2 correction
 - [[Confirmation Bias]] -- CBT explicitly counters confirmation bias by requiring disconfirming evidence
 - [[Cognitive Dissonance]] -- dissonance is felt misalignment; CBT works on the cognitive, not emotional, component
-- [[Predictive Coding]] -- both frameworks describe the brain as a prediction machine; CBT corrects when predictions diverge from sensory evidence
+- [[MIND/Predictive Coding and Free Energy Principle|Predictive Coding]] -- both frameworks describe the brain as a prediction machine; CBT corrects when predictions diverge from sensory evidence
 - [[Psychotherapy as Mirror]] -- CBT is a specific technology of the self that aims for honest reflection rather than comfortable reflection
 - [[Homeostasis]] -- CBT restores cognitive homeostasis: correcting distortions until perception tracks reality again
 

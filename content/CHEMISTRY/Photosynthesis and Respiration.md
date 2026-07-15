@@ -23,7 +23,7 @@ Photosynthesis: 6CO2 + 6H2O + light -> C6H12O6 + 6O2. Occurs in chloroplasts. Li
 
 ## Connections
 
-- [[Gaia Hypothesis (Earth)]] -- the photosynthesis-respiration cycle is a core component of planetary self-regulation (-> [[EARTH/00-Index]])
+- [[EARTH/Gaia Hypothesis (Strong vs Weak)|Gaia Hypothesis (Earth)]] -- the photosynthesis-respiration cycle is a core component of planetary self-regulation (-> [[EARTH/00-Index]])
 - [[Great Oxidation Event]] -- photosynthesis caused the oxygen catastrophe that transformed Earth (-> [[EARTH/00-Index]])
 - [[Circadian Rhythms]] -- the light-dependent half of the cycle creates biological time (-> [[LIFE/00-Index]])
 - [[Oxidation-Reduction]] -- both processes are redox: photosynthesis reduces CO2, respiration oxidizes glucose

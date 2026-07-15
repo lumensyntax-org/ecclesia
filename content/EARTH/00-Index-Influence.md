@@ -23,10 +23,10 @@ The cosmos sets the boundary conditions Earth operates within.
 
 | Carrier (entry) | What it transmits |
 |---|---|
-| [[Kepler's Laws (Earth)]] | orbital geometry constraint |
+| [[EARTH/Kepler's Laws (Earth Context)|Kepler's Laws (Earth)]] | orbital geometry constraint |
 | [[Milankovitch Cycles]] | orbital variation → climate forcing |
 | [[Moon's Stabilizing Role]] | axial tilt stabilization across geological time |
-| [[Jupiter as Shield]] | gravitational shepherding of inner solar system |
+| [[EARTH/Jupiter as Shield (Honesty Test)|Jupiter as Shield]] | gravitational shepherding of inner solar system |
 | [[Habitable Zone]] | narrow conditions for liquid water |
 | (implicit, cited in entries) | [[Stellar Nucleosynthesis]] (COSMOS) → elemental abundance on Earth |
 
@@ -46,7 +46,7 @@ Chemistry's laws and inventory are Earth's substrate.
 
 | Carrier | What it transmits |
 |---|---|
-| [[Periodic Table]] | inventory of elements composing Earth |
+| [[EARTH/The Periodic Table|Periodic Table]] | inventory of elements composing Earth |
 | [[Le Chatelier's Principle]] | equilibrium response in all geochemical systems |
 | [[Water's Anomalous Properties]] | molecular peculiarity that enables ocean, ice, weather |
 
@@ -55,7 +55,7 @@ Human civilization is now an Earth-system force.
 
 | Carrier | What it transmits |
 |---|---|
-| [[Greenhouse Effect]] | anthropogenic CO₂ has shifted the balance |
+| [[EARTH/The Greenhouse Effect|Greenhouse Effect]] | anthropogenic CO₂ has shifted the balance |
 | [[Ozone and Montreal Protocol]] | anthropogenic damage + governed repair |
 | [[Planetary Boundaries]] | concept articulating anthropogenic limits |
 | (implicit) | [[Industrial Revolution]] (CIVILIZATION) → atmospheric chemistry shift |
@@ -100,7 +100,7 @@ Earth provides the substrate civilization runs on; sometimes withdraws it.
 |---|---|
 | [[Holocene Stability]] | enabled agriculture, settled life, complex civilization |
 | [[Plate Tectonics]] | metal extraction, geographic borders, ports |
-| [[Greenhouse Effect]] (in changing form) | climate-forced societal adaptation, migration |
+| [[EARTH/The Greenhouse Effect|Greenhouse Effect]] (in changing form) | climate-forced societal adaptation, migration |
 | (implicit cross-reference) | [[Bretton Woods]], [[Industrial Revolution]] (CIVILIZATION) presuppose stable climate |
 
 ### EARTH → ECONOMY
@@ -126,7 +126,7 @@ Earth provides the natural laboratory and chemical inventory.
 
 ### EARTH ⇄ LIFE
 The most explicit coupled domain. Articulated in:
-- [[Gaia Hypothesis (Earth)]] — strong form fabricates the coupling, weak form names it correctly
+- [[EARTH/Gaia Hypothesis (Strong vs Weak)|Gaia Hypothesis (Earth)]] — strong form fabricates the coupling, weak form names it correctly
 - [[Long-Term Carbon Cycle]] — biology and geology in continuous feedback
 - [[Great Oxidation Event]] — irreversible biology→Earth event
 - [[Mineral Evolution]] — minerals co-evolve with biology
@@ -148,7 +148,7 @@ Existing entries that are inherently cross-branch — useful pattern for future 
 | [[Great Oxidation Event]] | LIFE × EARTH × CHEMISTRY |
 | [[Plate Tectonics]] | EARTH × LIFE (LIFE has [[Plate Tectonics (Biology Context)]] explicitly cross-listing) |
 | [[Ozone and Montreal Protocol]] | EARTH × CHEMISTRY × CIVILIZATION × LAW (governance dimension) |
-| [[Periodic Table]] | EARTH × CHEMISTRY × COSMOS (origin in stellar nucleosynthesis) |
+| [[EARTH/The Periodic Table|Periodic Table]] | EARTH × CHEMISTRY × COSMOS (origin in stellar nucleosynthesis) |
 | [[Le Chatelier's Principle]] | EARTH × CHEMISTRY (cross-listed) |
 | [[Habitable Zone]] | EARTH × COSMOS × LIFE (precondition for biology) |
 

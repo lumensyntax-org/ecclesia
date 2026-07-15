@@ -20,7 +20,7 @@ The Scientific Revolution was not the discovery of honesty but the institutional
 - [[Wikipedia]] -- largest-scale attempt to institutionalize the same epistemic discipline in an open system (Meta-Pattern 01: Error Correction)
 - [[Nuclear Arms Control]] -- verification regime applies the same principle: do not trust, verify (Meta-Pattern 01)
 - [[Efficient Market Hypothesis]] -- Fama's claim that markets aggregate all information parallels "Nullius in verba" (Meta-Pattern 11: Cost of Knowing)
-- [[Noethers Theorem]] -- the mathematical backbone of the revolution's greatest achievement: conservation laws from symmetry
+- [[COSMOS/Noether's Theorem|Noethers Theorem]] -- the mathematical backbone of the revolution's greatest achievement: conservation laws from symmetry
 - [[RLHF Paradigm]] -- the structural tension the revolution resolved (authority vs. evidence) returns in AI alignment
 
 ## Status

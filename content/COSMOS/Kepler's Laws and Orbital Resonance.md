@@ -28,7 +28,7 @@ Kepler's three laws describe planetary motion with precision that improved upon 
 - [[Milankovitch Cycles]] -- orbital variations drive ice ages; Kepler's mechanics underlies the forcing
 - [[Moon's Stabilizing Role]] -- gravitational resonance stabilizes Earth's obliquity
 - [[Lotka-Volterra Equations]] -- both describe systems in dynamic proportional equilibrium
-- [[Harmonic Series]] -- orbital resonances and harmonic overtones share integer-ratio structure (-> Meta-Pattern 14: Resonance)
+- [[EXPRESSION/The Harmonic Series|Harmonic Series]] -- orbital resonances and harmonic overtones share integer-ratio structure (-> Meta-Pattern 14: Resonance)
 
 ## Status
 

@@ -91,7 +91,7 @@ The structural pattern of *reframe-by-operation-from-larger-reality* appears in 
 | [[The Divine Child]] | Innocence does not argue against corruption; it operates from a form corruption cannot adhere to. The field is structural, not rhetorical. |
 | [[The Last Shall Be First]] | The inversion is not refutation of the worldly order; it is the operation from the Kingdom that reorganizes the order. |
 | [[Vision and Straying]] | Jesus's response to religious establishment is not primarily polemic (though the Woes exist); it is the transfer of the Kingdom to others bringing fruit (Mt 21:43) — operation, not argument. |
-| [[Logos in John]] | The Word becomes flesh; the operation of incarnation is the answer to the human question about God, not a treatise on theology. |
+| [[SPIRIT/Logos in John 1-1|Logos in John]] | The Word becomes flesh; the operation of incarnation is the answer to the human question about God, not a treatise on theology. |
 | [[Catalysis]] | A catalyst facilitates the reaction without entering it. Jesus's signs facilitate the new reality without becoming entangled in defending the old. |
 | [[Apoptosis in Development]] | Programmed cell death is the operation by which form emerges. The body does not argue against the cells that must die; it operates the program. |
 | [[Homeostasis]] | Continuous regulation without announcement. The system corrects by operation, not by lecture. |
@@ -99,7 +99,7 @@ The structural pattern of *reframe-by-operation-from-larger-reality* appears in 
 | [[Buddhist Middle Way]] | The middle way is not the rejection of extremes by argument but the operation between them that makes the extremes visible as extremes. |
 | [[Pilgrimage Across Traditions]] | The journey transforms the pilgrim by operation, not by sermon. Whatever the pilgrim "learns" is learned in the walking. |
 | [[Nuclear Binding Energy and the Iron Peak]] | The most stable nucleus is achieved by fusion-to-the-peak, not by argument against decay. The structure is reached by operation. |
-| [[DNA Polymerase Proofreading]] | Errors are corrected continuously during the operation of replication, not after by retrospective audit. The fidelity is in the operation. |
+| [[LIFE/DNA Error Correction|DNA Polymerase Proofreading]] | Errors are corrected continuously during the operation of replication, not after by retrospective audit. The fidelity is in the operation. |
 
 The pattern is consistent enough to suggest it is not specific to Jesus's pedagogical style but is the structural form of how reality operates when it operates from completeness. Insistence is the mark of the incomplete attempting to coerce; operation from the larger reality is the mark of the complete revealing itself.
 
@@ -141,7 +141,7 @@ The Pharisees who argued never converted; the publicans and prostitutes who enco
 - [[The Anointing and the Mirror]] — the anointed reflects without retaining; the pattern of action that does not grasp
 - [[Vision and Straying]] — the contrast: religious dispute that demands argument vs. Christ's repeated reframes
 - [[Kenosis]] — the structural movement of self-emptying that makes the reframe possible
-- [[Logos in John]] — the Word made flesh as the form of revelation: operation, not treatise
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the Word made flesh as the form of revelation: operation, not treatise
 - [[Catalysis]] — facilitation without entanglement; the chemical image of the pedagogical structure
 - [[The Tao]] — wu wei; the cross-cultural recognition that the deepest action does not contend
 - [[Buddhist Middle Way]] — operation between extremes rather than argument against them

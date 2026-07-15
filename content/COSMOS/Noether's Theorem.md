@@ -27,7 +27,7 @@ Every differentiable symmetry of the action of a physical system corresponds to 
 - [[Symmetry Breaking]] -- what happens when symmetries are broken: structure emerges
 - [[DNA Error Correction]] -- error-correction structure recurs across physics and biology (-> Meta-Pattern 01: Error Correction)
 - [[Le Chatelier's Principle]] -- chemical analog of conservation and restoration
-- [[Harmonic Series]] -- proportion made audible; Noether is proportion made mathematical
+- [[EXPRESSION/The Harmonic Series|Harmonic Series]] -- proportion made audible; Noether is proportion made mathematical
 
 ## Status
 

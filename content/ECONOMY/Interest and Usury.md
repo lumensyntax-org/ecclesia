@@ -20,7 +20,7 @@ Three independent civilizations identified the same structural risk in interest.
 - [[Debt as Deferred Proportion]] -- interest amplifies debt's temporal claim, compounding the proportion question
 - [[Invention of Money]] -- money extended trust; interest extends trust claims across time with compound growth
 - [[Harris Cultural Materialism]] -- three traditions converging on the same prohibition is precisely the kind of material-structural signal Harris would identify
-- [[Golden Rule]] -- usury prohibitions are economic applications of the Golden Rule: do not impose on debtors what you would not accept as borrower
+- [[SPIRIT/The Golden Rule|Golden Rule]] -- usury prohibitions are economic applications of the Golden Rule: do not impose on debtors what you would not accept as borrower
 - [[2008 Financial Crisis]] -- predatory lending echoed ancient concerns: extraction beyond what borrowers could sustain
 
 ## Status

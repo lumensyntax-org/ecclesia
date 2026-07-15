@@ -26,7 +26,7 @@ Patents (20 years), copyright (life plus 50-70 years), trademarks (indefinite wi
 - [[The Printing Press]] -- IP emerged because the press made copying easy (-> CIVILIZATION)
 - [[Open Source]] -- the deliberate relinquishment of IP rights for structural reasons (-> CONSTRUCTION)
 - [[Shannon Information Theory]] -- information wants to propagate; IP constrains propagation (-> CIVILIZATION)
-- [[Adam Smith Invisible Hand]] -- IP is the exception to free markets: a government-granted monopoly (-> ECONOMY)
+- [[ECONOMY/Adam Smiths Invisible Hand|Adam Smith Invisible Hand]] -- IP is the exception to free markets: a government-granted monopoly (-> ECONOMY)
 - [[Invention of Writing]] -- writing created the problem IP tries to solve (-> CIVILIZATION)
 
 ## Status

@@ -20,7 +20,7 @@ The infant's bond with the primary caregiver is a primary biological system, not
 ## Connections
 
 - [[Mother-Infant Bond]] -- Winnicott's mirror role is the mechanism through which attachment style is transmitted
-- [[Winnicott Mirror Role]] -- the "good enough mother" as honest mirror (MIRROR domain)
+- [[MIRROR/Winnicott Mother as First Mirror|Winnicott Mirror Role]] -- the "good enough mother" as honest mirror (MIRROR domain)
 - [[Parenting Styles]] -- Baumrind's authoritative style maps to secure attachment caregiving
 - [[Codependency]] -- anxious attachment in adulthood can become the relational Instrument Trap
 - [[Boundaries]] -- secure attachment produces the capacity for healthy boundaries

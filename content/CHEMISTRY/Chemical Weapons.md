@@ -23,7 +23,7 @@ Fritz Haber developed the Haber-Bosch process: N2 + 3H2 -> 2NH3 (iron catalyst, 
 
 ## Connections
 
-- [[Atomic Bomb]] -- the same structure: knowledge that sustains and knowledge that destroys in the same hands (-> [[SHADOW/00-Index]])
+- [[SHADOW/The Atomic Bomb|Atomic Bomb]] -- the same structure: knowledge that sustains and knowledge that destroys in the same hands (-> [[SHADOW/00-Index]])
 - [[Paracelsus and Proportion]] -- Paracelsus' principle applied at civilizational scale: the dose that feeds vs the dose that kills
 - [[Catalysis]] -- the Haber process is catalysis's greatest triumph; Ypres is its darkest application
 - [[Addiction]] -- Haber's escalation mirrors addiction's structure: action exceeding proportion (-> [[SHADOW/00-Index]])

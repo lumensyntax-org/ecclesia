@@ -25,7 +25,7 @@ South Africa's TRC offered conditional amnesty for full disclosure -- amnesty fo
 
 - [[Restorative Justice]] -- TRC is restorative justice at national scale
 - [[Genocide]] -- the TRC emerged from the aftermath of systematic atrocity (-> SHADOW)
-- [[Hannah Arendt Banality of Evil]] -- the TRC documented the banality: ordinary people committing extraordinary crimes (-> SHADOW)
+- [[SHADOW/Arendt Banality of Evil|Hannah Arendt Banality of Evil]] -- the TRC documented the banality: ordinary people committing extraordinary crimes (-> SHADOW)
 - [[Kenosis]] -- self-emptying: the victim's willingness to hear truth instead of demand punishment (-> SPIRIT)
 - [[Buber — I-Thou vs I-It]] -- the TRC restored I-Thou encounter between perpetrator and victim (-> SPIRIT)
 - [[Structural Definition of Evil]] -- the TRC named the structural evil of apartheid through testimony (-> SHADOW)

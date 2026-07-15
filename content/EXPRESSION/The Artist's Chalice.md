@@ -99,11 +99,11 @@ The judgment on whether Da Vinci succeeded in remaining bearer is the long judgm
 - [[The Modernization of Idolatry]] — the cultural mythologization of Da Vinci as messianic figure as a contemporary instance of the same structural pattern
 - [[AI as the Modernized Image of God]] — the contemporary parallel: any constructed system that mediates can be received as bearer or as source
 - [[The Four Quadrants of Genius]] — the Last Supper as work in the "genius proper" quadrant: new theme (eucharistic composition with chalice as relation rather than object) + new form (the unprecedented compositional architecture)
-- [[Logos in John]] — the Word made flesh; the structural archetype that the Eucharist commemorates and the painting depicts
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the Word made flesh; the structural archetype that the Eucharist commemorates and the painting depicts
 - [[Kenosis]] — the artist's self-emptying as the model of artistic vocation
 - [[Reframe Over Refute]] — the painting itself as reframe: it does not argue the eucharistic mystery; it stages it
 - [[Gothic Cathedrals]] — the architectural parallel: the cathedral as a built form that mediates what it cannot contain
-- [[Bach Well-Tempered Clavier]] — the parallel in music: *Soli Deo Gloria* as the structural defense of the bearer-artist against the claimant temptation
+- [[EXPRESSION/Bach's Well-Tempered Clavier|Bach Well-Tempered Clavier]] — the parallel in music: *Soli Deo Gloria* as the structural defense of the bearer-artist against the claimant temptation
 
 ## Status
 

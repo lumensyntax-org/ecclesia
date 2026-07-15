@@ -21,7 +21,7 @@ Behavioral economics documents systematic misalignment between what people inten
 - [[Efficient Market Hypothesis]] -- behavioral biases are why the EMH is approximately but not perfectly true
 - [[Bubbles and Crashes]] -- bubble psychology is behavioral economics at collective scale: anchoring, herding, loss aversion
 - [[Postman Amusing Ourselves to Death]] -- framing effects at media scale: form changes decision, confirming Postman at the individual level
-- [[Split-Brain Experiments]] -- both demonstrate the Knowledge-Action Gap: one part knows, another part acts differently
+- [[MIND/Split-Brain and Left Hemisphere Interpreter|Split-Brain Experiments]] -- both demonstrate the Knowledge-Action Gap: one part knows, another part acts differently
 
 ## Status
 Peer-reviewed. Kahneman and Tversky's 1979 paper among the most cited in social science. Kahneman's *Thinking, Fast and Slow* (2011) is the definitive accessible account. For critique, see Gigerenzer, *Simple Heuristics That Make Us Smart* (1999).

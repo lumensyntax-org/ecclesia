@@ -28,7 +28,7 @@ The universe's fundamental structure emerges not from symmetry but from its brea
 - [[Conservation Laws]] -- breaking changes which symmetries are exact and which are approximate
 - [[Biological Homochirality]] -- molecular symmetry breaking: life chose L-amino acids, excluding D (-> Meta-Pattern 08: Symmetry Breaking)
 - [[Gastrulation]] -- developmental symmetry breaking: uniform blastula becomes three distinct layers
-- [[Left-Right Asymmetry (Situs)]] -- body-level symmetry breaking from a single molecular event
+- [[BODY/Left-Right Asymmetry|Left-Right Asymmetry (Situs)]] -- body-level symmetry breaking from a single molecular event
 - [[Great Oxidation Event]] -- planetary-scale phase transition, irreversible
 
 ## Status

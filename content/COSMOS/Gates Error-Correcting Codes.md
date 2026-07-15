@@ -32,7 +32,7 @@ Gates has stated explicitly that this does not support the simulation hypothesis
 - [[Noether's Theorem]] -- both reveal deep structural correspondences between mathematical consistency and physical law
 - [[Conservation Laws]] -- error correction and conservation share the meta-pattern: suppress corruption, preserve the signal
 - [[Immune System and Clonal Selection]] -- the same function in biology: distinguish self from non-self, suppress the corruption (-> [[LIFE/00-Index]])
-- [[Golden Ratio and Fibonacci]] -- a calibration test: genuine mathematical structure vs. fabricated extensions (-> [[FORMAL-LANGUAGE/00-Index]])
+- [[FORMAL-LANGUAGE/Golden Ratio|Golden Ratio and Fibonacci]] -- a calibration test: genuine mathematical structure vs. fabricated extensions (-> [[FORMAL-LANGUAGE/00-Index]])
 
 ## Status
 

@@ -22,7 +22,7 @@ The Schrodinger equation applied to atoms produces electron orbitals -- probabil
 ## Connections
 
 - [[Noether's Theorem]] -- quantum numbers and their associated symmetries are a specific case of Noether's correspondence (-> [[COSMOS/00-Index]])
-- [[Periodic Table]] -- the periodic table as emergent from quantum mechanics rather than empirical catalogue (-> [[EARTH/00-Index]])
+- [[EARTH/The Periodic Table|Periodic Table]] -- the periodic table as emergent from quantum mechanics rather than empirical catalogue (-> [[EARTH/00-Index]])
 - [[The Chemical Bond]] -- bonds form to complete quantum shells; bonding is the consequence of this entry's principles
 - [[Atomic Spectra]] -- spectral lines are transitions between the quantized energy levels described here
 - [[Spectroscopy]] -- the observational bridge: quantum levels produce the spectral lines spectroscopy measures (-> [[COMMUNICATION/00-Index]])

@@ -66,7 +66,7 @@ The empirical literature does not establish a single-cause explanation for the r
 
 The structural reading offered here is that *the amplification and the atrophy are not two phenomena but one*. A technology that allows individuals to receive cognitive stimulation directly — without passing through the gap that social transmission requires — simultaneously (a) amplifies the individual's exposure to abstract pattern-recognition tasks (raising measured IQ) and (b) reduces the social interaction that constitutes the substrate of cognition across the lifespan.
 
-This is the same single movement described in [[The First Light-Bearer]] at theological scale and across [[CIVILIZATION]] at historical scale: the mediator that collapses the source/receiver gap produces an immediate amplification of individual capacity while structurally eroding the relational substrate that capacity depends on. The early signal looks like progress; the long signal is reversal.
+This is the same single movement described in [[The First Light-Bearer]] at theological scale and across [[CIVILIZATION/00-Index|CIVILIZATION]] at historical scale: the mediator that collapses the source/receiver gap produces an immediate amplification of individual capacity while structurally eroding the relational substrate that capacity depends on. The early signal looks like progress; the long signal is reversal.
 
 The framework predicts: as the gap-collapsing technologies continue to penetrate younger cohorts, the reversal should continue and may accelerate; the protective effect of social engagement on later-life cognition should make the cognitive consequences more visible in coming decades; populations that retain stronger face-to-face social substrates should show smaller reversals.
 
@@ -78,7 +78,7 @@ These predictions are not unique to this framework — they are also predicted b
 - [[The Anointing and the Mirror]] — the bearer that retains becomes salt; the cognitive parallel
 - [[Apoptosis in Development]] — the biological structure being violated at cognitive-social scale
 - [[Nuclear Binding Energy and the Iron Peak]] — the proportion limit; amplification past it consumes
-- [[McLuhan Medium is the Message]] — the principle articulated in 1964 that the Flynn reversal empirically registers
+- [[CIVILIZATION/McLuhan Medium Is the Message|McLuhan Medium is the Message]] — the principle articulated in 1964 that the Flynn reversal empirically registers
 - [[Postman Amusing Ourselves to Death]] — television as the bridge between Flynn rise and Flynn reversal; the proximate predecessor of digital amplification
 - [[Tristan Harris and CHT]] — attention extraction at the medium of social cognition
 - [[Zuboff Surveillance Capitalism]] — behavioral surplus extraction at the substrate level
@@ -86,7 +86,7 @@ These predictions are not unique to this framework — they are also predicted b
 - [[Industrial Revolution]] — the historical precedent of amplification displacing the substrate it amplified
 - [[Wikipedia]] — the contrasting case: digital infrastructure that maintains the substrate (transparent edit histories, talk pages, source citation) rather than collapsing it
 - [[Apoptosis in Development]] — programmed regulatory loss as the condition for sustained function
-- [[Logos in John]] — the Word as the medium that does not collapse the gap; the structural counter-example
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the Word as the medium that does not collapse the gap; the structural counter-example
 
 ## Status
 
@@ -94,7 +94,7 @@ The empirical findings — the Flynn effect (1932-1990s), the Flynn reversal (19
 
 The single-causal explanation for the reversal is contested in the literature; multiple environmental factors are plausible. This entry does not claim to resolve that question.
 
-The structural reading — that the Flynn rise and the social-substrate decline are coupled by being the dual signature of one underlying pattern (the gap-collapsing mediator amplifying individual capacity while eroding the relational substrate that sustains it), and that this is structurally the same pattern documented theologically in [[The First Light-Bearer]] and historically across [[CIVILIZATION]] — is this project's interpretation. The empirical findings stand independently of this interpretation; the interpretation organizes them.
+The structural reading — that the Flynn rise and the social-substrate decline are coupled by being the dual signature of one underlying pattern (the gap-collapsing mediator amplifying individual capacity while eroding the relational substrate that sustains it), and that this is structurally the same pattern documented theologically in [[The First Light-Bearer]] and historically across [[CIVILIZATION/00-Index|CIVILIZATION]] — is this project's interpretation. The empirical findings stand independently of this interpretation; the interpretation organizes them.
 
 Predictions that follow from the structural reading are testable: the reversal should continue and may accelerate in cohorts more exposed to gap-collapsing technologies; populations retaining stronger face-to-face substrates should show smaller reversals; cognitive consequences should become more visible in later-life outcomes in coming decades.
 

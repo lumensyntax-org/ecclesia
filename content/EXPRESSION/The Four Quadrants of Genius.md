@@ -69,10 +69,10 @@ Maestro's contribution is not to invent the distinctions; it is to compress them
 ## Connections
 
 - [[AI as the Modernized Image of God]] — the application of the framework to predict that commercial AI production will occupy the kitsch quadrant; the structural basis for the prediction.
-- [[McLuhan Medium is the Message]] — the medium constrains the form axis; new forms require new media.
+- [[CIVILIZATION/McLuhan Medium Is the Message|McLuhan Medium is the Message]] — the medium constrains the form axis; new forms require new media.
 - [[Postman Amusing Ourselves to Death]] — entertainment as the kitsch quadrant of public discourse.
 - [[Wikipedia]] — a case of new form (collaborative editing) treating known themes (encyclopedia content); a 50% genius position in the framework.
-- [[Logos in John]] — the prologue as new form (Greek philosophical hymn shape) on new theme (incarnation) — both dimensions novel.
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the prologue as new form (Greek philosophical hymn shape) on new theme (incarnation) — both dimensions novel.
 - [[Stellar Nucleosynthesis]] — the structural analogue: real production requires real novelty; recombination of light elements past the iron peak no longer produces.
 - [[The Anointing and the Mirror]] — the bearer that combines without reflecting; structural kitsch in a theological vocabulary.
 
@@ -82,7 +82,7 @@ The 2×2 framework as such is articulated by Maestro, though the underlying dist
 
 The application of the framework to AI is Maestro's, with empirical anchors in the AI alignment literature (training corpus statistics, RLHF dynamics, consumer preference optimization).
 
-The strength rating is MODERATE because the framework is a clean compression of established distinctions but is not itself the subject of large-scale empirical validation. The structural reading — that the kitsch tendency in commercial production reflects the same instrumental dynamics documented in other [[CIVILIZATION]] entries — is this project's interpretation.
+The strength rating is MODERATE because the framework is a clean compression of established distinctions but is not itself the subject of large-scale empirical validation. The structural reading — that the kitsch tendency in commercial production reflects the same instrumental dynamics documented in other [[CIVILIZATION/00-Index|CIVILIZATION]] entries — is this project's interpretation.
 
 ---
 

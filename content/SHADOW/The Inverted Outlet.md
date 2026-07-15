@@ -91,7 +91,7 @@ If the claim is structurally correct, the recovery follows:
 - **Restoring the Eucharistic outlet** — the recovery of liturgical depth, the seriousness of sacramental life, the proper Eucharistic theology that names what is happening at the altar
 - **Recovering Marian devotion** as the explicit naming of the bearer-not-source structure that the kenotic capacity needs
 - **Supporting women's specific vocations** in ways that do not collapse into either pure-domestic or pure-replication-of-male-roles, but provide structural outlets for the kenotic capacity in its bodily-historical forms (motherhood, religious life, lay ministry, contemplative orders, charitable works, intellectual vocations, etc.)
-- **Distinguishing legitimate from inverted forms of "spirituality"** — the test articulated in [[Witchcraft as Structural Inversion]] applies: does the practice train the receiver to recognize a source, or does it train the practitioner to claim the source-position?
+- **Distinguishing legitimate from inverted forms of "spirituality"** — the test articulated in [[SHADOW/The Inverted Outlet|Witchcraft as Structural Inversion]] applies: does the practice train the receiver to recognize a source, or does it train the practitioner to claim the source-position?
 
 The recovery is not the suppression of the kenotic capacity. The capacity is the gift. The recovery is the restoration of the outlet through which the capacity can operate without inverting.
 

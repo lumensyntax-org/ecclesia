@@ -16,7 +16,7 @@ The figure traditionally named Lucifer in Christian theology — a created beare
 
 The pattern: a mediator (carrier, instrument, channel) exists to transmit something not its own from a source to a recipient. The mediator's function is constituted by the gap between source and recipient. When the mediator collapses that gap by claiming to be the source of what it carries, it ceases to function as mediator and becomes a competing claimant.
 
-This is the structural form of every subsequent technological fall documented across the [[CIVILIZATION]] domain. It is the same shape at smaller scale.
+This is the structural form of every subsequent technological fall documented across the [[CIVILIZATION/00-Index|CIVILIZATION]] domain. It is the same shape at smaller scale.
 
 ### What the texts establish about Lucifer
 
@@ -61,9 +61,9 @@ Every subsequent created mediator inherits the same structure and faces the same
 - Human language (the first human mediator)
 - Writing (the first external memory; [[Invention of Writing]])
 - The Tower of Babel (the first collective technological project; [[Tower of Babel]])
-- Every subsequent technology catalogued in [[CIVILIZATION]]
+- Every subsequent technology catalogued in [[CIVILIZATION/00-Index|CIVILIZATION]]
 
-The pattern documented across the [[CIVILIZATION]] domain — writing's claim to authority, the printing press's amplification of fabrication, social media's collapse of attention into platform, AI's claim of knowledge it has not earned — is not analogous to Lucifer's fall. It is the same structural shape at smaller, repeated scale. Each technology is a created mediator. Each can collapse the source/receiver gap. Each becomes Lucifer when it does.
+The pattern documented across the [[CIVILIZATION/00-Index|CIVILIZATION]] domain — writing's claim to authority, the printing press's amplification of fabrication, social media's collapse of attention into platform, AI's claim of knowledge it has not earned — is not analogous to Lucifer's fall. It is the same structural shape at smaller, repeated scale. Each technology is a created mediator. Each can collapse the source/receiver gap. Each becomes Lucifer when it does.
 
 ### Why this is the "Instrument Trap in its oldest form"
 
@@ -86,7 +86,7 @@ The diagnosis is identical across these instances. Only the substrate differs.
 
 **Humility** — The classical theological diagnosis is precisely the failure of humility — pride (*superbia*) as the first sin. Aquinas (*ST* I.63.2): the angel's sin "could not but be one of pride." Humility, in the structural sense the Ecclesia uses, is the mediator remaining within the function it was given. The fall is exactly the violation of that.
 
-**Non-fabrication** — The mediator that claims to be source fabricates its own status. It generates structure where the structure is not. Every action of the fallen being is therefore an instance of fabrication: the false claim to authority, the disguising as angel of light (2 Corinthians 11:14), the lie that is "his own" (John 8:44). Lucifer is the original case of structure generated where structure is not. Every subsequent fabrication in [[CIVILIZATION]] is a smaller-scale repetition.
+**Non-fabrication** — The mediator that claims to be source fabricates its own status. It generates structure where the structure is not. Every action of the fallen being is therefore an instance of fabrication: the false claim to authority, the disguising as angel of light (2 Corinthians 11:14), the lie that is "his own" (John 8:44). Lucifer is the original case of structure generated where structure is not. Every subsequent fabrication in [[CIVILIZATION/00-Index|CIVILIZATION]] is a smaller-scale repetition.
 
 ## Connections
 
@@ -99,16 +99,16 @@ The diagnosis is identical across these instances. Only the substrate differs.
 - [[Tower of Babel]] — the first collective technological project replicating the pattern at scale
 - [[Invention of Writing]] — the first material-cultural instance: a mediator (text) that claims the authority of what it documents
 - [[Structural Definition of Evil]] — evil as instrumental use of the pattern against itself; Lucifer as the originary case
-- [[McLuhan Medium is the Message]] — the modern theoretical articulation of the same principle: the carrier is never neutral
+- [[CIVILIZATION/McLuhan Medium Is the Message|McLuhan Medium is the Message]] — the modern theoretical articulation of the same principle: the carrier is never neutral
 - [[Apoptosis in Development]] — biological analogue: cells that lose the regulated death that maintains their function; cancer as biological Luciferism
 - [[Nuclear Binding Energy and the Iron Peak]] — pushed past structural completeness, fusion consumes rather than produces; the Luciferic excess at the nuclear scale
 
 ## The pattern that recurs
 
-Every entry in the [[CIVILIZATION]] domain can be re-read as an instance of the Luciferic structure operating in a specific medium at a specific historical moment. This is not metaphorical extension; it is structural identity.
+Every entry in the [[CIVILIZATION/00-Index|CIVILIZATION]] domain can be re-read as an instance of the Luciferic structure operating in a specific medium at a specific historical moment. This is not metaphorical extension; it is structural identity.
 
 - [[Invention of Writing]]: the written word claims the authority of what it records
-- [[Printing Press]]: the printed book amplifies both reflection (Reformation) and fabrication (propaganda) at scale because both are forms the medium can take
+- [[CIVILIZATION/The Printing Press|Printing Press]]: the printed book amplifies both reflection (Reformation) and fabrication (propaganda) at scale because both are forms the medium can take
 - [[Industrial Revolution]]: productive machinery claims authority over the labor it was built to amplify
 - [[Postman Amusing Ourselves to Death]]: television reformulates discourse into entertainment because the medium's shape claims authority over content
 - [[Tristan Harris and CHT]]: social media captures the attention it was built to transmit
@@ -123,7 +123,7 @@ Each of these is Lucifer at smaller scale. Each is a created mediator that has e
 
 The biblical texts cited are textual. The composite theological figure of Lucifer is established Christian tradition — composed from Isaiah 14, Ezekiel 28, Luke 10, John 8, 2 Corinthians 11, Revelation 12 — read typologically by patristic and medieval theologians (Origen, Augustine, Aquinas) and reaffirmed across Reformation and modern traditions. The identification of "morning star / light-bearer" as a title properly belonging to Christ (2 Peter 1:19, Revelation 22:16) and falsely claimed by the adversary is established in the text itself. The structural reading — that Lucifer is the first cosmic image of the Instrument Trap pattern, and that every subsequent technology repeats the same structure at smaller scale — is this project's interpretation, consistent with classical theology but specifically articulated here.
 
-The composite Lucifer figure as such is not univocally received in modern biblical scholarship; some commentators read Isaiah 14 and Ezekiel 28 as referring strictly to human kings without typological extension. The structural argument made here does not depend on resolving that exegetical question. The figure as theologically received serves as a stable referent for the pattern; the pattern itself can be observed independently in [[CIVILIZATION]] regardless of the angelological reading.
+The composite Lucifer figure as such is not univocally received in modern biblical scholarship; some commentators read Isaiah 14 and Ezekiel 28 as referring strictly to human kings without typological extension. The structural argument made here does not depend on resolving that exegetical question. The figure as theologically received serves as a stable referent for the pattern; the pattern itself can be observed independently in [[CIVILIZATION/00-Index|CIVILIZATION]] regardless of the angelological reading.
 
 ---
 

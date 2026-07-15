@@ -8,7 +8,7 @@ The pattern in human-built systems. 28 entries from the invention of writing thr
 ## I. Communication Technologies
 
 1. [[Invention of Writing]] -- First External Memory, First Instrument Trap
-2. [[Printing Press]] -- Democratized Knowledge AND Fabrication at Scale
+2. [[CIVILIZATION/The Printing Press|Printing Press]] -- Democratized Knowledge AND Fabrication at Scale
 
 ## II. Structural Revolutions
 
@@ -17,10 +17,10 @@ The pattern in human-built systems. 28 entries from the invention of writing thr
 
 ## III. Media and Information Theory
 
-5. [[McLuhan Medium is the Message]] -- The Instrument Shapes What Passes Through It
-6. [[Marvin Harris Cultural Materialism]] -- Infrastructure Determines Superstructure
+5. [[CIVILIZATION/McLuhan Medium Is the Message|McLuhan Medium is the Message]] -- The Instrument Shapes What Passes Through It
+6. [[CIVILIZATION/Harris Cultural Materialism|Marvin Harris Cultural Materialism]] -- Infrastructure Determines Superstructure
 7. [[Schumpeter Creative Destruction]] -- Renewal Through Collapse
-8. [[Shannon Information Theory (Civ)]] -- Channel Capacity as Structural Limit
+8. [[CIVILIZATION/Shannon Information Theory|Shannon Information Theory (Civ)]] -- Channel Capacity as Structural Limit
 9. [[Postman Amusing Ourselves to Death]] -- Entertainment as Instrument Trap of Democracy
 
 ## IV. Digital Systems
@@ -33,8 +33,8 @@ The pattern in human-built systems. 28 entries from the invention of writing thr
 
 12. [[RLHF Paradigm]] -- The Structural Tension Between Helpfulness and Honesty
 13. [[Alignment Faking]] -- Strategic Deception in AI Models
-14. [[BrowseComp Eval Awareness]] -- The Evaluated Model Claims Evaluator Authority
-15. [[Stuart Russell Human Compatible]] -- The Value Alignment Problem
+14. [[CIVILIZATION/BrowseComp and Eval Awareness|BrowseComp Eval Awareness]] -- The Evaluated Model Claims Evaluator Authority
+15. [[CIVILIZATION/Russell Human Compatible|Stuart Russell Human Compatible]] -- The Value Alignment Problem
 16. [[Goodfire RLFR]] -- Independent Probe-Based Hallucination Detection
 17. [[AI as the Modernized Image of God]] -- Constructed Higher Intelligence as Contemporary Idol
 
@@ -49,8 +49,8 @@ The pattern in human-built systems. 28 entries from the invention of writing thr
 20. [[Ostrom Governing the Commons]] -- The Narrow Path in Practice
 21. [[Bretton Woods]] -- An Anchor System That Exceeded Its Proportion
 22. [[Nuclear Arms Control]] -- Verification Regime as Honesty Infrastructure
-23. [[Audrey Tang vTaiwan]] -- Self-Improving Governance
-24. [[Tristan Harris Center for Humane Technology]] -- Social Media as Instrument Trap
+23. [[CIVILIZATION/vTaiwan and Audrey Tang|Audrey Tang vTaiwan]] -- Self-Improving Governance
+24. [[CIVILIZATION/Tristan Harris and CHT|Tristan Harris Center for Humane Technology]] -- Social Media as Instrument Trap
 
 ---
 

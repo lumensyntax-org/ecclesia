@@ -19,7 +19,7 @@ Writing created a fundamental instrument trap. Once claims could be externalized
 ## Connections
 - [[The Printing Press]] -- same amplification at industrial scale (Meta-Pattern 06: Self-Reference / Instrument Trap)
 - [[Shannon Information Theory]] -- channel capacity as the structural limit writing lacks (Meta-Pattern 02: The Boundary Pre-Exists)
-- [[DNA]] -- both are external memory systems; DNA predates writing by billions of years (Meta-Pattern 12: Conservation / Invariance)
+- [[COMMUNICATION/DNA as Communication|DNA]] -- both are external memory systems; DNA predates writing by billions of years (Meta-Pattern 12: Conservation / Invariance)
 - [[Deepfakes]] -- technological successor: fabrication at scale, now in video (Meta-Pattern 06: Self-Reference / Instrument Trap)
 - [[Double-Entry Bookkeeping]] -- structured writing as defense against fabrication in commerce
 

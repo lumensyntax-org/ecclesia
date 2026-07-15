@@ -24,7 +24,7 @@ David Sackett defined EBM as "the conscientious, explicit, and judicious use of 
 
 ## Connections
 
-- [[Scientific Method]] -- EBM hierarchy = formalized resistance to self-deception
+- Scientific Method -- EBM hierarchy = formalized resistance to self-deception
 - [[Bayesian Inference]] -- EBM updates priors with evidence; Bayesian reasoning is its mathematical foundation
 - [[Diagnosis]] -- clinical diagnosis applies EBM principles at the bedside
 - [[Traditional Medicine]] -- the tension: EBM hierarchy vs. millennia of empirical observation

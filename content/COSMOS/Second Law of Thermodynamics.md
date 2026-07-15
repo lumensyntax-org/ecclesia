@@ -26,7 +26,7 @@ Boltzmann's statistical interpretation reveals why: there are astronomically mor
 ## Connections
 
 - [[Conservation Laws]] -- the First Law (energy conservation) is necessary but not sufficient; the Second Law adds directionality
-- [[Dissipative Structures (Earth)]] -- Prigogine: local order is possible precisely because entropy is exported (-> [[EARTH/00-Index]])
+- [[EARTH/Dissipative Structures|Dissipative Structures (Earth)]] -- Prigogine: local order is possible precisely because entropy is exported (-> [[EARTH/00-Index]])
 - [[Dissipative Adaptation]] -- England's thermodynamic framework for why self-organizing structures form
 - [[Far-From-Equilibrium]] -- structure requires energy flow, which the Second Law governs (-> [[COMMUNICATION/00-Index]])
 - [[Stellar Nucleosynthesis]] -- element creation obeys thermodynamic constraints; iron is the endpoint of exothermic fusion

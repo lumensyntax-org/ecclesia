@@ -9,13 +9,13 @@ Infinity, collapse, structure, and the language of the pattern. 15 entries. The 
 
 1. [[Cantor's Transfinite Numbers]] -- Infinity Has Structure
 2. [[Continuum Hypothesis]] -- The Undecidable Question
-3. [[Zeno's Paradoxes]] -- Infinity Collapses Into Structure
+3. [[FORMAL-LANGUAGE/Zeno's Paradoxes and Calculus|Zeno's Paradoxes]] -- Infinity Collapses Into Structure
 4. [[Banach-Tarski Paradox]] -- The Cost of Axioms
 
 ## II. Structure and Form
 
 5. [[Euler's Identity]] -- Structural Convergence
-6. [[Golden Ratio and Fibonacci]] -- Honest Occurrences vs. Fabricated Claims
+6. [[FORMAL-LANGUAGE/Golden Ratio|Golden Ratio and Fibonacci]] -- Honest Occurrences vs. Fabricated Claims
 7. [[Group Theory and Symmetry]] -- The Structural Skeleton of Physics
 8. [[Topology]] -- Properties Preserved Under Deformation
 9. [[Langlands Program]] -- Deep Structural Unity

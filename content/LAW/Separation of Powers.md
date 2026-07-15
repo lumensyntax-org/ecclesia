@@ -27,7 +27,7 @@ Political liberty requires separating governmental power into legislative, execu
 - [[Corruption]] -- what happens when branches are not separated: authority serves private purposes (-> SHADOW)
 - [[The Social Contract]] -- separation is the structural guarantee that the contract is honored
 - [[Distributed Systems and Consensus]] -- same pattern: distributed authority prevents single-point corruption (-> CONSTRUCTION)
-- [[Tragedy vs Ostrom (Economy)]] -- Ostrom's principle 3 (participation in rule-making) parallels legislative function (-> ECONOMY)
+- [[ECONOMY/Commons Hardin vs Ostrom|Tragedy vs Ostrom (Economy)]] -- Ostrom's principle 3 (participation in rule-making) parallels legislative function (-> ECONOMY)
 - [[Constitutions as Structural Firmware]] -- constitutions encode separation as structural invariant
 
 ## Status

@@ -26,7 +26,7 @@ Alchemy sought to transmute base metals into gold (philosopher's stone), achieve
 - [[Scientific Revolution]] -- Lavoisier is part of the broader shift from authority-based to evidence-based knowledge (-> [[CIVILIZATION/00-Index]])
 - [[Propaganda]] -- alchemy as self-deception shares structure with propaganda as other-deception: fabricated claims presented as real (-> [[SHADOW/00-Index]])
 - [[Spectroscopy]] -- spectroscopy completed what Lavoisier began: objective identification of elements (-> [[COMMUNICATION/00-Index]])
-- [[Periodic Table]] -- Mendeleev's table is the honest catalogue that replaced alchemical classification (-> [[EARTH/00-Index]])
+- [[EARTH/The Periodic Table|Periodic Table]] -- Mendeleev's table is the honest catalogue that replaced alchemical classification (-> [[EARTH/00-Index]])
 - [[Quantum Chemistry]] -- quantum mechanics finally explained WHY transmutation of elements by chemical means is impossible
 
 ## Status

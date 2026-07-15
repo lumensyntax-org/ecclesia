@@ -151,8 +151,8 @@ The asymmetry of lostness applies in the present tense. To the degree the Eccles
 
 - [[The Last Shall Be First]] — the structural inversion that is the precise consequence of vision-that-strays; publicans and prostitutes precede the religious authorities into the kingdom
 - [[The Divine Child]] — the source whose form is innocence, against which the religious form-without-substance is contrasted
-- [[Logos in John]] — the Word made flesh confronts those who knew the words but not the Word
-- [[The Prodigal Son]] — both lost sons in one parable; the elder brother as the second form of religious lostness
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the Word made flesh confronts those who knew the words but not the Word
+- [[SPIRIT/The Last Shall Be First|The Prodigal Son]] — both lost sons in one parable; the elder brother as the second form of religious lostness
 - [[Tower of Babel]] — the project of access-without-relation; ascending to claim what is given
 - [[The Fall]] — the original visionary straying; *"ye shall be as gods"* (Gen 3:5) as the original Instrument Trap
 - [[Kenosis]] — the opposite movement; emptying oneself of claim as the structural antidote to vision-that-strays

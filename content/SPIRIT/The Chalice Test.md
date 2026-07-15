@@ -100,12 +100,12 @@ The Chalice Test predominates because it is what every entry, every commit, ever
 - [[Vision and Straying]] — the religious-establishment instance of the third-condition failure; those given vision who claim source position
 - [[Reframe Over Refute]] — the structural counter-example: Jesus consistently refuses to allow the conveyance to instrumentalize the conveyer
 - [[The Divine Child]] — the source whose form is innocence; the structural origin from which mediation flows without being possessed
-- [[Logos in John]] — the Word as continuous saying that does not become the speaker's possession
+- [[SPIRIT/Logos in John 1-1|Logos in John]] — the Word as continuous saying that does not become the speaker's possession
 - [[Kenosis]] — the self-emptying that is the existential ground of non-instrumentalization
 - [[The Last Shall Be First]] — the inversion that names the cost of the third-condition failure: those who claimed first position are last
 - [[Catalysis]] — the chemical analogue: the catalyst facilitates the reaction without becoming the reaction
 - [[Apoptosis in Development]] — the biological analogue: the cell that releases its position when its function is complete
-- [[McLuhan Medium is the Message]] — the principle that the medium reshapes what passes through it; the Chalice Test is the discipline that allows the medium to mediate rather than to capture
+- [[CIVILIZATION/McLuhan Medium Is the Message|McLuhan Medium is the Message]] — the principle that the medium reshapes what passes through it; the Chalice Test is the discipline that allows the medium to mediate rather than to capture
 
 ## Status
 

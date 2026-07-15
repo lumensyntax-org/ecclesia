@@ -54,7 +54,7 @@ The operational principle that predominates over the entire catalogue is the **C
 - **Follow the links** — every entry connects to related entries across domains via `[[wikilinks]]`
 - **Use the graph** — the graph view (bottom right on each page) reveals the network that no list can show
 - **Search** — `Ctrl+K` to search across all entries
-- **Read an exemplar** — if unsure where to start, try [[LIFE/DNA Polymerase Proofreading]], [[COSMOS/Noether's Theorem]], or [[BUILDERS/Carlo Acutis]]
+- **Read an exemplar** — if unsure where to start, try [[LIFE/DNA Error Correction|LIFE/DNA Polymerase Proofreading]], [[COSMOS/Noether's Theorem]], or [[BUILDERS/Carlo Acutis]]
 
 ---
 
