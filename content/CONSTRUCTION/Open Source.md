@@ -11,7 +11,7 @@ status: peer_reviewed
 
 ## Finding
 
-Open source software makes its source code publicly available for inspection, modification, and redistribution. Stallman's GPL (1989) used copyright law to enforce openness (copyleft). Raymond's essay contrasted cathedral (closed) and bazaar (open) development models: "given enough eyeballs, all bugs are shallow." Linux, Apache, Git, Python, PostgreSQL, and Kubernetes demonstrate that bazaar-model development produces software of extraordinary quality. The irony: this Cathedral taxonomy is structurally a bazaar -- open, inspectable, claims subject to verification by all.
+Open source software makes its source code publicly available for inspection, modification, and redistribution. Stallman's GPL (1989) used copyright law to enforce openness (copyleft). Raymond's essay contrasted cathedral (closed) and bazaar (open) development models: "given enough eyeballs, all bugs are shallow." Linux, Apache, Git, Python, PostgreSQL, and Kubernetes demonstrate that bazaar-model development produces software of extraordinary quality. The reflexive note: this taxonomy is itself structurally a bazaar -- open, inspectable, its claims subject to verification by all.
 
 ## Pattern Mapping
 

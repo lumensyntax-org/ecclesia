@@ -11,7 +11,7 @@ status: peer_reviewed
 
 ## Finding
 
-Raymond contrasted two development models: the cathedral (small team, controlled releases, code visible only at release) and the bazaar (open development, frequent releases, "given enough eyeballs, all bugs are shallow"). The essay influenced Netscape's decision to open-source its browser (1998, leading to Mozilla/Firefox). The irony for this taxonomy: our Cathedral is named after the closed model, yet it is structurally a bazaar -- open research, public repository, claims subject to verification by all. Most successful projects combine elements of both: a core team providing architectural vision with open contribution on implementation.
+Raymond contrasted two development models: the cathedral (small team, controlled releases, code visible only at release) and the bazaar (open development, frequent releases, "given enough eyeballs, all bugs are shallow"). The essay influenced Netscape's decision to open-source its browser (1998, leading to Mozilla/Firefox). The reflexive note for this taxonomy: it is itself built on the bazaar side -- open research, public repository, claims subject to verification by all. Most successful projects combine elements of both: a core team providing architectural vision with open contribution on implementation.
 
 ## Pattern Mapping
 
