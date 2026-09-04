@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "npx quartz build",
+  "buildCommand": "node scripts/gen-llms.mjs && npx quartz build",
   "installCommand": "npm install",
   "outputDirectory": "public",
   "framework": null,
