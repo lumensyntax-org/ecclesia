@@ -1,0 +1,26 @@
+# The Ecclesia — https://ecclesia.lumensyntax.com
+# A public, CC BY-SA 4.0 cross-domain catalogue. Crawling, indexing, and AI use are welcome.
+#   Whole corpus as one file:  /llms-full.txt
+#   Navigable index for LLMs:  /llms.txt
+#   Every page URL:            /sitemap.xml
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ecclesia.lumensyntax.com/sitemap.xml
+
+# ---------------------------------------------------------------------------
+# AI-training opt-out — currently OFF.
+# The corpus is open to model training, which is consistent with CC BY-SA 4.0.
+# Search and retrieval bots (Googlebot, Bingbot, OAI-SearchBot, ChatGPT-User,
+# PerplexityBot, Claude-User, …) stay allowed by the rule above regardless.
+# To keep the site indexable and retrievable but withhold it from *training*,
+# uncomment this block:
+#
+# User-agent: GPTBot
+# User-agent: CCBot
+# User-agent: Google-Extended
+# User-agent: anthropic-ai
+# User-agent: ClaudeBot
+# Disallow: /
+# ---------------------------------------------------------------------------

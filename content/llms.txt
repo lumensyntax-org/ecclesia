@@ -1,0 +1,487 @@
+# The Ecclesia
+
+> ἐκκλησία — the called out, the assembly. A cross-domain catalogue that maps established findings — from physics to theology, from immunology to economics — to five recurring structural properties: alignment, proportion, honesty, humility, non-fabrication. Every entry cites an established source and marks what is established apart from what is interpreted. CC BY-SA 4.0.
+
+The full corpus as one file: [/llms-full.txt](https://ecclesia.lumensyntax.com/llms-full.txt). Every canonical page URL: [/sitemap.xml](https://ecclesia.lumensyntax.com/sitemap.xml). Source and contribution rules: [github.com/lumensyntax-org/ecclesia](https://github.com/lumensyntax-org/ecclesia).
+
+This index lists 436 entries across 19 domains (generated 2026-09-04).
+
+## Domains
+
+### BODY — [index](https://ecclesia.lumensyntax.com/BODY/00-Index)
+- Apoptosis in Development
+- Blood-Brain Barrier
+- Bone Remodeling (Wolff's Law)
+- Central Dogma
+- Epigenetics
+- Gastrulation
+- Genetic Imprinting
+- Gut-Brain Axis
+- Heart and Cardiac Valves
+- Horizontal Gene Transfer
+- Hox Genes
+- Human Genome Project
+- Kidney and Nephron Filtration
+- Left-Right Asymmetry (Situs)
+- Liver Detoxification
+- Menstrual Cycle
+- Telomeres and Cellular Aging
+- Wound Healing
+
+### BUILDERS — [index](https://ecclesia.lumensyntax.com/BUILDERS/00-Index)
+- Alan Turing
+- Barbara McClintock
+- Carlo Acutis
+- Carlos Blanco Pérez
+- Dietrich Bonhoeffer
+- Emmy Noether
+- Frida Kahlo
+- Giordano Bruno
+- Ignaz Semmelweis
+- Jeremiah Johnston
+- Jesus of Nazareth
+- Nikola Tesla
+- Rosalind Franklin
+- S. James Gates Jr.
+- Simone Weil
+- Socrates
+- Srinivasa Ramanujan
+
+### CHEMISTRY — [index](https://ecclesia.lumensyntax.com/CHEMISTRY/00-Index)
+- ATP
+- Activation Energy
+- Alchemy to Chemistry
+- Atomic Spectra
+- Boltzmann Distribution
+- Catalysis
+- Chemical Equilibrium
+- Chemical Weapons
+- Crystallography
+- Electromagnetic Force as Chemistry's Foundation
+- Entropy in Chemistry
+- Enzymes
+- Gibbs Free Energy
+- Oxidation-Reduction
+- Paracelsus and Proportion
+- Phase Transitions (Chemistry)
+- Photosynthesis and Respiration
+- Polymers
+- Quantum Chemistry
+- The Chemical Bond
+
+### CIVILIZATION — [index](https://ecclesia.lumensyntax.com/CIVILIZATION/00-Index)
+- AI as the Modernized Image of God
+- Alignment Faking
+- Bretton Woods
+- BrowseComp / Eval Awareness
+- Deepfakes
+- Goodfire: RLFR
+- Harris: Cultural Materialism
+- Industrial Revolution
+- Invention of Writing
+- McLuhan: Medium Is the Message
+- Nuclear Arms Control
+- Ostrom: Governing the Commons
+- Postman: Amusing Ourselves to Death
+- RLHF Paradigm
+- Resource Curse
+- Russell: Human Compatible
+- Schumpeter: Creative Destruction
+- Scientific Revolution
+- Shannon: Information Theory
+- The Flynn Reversal — Individual Capacity Amplified, Social Capacity Collapsed
+- The Printing Press
+- Tragedy of the Commons
+- Translation
+- Tristan Harris / Center for Humane Technology
+- Whistleblowers
+- Wikipedia
+- Zuboff: Surveillance Capitalism
+- vTaiwan / Audrey Tang
+
+### COMMUNICATION — [index](https://ecclesia.lumensyntax.com/COMMUNICATION/00-Index)
+- Blackbody Radiation and Planck's Quantum
+- Chemical Signaling
+- DNA as Communication
+- Dualities in String Theory
+- E=mc squared
+- Far-From-Equilibrium
+- Forces as Communication
+- Four Fundamental Forces
+- Language as Meta-Instrument
+- Mathematics: Unreasonable Effectiveness
+- Maxwell's Unification
+- Phase Transitions
+- Photoelectric Effect
+- Spectroscopy
+- String Theory
+- The Landscape Problem
+- The Visible Window
+
+### CONSTRUCTION — [index](https://ecclesia.lumensyntax.com/CONSTRUCTION/00-Index)
+- Abstraction Layers
+- Big-O Notation
+- Cathedral and the Bazaar
+- Continuous Integration / Continuous Deployment
+- Distributed Systems and Consensus
+- Encryption and Hashing
+- Feedback Control
+- Formal Verification
+- Graceful Degradation vs Catastrophic Failure
+- Materials Science
+- Nash Equilibrium
+- Network Effects and Lock-In
+- Open Source
+- Redundancy in Aviation
+- Safety Factors in Structural Engineering
+- Technical Debt
+- Testing
+- The Bug
+- Turing Completeness
+- Type Systems
+- Unix Philosophy
+- Version Control
+
+### COSMOS — [index](https://ecclesia.lumensyntax.com/COSMOS/00-Index)
+- Bell's Theorem
+- Black Hole Thermodynamics
+- Category Theory
+- Chaos Theory
+- Concentration of Measure
+- Conservation Laws
+- Cosmic Microwave Background
+- Cosmological Principle
+- Dark Matter and Dark Energy
+- Fine-Tuning and Anthropic Observations
+- Fractal Geometry
+- Gates Error-Correcting Codes
+- Godel's Incompleteness Theorems
+- Holographic Principle
+- Kepler's Laws and Orbital Resonance
+- Noether's Theorem
+- Nuclear Binding Energy and the Iron Peak
+- Observer-Patch Holography (OPH)
+- Planck Scale
+- Quantum Measurement Problem
+- Riemann Hypothesis
+- Second Law of Thermodynamics
+- Shannon's Channel Capacity
+- Speed of Light
+- Stellar Nucleosynthesis
+- Symmetry Breaking
+- The Cosmic Web
+
+### EARTH — [index](https://ecclesia.lumensyntax.com/EARTH/00-Index)
+- EARTH — Influence Index
+- EARTH — Scale Index (micro → macro)
+- Chirality (MYSTERY)
+- Dissipative Adaptation
+- Dissipative Structures
+- Gaia Hypothesis (Strong vs Weak)
+- Great Oxidation Event
+- Habitable Zone
+- Holocene Stability
+- Jupiter as Shield (Honesty Test)
+- Kepler's Laws (Earth Context)
+- Le Chatelier's Principle
+- Long-Term Carbon Cycle
+- Milankovitch Cycles
+- Mineral Evolution
+- Moon's Stabilizing Role
+- Ozone and Montreal Protocol
+- Planetary Boundaries
+- Plate Tectonics
+- Snowball Earth
+- The Greenhouse Effect
+- The Periodic Table
+- Thermohaline Circulation
+- Titius-Bode Law (Anti-Pattern)
+- Water's Anomalous Properties
+
+### ECONOMY — [index](https://ecclesia.lumensyntax.com/ECONOMY/00-Index)
+- 2008 Financial Crisis
+- Adam Smith's Invisible Hand
+- Behavioral Economics
+- The Biblical Jubilee
+- Bubbles and Crashes
+- Capital as Reflection and Retention
+- Commons: Hardin vs Ostrom
+- Contracts and Promises
+- Cryptocurrency and Blockchain
+- Debt as Deferred Proportion
+- Deflation and Liquidity Trap
+- Double-Entry Bookkeeping
+- Efficient Market Hypothesis
+- Fiat Currency and Gold Standard
+- GDP and Goodhart's Law
+- Inflation as Fabrication
+- Interest and Usury
+- Invention of Money
+- Keynesian Economics
+- Market Failures
+- Marx's Critique
+- Price Mechanism
+- Universal Basic Income
+- Weber's Protestant Ethic
+
+### EXPRESSION — [index](https://ecclesia.lumensyntax.com/EXPRESSION/00-Index)
+- Abstract Art as Non-Fabrication
+- Bach's Well-Tempered Clavier
+- Campbell — The Monomyth
+- Games and Rules
+- Golden Age Pattern
+- Islamic Geometric Art
+- Linguistic Synonymy
+- Oral Tradition and Songlines
+- Pentatonic Scale
+- Perspective in Painting
+- Propaganda in Art
+- Rhythm and Entrainment
+- Sapir-Whorf Hypothesis
+- Shakespeare's Tragedies
+- The Artist's Chalice — Da Vinci's Last Supper and the Eucharistic Loop
+- The Concept of Zero
+- The Four Quadrants of Genius
+- The Harmonic Series
+- Universal Grammar
+- Writing Systems
+
+### FORMAL-LANGUAGE — [index](https://ecclesia.lumensyntax.com/FORMAL-LANGUAGE/00-Index)
+- Banach-Tarski Paradox
+- Bayesian Inference
+- Cantor's Transfinite Numbers
+- Continuum Hypothesis
+- Cryptography
+- Error-Correcting Codes
+- Euler's Identity
+- Golden Ratio: Honest vs Fabricated
+- Graph Theory and Networks
+- Group Theory and Symmetry
+- Halting Problem
+- Kolmogorov Complexity
+- Langlands Program
+- Topology
+- Zeno's Paradoxes and Calculus
+
+### LAW — [index](https://ecclesia.lumensyntax.com/LAW/00-Index)
+- Constitutions as Structural Firmware
+- Corruption as Structural Failure
+- Due Process
+- Environmental Law
+- Habeas Corpus
+- Intellectual Property
+- International Law and Human Rights
+- Presumption of Innocence
+- Proportionality of Punishment
+- Restorative Justice
+- Separation of Powers
+- Stare Decisis and Precedent
+- The Adversarial System
+- The Jubilee (Law)
+- The Right to Silence
+- The Rule of Law
+- The Social Contract
+- Trial by Jury
+- Truth and Reconciliation Commissions
+- Whistleblower Protection
+
+### LIFE — [index](https://ecclesia.lumensyntax.com/LIFE/00-Index)
+- Apoptosis
+- Autocatalytic Sets
+- Biological Homochirality
+- CRISPR
+- Cambrian Explosion
+- Circadian Rhythms
+- Convergent Evolution
+- Coral Reef Symbiosis
+- DNA Error Correction
+- Ecological Hierarchies
+- Evo 2 Genomic Model
+- Fitness Landscapes
+- Gaia Hypothesis (Ecology)
+- Gene Regulatory Networks and Causal Emergence
+- Homeostasis
+- Immune System and Clonal Selection
+- Lotka-Volterra Equations
+- Mass Extinctions
+- Miller-Urey Experiment
+- Mycorrhizal Networks
+- Natural Selection
+- Plate Tectonics (Biology Context)
+- RNA World Hypothesis
+- Stentor Associative Learning
+- The Lipid Bilayer
+
+### LOVE — [index](https://ecclesia.lumensyntax.com/LOVE/00-Index)
+- Attachment Theory
+- Boundaries
+- Codependency
+- Domestic Violence
+- Empathy
+- Forgiveness
+- Friendship
+- Gottman's Four Horsemen
+- Grief and Loss
+- Love Languages
+- Marriage Across Cultures
+- Mother-Infant Bond
+- Parenting Styles
+- Trust and Betrayal
+- Unconditional Love (Agape)
+
+### MEDICINE — [index](https://ecclesia.lumensyntax.com/MEDICINE/00-Index)
+- CRISPR Gene Therapy
+- Diagnosis
+- Epidemiology
+- Evidence-Based Medicine
+- Hippocratic Oath
+- Informed Consent
+- Medical Error
+- Mental Health Stigma
+- Microbiome
+- Opioid Crisis
+- Palliative Care
+- Placebo Effect
+- Traditional Medicine
+- Triage
+- Vaccination
+
+### MIND — [index](https://ecclesia.lumensyntax.com/MIND/00-Index)
+- Asch Conformity
+- Cognitive Behavioral Therapy
+- Cognitive Dissonance
+- Confirmation Bias
+- Conway's Memory and the Self
+- Default Mode Network
+- Dunning-Kruger Effect
+- Global Workspace Theory
+- Hard Problem of Consciousness
+- Heisenberg's Uncertainty Principle and the Measurement Problem
+- Higher-Order Theories of Consciousness
+- Illusionism
+- Integrated Information Theory (IIT)
+- The Integration of Knowledge
+- Joscha Bach on Consciousness
+- Kuhn Taxonomy of Consciousness Theories
+- Metanoia and the Return to Tracking
+- Milgram's Obedience
+- Mirror Neurons
+- Neuroplasticity
+- Panpsychism
+- Predictive Coding and Free Energy Principle
+- Social Mirror Dynamics — How Humans Form by Looking at Mirrors
+- Split-Brain and Left Hemisphere Interpreter
+- Stanford Prison Experiment (with Criticism)
+- System 1 and System 2
+- Terror Management Theory
+- The Recurring Hole at the Boundary of Method — The Same Pattern at the Edge of Each Science
+
+### MIRROR — [index](https://ecclesia.lumensyntax.com/MIRROR/00-Index)
+- Buddhist Anatta (Non-Self)
+- Confessional Traditions
+- Cooley: Looking-Glass Self
+- Foucault: Technologies of the Self
+- Gallup: Mirror Self-Recognition
+- Girard: Mimetic Desire
+- The Immune System as Mirror
+- Lacan: Mirror Stage
+- Material History of Mirrors
+- Narcissus
+- Psychotherapy as Mirror
+- Rembrandt Self-Portraits
+- Selfie and Social Media
+- Winnicott: Mother as First Mirror
+
+### SHADOW — [index](https://ecclesia.lumensyntax.com/SHADOW/00-Index)
+- Addiction Revisited: Alignment at the Wrong Level
+- Addiction
+- Algorithmic Scoring as the Distributed Instrument Trap
+- Antibiotic Resistance
+- Arendt: Banality of Evil
+- Autoimmune Disease
+- Cancer
+- Colonialism
+- Confidence Trick
+- Corruption
+- Dark Patterns in UX
+- Disinformation Ecosystems
+- Gaslighting
+- Genocide
+- Girard: The Scapegoat Mechanism
+- Just War Theory
+- Mental Illness as Pattern Violation
+- Ponzi Schemes
+- Prion Diseases
+- Propaganda
+- Slavery
+- The Structural Definition of Evil
+- Subjective Reality as Word-Derived Frame
+- Systemic Racism
+- The Arms Race
+- The Atomic Bomb
+- The Inverted Outlet — Witchcraft and Resentment as Blocked Kenosis
+- The Modernization of Idolatry
+- Zimbardo: The Lucifer Effect
+
+### SPIRIT — [index](https://ecclesia.lumensyntax.com/SPIRIT/00-Index)
+- Advaita Vedanta
+- Archaeological Evidence for the Historical Jesus
+- Axis Mundi
+- Buber — I-Thou vs I-It
+- Buddhist Middle Way
+- Buddhist Stupas and Mandalas
+- Christian Mysticism
+- Egyptian Pyramids
+- Evil as Privation — *Privatio Boni* and the Non-Substantial Nature of the Bad
+- Fasting Across Traditions
+- Girard — Mimetic Desire and Scapegoat
+- Gothic Cathedrals
+- Heidegger
+- Hindu Mysticism
+- Hindu Temples
+- Indigenous Spiritual Traditions
+- Islamic Mosques and Geometric Pattern
+- Jaynes — Bicameral Mind
+- Kabbalah
+- Kant
+- Kenosis
+- Kierkegaard
+- Levinas — Face of the Other
+- Logos in John 1:1
+- Magnifica Humanitas — Encyclical on Artificial Intelligence (Leo XIV, 2026)
+- Mesoamerican Pyramids
+- Nehemiah — The Wall Rebuilt in Sections
+- Nietzsche — God Is Dead
+- Pilgrimage Across Traditions
+- Prometheus
+- Proverbs 8 — Wisdom as Pre-Existent Structure
+- Reframe Over Refute — Jesus's Operation from the Larger Reality
+- Rites of Passage
+- Sacred Music
+- Sacrifice Across Traditions
+- Simone Weil
+- Socrates
+- Stonehenge and Megalithic Structures
+- Sufism
+- Tawhid
+- Ten Commandments
+- The Anointing and the Mirror
+- The Axial Age
+- The Biblical Cross-Reference Network — Coherence Across Authors and Centuries
+- The Chalice Test — Mediation Without Instrumentalization
+- The Divine Child — Innocence as the Form of the Source
+- The Fall
+- The First Light-Bearer — Lucifer and the Origin of the Instrument Pattern
+- The Flood Narrative
+- The Golden Rule
+- The Last Shall Be First — The Lost Child and the Inversion
+- The Tao
+- Tikkun Olam
+- Tower of Babel
+- Vision and Straying — The Lost Sheep of the House
+- Wittgenstein
+- Zen Buddhism
+
+## Meta
+- [Home](https://ecclesia.lumensyntax.com/) — how to read the catalogue
+- [META-PATTERNS](https://ecclesia.lumensyntax.com/META-PATTERNS) — cross-domain structural invariants, with strength ratings
