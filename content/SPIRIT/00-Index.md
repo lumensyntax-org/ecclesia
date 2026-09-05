@@ -21,6 +21,7 @@ MYSTERY_EXPLORATION throughout. Competing interpretations exist; factual analysi
 12. [[The Chalice Test]] -- Mediation Without Instrumentalization (operational principle)
 13. [[Evil as Privation]] -- The Non-Substantial Nature of the Bad
 14. [[Nehemiah — The Wall Rebuilt in Sections]] -- Distributed Work Under Common Direction
+15. [[The Transparent Channel]] -- The Messenger Who Speaks as the Sender, and the Line He Does Not Cross
 
 ## II. Eastern and Comparative Traditions
 
