@@ -23,13 +23,13 @@ The operational principle that predominates over the entire catalogue is the **C
 | Domain | Scope | Entries |
 |--------|-------|---------|
 | [[COSMOS/00-Index\|COSMOS]] | Physics, cosmology, mathematical physics | 27 |
-| [[EARTH/00-Index\|EARTH]] | Earth systems, climate, geology | 23 |
+| [[EARTH/00-Index\|EARTH]] | Earth systems, climate, geology | 25 |
 | [[CHEMISTRY/00-Index\|CHEMISTRY]] | Chemistry and the physics–chemistry bridge | 20 |
 | [[LIFE/00-Index\|LIFE]] | Biology, evolution, ecology | 25 |
 | [[BODY/00-Index\|BODY]] | Anatomy, physiology, genetics | 18 |
 | [[MEDICINE/00-Index\|MEDICINE]] | Clinical knowledge, disease, healing | 15 |
 | [[MIND/00-Index\|MIND]] | Neuroscience, consciousness, psychology | 28 |
-| [[SPIRIT/00-Index\|SPIRIT]] | Religion, theology, philosophy | 57 |
+| [[SPIRIT/00-Index\|SPIRIT]] | Religion, theology, philosophy | 58 |
 | [[MIRROR/00-Index\|MIRROR]] | Self-recognition, emergence of self | 14 |
 | [[LOVE/00-Index\|LOVE]] | Relationships, family, the bond | 15 |
 | [[EXPRESSION/00-Index\|EXPRESSION]] | Culture, art, music, language | 20 |
@@ -42,7 +42,7 @@ The operational principle that predominates over the entire catalogue is the **C
 | [[SHADOW/00-Index\|SHADOW]] | Violations, pathology, the pattern broken | 29 |
 | [[BUILDERS/00-Index\|BUILDERS]] | The people who carried the mirrors | 17 |
 
-**Total**: 434 entries across 19 domains.
+**Total**: 437 entries across 19 domains.
 
 **Cross-cutting structural patterns**: beyond the domain tree, recurring structural invariants connect entries across domains — mapped, with explicit strength ratings and a note of where each connection becomes metaphor, in [[META-PATTERNS]].
 
