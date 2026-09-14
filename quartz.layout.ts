@@ -8,9 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Repository": "https://github.com/lumensyntax-org/ecclesia",
+      Repository: "https://github.com/lumensyntax-org/ecclesia",
       "Paper (v3, Zenodo)": "https://doi.org/10.5281/zenodo.19634358",
-      "LumenSyntax": "https://lumensyntax.com",
+      LumenSyntax: "https://lumensyntax.com",
       "License (CC BY-SA 4.0)": "https://creativecommons.org/licenses/by-sa/4.0/",
     },
   }),

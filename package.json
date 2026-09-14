@@ -14,9 +14,13 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
-    "check": "tsc --noEmit && npx prettier . --check",
-    "format": "npx prettier . --write",
-    "test": "tsx --test",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier . --write",
+    "format:check": "prettier . --check",
+    "test": "node --import tsx --test \"quartz/**/*.test.ts\" \"scripts/**/*.test.ts\"",
+    "check": "npm run typecheck && npm run format:check && npm run test",
+    "build:export": "node scripts/gen-llms.mjs",
+    "build": "npm run build:export && npx quartz build",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },
   "engines": {

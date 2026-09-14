@@ -86,7 +86,9 @@ function main() {
     `The full corpus as one file: [/llms-full.txt](${BASE}/llms-full.txt). Every canonical page URL: [/sitemap.xml](${BASE}/sitemap.xml). Source and contribution rules: [github.com/lumensyntax-org/ecclesia](https://github.com/lumensyntax-org/ecclesia).`,
   )
   L.push("")
-  L.push(`This index lists ${entryCount} entries across ${domains.length} domains (generated ${TODAY}).`)
+  L.push(
+    `This index lists ${entryCount} entries across ${domains.length} domains (generated ${TODAY}).`,
+  )
   L.push("")
   L.push("## Domains")
   for (const { dom, hub, entries } of model) {
@@ -98,7 +100,9 @@ function main() {
   L.push("")
   L.push("## Meta")
   L.push(`- [Home](${BASE}/) — how to read the catalogue`)
-  L.push(`- [META-PATTERNS](${BASE}/META-PATTERNS) — cross-domain structural invariants, with strength ratings`)
+  L.push(
+    `- [META-PATTERNS](${BASE}/META-PATTERNS) — cross-domain structural invariants, with strength ratings`,
+  )
   L.push("")
   const llmsTxt = L.join("\n")
 

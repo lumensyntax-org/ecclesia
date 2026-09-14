@@ -4,7 +4,9 @@ import { parseFrontmatter, isIndexOrTemplate, isDraft } from "./gen-llms-lib.mjs
 
 describe("parseFrontmatter", () => {
   test("parses LF frontmatter", () => {
-    const { fm, body } = parseFrontmatter("---\ndomain: spirit\nstrength: STRONG\n---\n# Title\nbody")
+    const { fm, body } = parseFrontmatter(
+      "---\ndomain: spirit\nstrength: STRONG\n---\n# Title\nbody",
+    )
     assert.strictEqual(fm.domain, "spirit")
     assert.strictEqual(fm.strength, "STRONG")
     assert.match(body, /# Title/)

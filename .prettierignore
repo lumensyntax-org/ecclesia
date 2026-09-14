@@ -1,0 +1,11 @@
+# Generated output and caches
+public
+.quartz-cache
+node_modules
+
+# Catalogue data, not source code (entries are prose; llms.txt/-full.txt are generated).
+# Do not reformat the catalogue — the format gate targets source (ts/tsx/mjs/js/json/yaml).
+content
+
+# Markdown docs are prose; the format gate is for source style, not prose rewrapping.
+*.md
