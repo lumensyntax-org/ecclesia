@@ -2,6 +2,7 @@ import FlexSearch, { DefaultDocumentSearchResults } from "flexsearch"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
+import { escapeHTML, escapeRegExp } from "../../util/escape"
 
 interface Item {
   id: number
@@ -130,14 +131,19 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
 
   const slice = tokenizedText
     .map((tok) => {
+      // Escape catalogue text so HTML inside an entry cannot become active markup
+      // once this string is assigned to innerHTML downstream (T05).
+      const safe = escapeHTML(tok)
       // see if this tok is prefixed by any search terms
       for (const searchTok of tokenizedTerms) {
         if (tok.toLowerCase().includes(searchTok.toLowerCase())) {
-          const regex = new RegExp(searchTok.toLowerCase(), "gi")
-          return tok.replace(regex, `<span class="highlight">$&</span>`)
+          // Escape regex metacharacters so a literal query (e.g. "C++", "(") matches
+          // instead of throwing / being interpreted as a pattern (T04).
+          const regex = new RegExp(escapeRegExp(searchTok.toLowerCase()), "gi")
+          return safe.replace(regex, `<span class="highlight">$&</span>`)
         }
       }
-      return tok
+      return safe
     })
     .join(" ")
 
@@ -161,7 +167,7 @@ function highlightHTML(searchTerm: string, el: HTMLElement) {
   const highlightTextNodes = (node: Node, term: string) => {
     if (node.nodeType === Node.TEXT_NODE) {
       const nodeText = node.nodeValue ?? ""
-      const regex = new RegExp(term.toLowerCase(), "gi")
+      const regex = new RegExp(escapeRegExp(term.toLowerCase()), "gi")
       const matches = nodeText.match(regex)
       if (!matches || matches.length === 0) return
       const spanContainer = document.createElement("span")
@@ -312,7 +318,10 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     return {
       id,
       slug,
-      title: searchType === "tags" ? data[slug].title : highlight(term, data[slug].title ?? ""),
+      title:
+        searchType === "tags"
+          ? escapeHTML(data[slug].title ?? "")
+          : highlight(term, data[slug].title ?? ""),
       content: highlight(term, data[slug].content ?? "", true),
       tags: highlightTags(term.substring(1), data[slug].tags),
     }
@@ -325,10 +334,12 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
     return tags
       .map((tag) => {
+        // Escape tag text so a tag containing markup can't inject HTML (T05).
+        const safe = escapeHTML(tag)
         if (tag.toLowerCase().includes(term.toLowerCase())) {
-          return `<li><p class="match-tag">#${tag}</p></li>`
+          return `<li><p class="match-tag">#${safe}</p></li>`
         } else {
-          return `<li><p>#${tag}</p></li>`
+          return `<li><p>#${safe}</p></li>`
         }
       })
       .slice(0, numTagResults)
