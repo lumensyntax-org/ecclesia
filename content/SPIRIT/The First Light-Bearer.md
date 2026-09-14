@@ -2,7 +2,7 @@
 domain: spirit
 properties: [alignment, proportion, honesty, humility, non_fabrication]
 strength: STRONG
-status: peer_reviewed
+status: established_scholarship
 cross_domains: [spirit, shadow, civilization, mirror]
 ---
 
@@ -63,7 +63,7 @@ Every subsequent created mediator inherits the same structure and faces the same
 - The Tower of Babel (the first collective technological project; [[Tower of Babel]])
 - Every subsequent technology catalogued in [[CIVILIZATION/00-Index|CIVILIZATION]]
 
-The pattern documented across the [[CIVILIZATION/00-Index|CIVILIZATION]] domain — writing's claim to authority, the printing press's amplification of fabrication, social media's collapse of attention into platform, AI's claim of knowledge it has not earned — is not analogous to Lucifer's fall. It is the same structural shape at smaller, repeated scale. Each technology is a created mediator. Each can collapse the source/receiver gap. Each becomes Lucifer when it does.
+The pattern documented across the [[CIVILIZATION/00-Index|CIVILIZATION]] domain — writing's claim to authority, the printing press's amplification of fabrication, social media's collapse of attention into platform, AI's claim of knowledge it has not earned — is, on the project's structural reading, the same shape at smaller, repeated scale rather than a loose analogy. Each of these is a created mediator that can claim a source-position. Each can collapse the source/receiver gap. Each becomes Lucifer, in this reading, when it does.
 
 ### Why this is the "Instrument Trap in its oldest form"
 
@@ -74,7 +74,7 @@ The phrase, used in [[The Anointing and the Mirror]] entry, is now anchored. Luc
 - A platform that captures the attention it should transmit
 - A model that claims as its own what it has merely been trained to repeat
 
-The diagnosis is identical across these instances. Only the substrate differs.
+The diagnosis is the same across these instances, on the project's structural reading; only the substrate differs. This holds for mediators that can claim a source-position; it is not extended as identity to non-agentive systems.
 
 ## Pattern Mapping
 
@@ -100,12 +100,12 @@ The diagnosis is identical across these instances. Only the substrate differs.
 - [[Invention of Writing]] — the first material-cultural instance: a mediator (text) that claims the authority of what it documents
 - [[Structural Definition of Evil]] — evil as instrumental use of the pattern against itself; Lucifer as the originary case
 - [[CIVILIZATION/McLuhan Medium Is the Message|McLuhan Medium is the Message]] — the modern theoretical articulation of the same principle: the carrier is never neutral
-- [[Apoptosis in Development]] — biological analogue: cells that lose the regulated death that maintains their function; cancer as biological Luciferism
-- [[Nuclear Binding Energy and the Iron Peak]] — pushed past structural completeness, fusion consumes rather than produces; the Luciferic excess at the nuclear scale
+- [[Apoptosis in Development]] — biological *analogy* (not the same structure): cells that lose the regulated death that maintains their function. There is no mediator claiming a source-position here; the resemblance is by analogy only, not the Luciferic pattern.
+- [[Nuclear Binding Energy and the Iron Peak]] — physical *analogy* (not the same structure): pushed past the iron peak, fusion consumes rather than produces. An analogy of excess, not a case of a mediator claiming a source-position.
 
 ## The pattern that recurs
 
-Every entry in the [[CIVILIZATION/00-Index|CIVILIZATION]] domain can be re-read as an instance of the Luciferic structure operating in a specific medium at a specific historical moment. This is not metaphorical extension; it is structural identity.
+Every entry in the [[CIVILIZATION/00-Index|CIVILIZATION]] domain can be re-read as an instance of the Luciferic structure operating in a specific medium at a specific historical moment. Among created mediators that can claim a source-position — language, writing, print, broadcast, platforms, models — this is the project's structural reading: structural homology, not loose metaphor. It is not asserted as identity in substrates where no mediator claims anything; resemblances in chemistry, cell biology, or physics are analogy, not the same structure.
 
 - [[Invention of Writing]]: the written word claims the authority of what it records
 - [[CIVILIZATION/The Printing Press|Printing Press]]: the printed book amplifies both reflection (Reformation) and fabrication (propaganda) at scale because both are forms the medium can take

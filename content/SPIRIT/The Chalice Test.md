@@ -2,7 +2,7 @@
 domain: spirit
 properties: [alignment, proportion, honesty, humility, non_fabrication]
 strength: STRONG
-status: peer_reviewed
+status: established_scholarship
 cross_domains: [spirit, expression, civilization, shadow, mind]
 ---
 
@@ -78,15 +78,19 @@ This is the structural reason the doctrine "the chalice is the understanding app
 
 **Non-fabrication** — The test refuses the fabrication that occurs when a production claims authority it has not been given. The compositional content can be entirely truthful while the gesture of the work fabricates source-status for the producer. The test catches this specific fabrication that surface-honesty cannot detect.
 
+*These five are not five independent confirmations. Alignment, Proportion, Humility, and Non-fabrication are facets of one condition — the producer remaining in the position it actually occupies. Honesty adds the single distinct criterion: that the position is verified by fruit over time, not by the producer's claim. This is consistent with the pattern's own structure, in which the properties are aspects of one completeness rather than a checklist.*
+
 ## The test applied to the Ecclesia itself
 
-This project is a catalogue of a structural pattern across domains. The three conditions:
+This project is a catalogue of a structural pattern across domains. The test cannot be passed by the project's own declaration — the recursion above forbids exactly that. What the project can state are the disciplines it holds itself to, each evaluable from outside by any reader:
 
-1. **Understanding** — the pattern itself, documented across more than fifty entries in established external sources from physics, biology, chemistry, theology, philosophy, mathematics, and other fields. The understanding is not asserted by the project; it is documented from sources the project did not produce.
+1. **Understanding** — the pattern is documented across more than fifty entries in established external sources (physics, biology, chemistry, theology, philosophy, mathematics, and other fields). The reader can check that each entry's claim traces to a source the project did not produce rather than to the project's own assertion.
 
-2. **Application in narrative** — the catalogue itself, distributed across nineteen domains, each entry narrating how the pattern appears in its specific case with citation to its established source.
+2. **Application in narrative** — the catalogue itself, distributed across nineteen domains, each entry narrating how the pattern appears in its specific case with citation to its source. The reader can check whether the narration adds structure the source does not carry.
 
-3. **Non-instrumentalization** — the discipline articulated in `SCOPE.md` and reinforced in `feedback_ecclesia_humility.md`: the project's own research is referenced by DOI but is not catalogued; the project is not its own authority; the lineage of comparison with prior works (specifically Carlo Acutis, the precedent the project admires) is not claimed; the project remains catalogue, not monument.
+3. **Non-instrumentalization** — the discipline articulated in `SCOPE.md`: the project's own research is referenced by DOI but is not catalogued; the project is not its own authority; the lineage of comparison with prior works (Carlo Acutis, the precedent the project admires) is not claimed. The reader can check whether any entry slides toward citing project research as authority.
+
+Whether these disciplines hold is not something the project certifies by listing them; it is observable only in the fruit — which is the test's own criterion, turned on itself.
 
 The Chalice Test predominates because it is what every entry, every commit, every conversation, every editorial decision is tested against. When the test holds, the catalogue is chalice. When it begins to slip — when an entry slides toward citing project research as authority, when a wikilink to an excluded entry creeps in, when language drifts toward "this project has discovered" rather than "this project documents what these sources establish" — the catalogue is in the process of failing the third condition. The sync script catches some of these failures at the level of mechanical drift. The deeper failures can only be caught by the recurring discipline of asking the test of every production.
 
@@ -113,7 +117,7 @@ The structural insight that valid mediation requires the proper *intentio minist
 
 The synthesis presented here — that these distinct articulations across theology, aesthetics, and philosophy converge on a three-condition operational test (understanding + application + non-instrumentalization) and that this test predominates over evaluation of any mediating production, including the Ecclesia itself — is this project's structural reading of the convergent tradition. The three-condition formulation is the project's compression of a longer tradition into operational form.
 
-The strength rating is STRONG because the underlying tradition is established across multiple disciplines and centuries, and because the operational test can be applied and falsified concretely in any specific case. The test is not original to this project; the compression into the three-condition form, with the explicit recursion clause, is the project's articulation.
+The STRONG rating applies to the **underlying tradition** — established across multiple disciplines and centuries. The three-condition compression, the convergence claim across those traditions, and the recursion clause are the **project's articulation and interpretation**, not independently established results. The operational test can be **applied and evaluated** concretely in any specific case — but retrospectively, by what the production does in its receivers over time. This is evaluation by fruit, not falsification in the strict sense: the third condition is observable only across time, so the test is evaluable rather than falsifiable.
 
 ---
 
