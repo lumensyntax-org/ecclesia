@@ -7,6 +7,51 @@ ecclesia_legacy:
   strength: STRONG
   from_commit: 6ba501603151e7680e2ad7e54aaa013945b4c9c5
   migration_state: pending
+ecclesia:
+  schema_version: 1
+  entry_kind: source_analysis
+  coverage: partial
+  coverage_notes: >-
+    Teaching claims should be tied to the encyclical's numbered paragraphs and the
+    empirical claims to independent evidence; those per-claim locators are not yet
+    inventoried.
+  review_status: pending
+  reviews: []
+  sources:
+    - id: magnifica_humanitas
+      citation: "Leo XIV, Magnifica Humanitas — Encyclical Letter on Safeguarding the Human Person in the Time of Artificial Intelligence (Vatican, 2026)"
+      source_kind: papal_encyclical
+      origin: external
+      url: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
+      academic_review:
+        status: not_documented
+        note: An encyclical is a magisterial document; this record does not document an academic peer-review process.
+  claims:
+    - id: encyclical_teaching
+      text: The encyclical develops Catholic Social Doctrine applied to artificial intelligence.
+      claim_kind: theological_doctrinal
+      origin: source_summary
+      supports:
+        - source_id: magnifica_humanitas
+          locator: null
+          support: unassessed
+          note: Paragraph-level locators for specific teachings are not yet recorded.
+          review_status: pending
+          reviews: []
+      review_status: pending
+      reviews: []
+  mappings:
+    - id: five_property_reading
+      statement: Ecclesia reads the encyclical's account of human dignity and technology against the five properties.
+      claim_ids: [encyclical_teaching]
+      targets: ["property:alignment", "property:proportion"]
+      mapping_kind: interpretive_synthesis
+      argument: The encyclical's critique of the technocratic paradigm is read as a proportion and alignment concern; this is the project's interpretation.
+      limits: >-
+        The mapping's strength cannot be inferred from the document's magisterial standing;
+        its empirical claims require their own evidence.
+      review_status: pending
+      reviews: []
 ---
 
 # Magnifica Humanitas — Encyclical on Artificial Intelligence (Leo XIV, 2026)

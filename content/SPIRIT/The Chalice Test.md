@@ -7,6 +7,63 @@ ecclesia_legacy:
   strength: STRONG
   from_commit: 6ba501603151e7680e2ad7e54aaa013945b4c9c5
   migration_state: pending
+ecclesia:
+  schema_version: 1
+  entry_kind: normative_proposal
+  coverage: partial
+  coverage_notes: >-
+    Aquinas locators (III q64 aa. 8, 10) verified against newadvent but left unassessed
+    pending the review-record + digest subsystem; the aesthetic and philosophical
+    attributions (Florensky, Maritain, Joyce, Rilke, Balthasar, Kierkegaard, Weil) still
+    need passage-level locators; the domain applications are not yet inventoried as claims.
+  review_status: pending
+  reviews: []
+  sources:
+    - id: aquinas_st
+      citation: "Thomas Aquinas, Summa Theologiae, III, question 64"
+      source_kind: canonical_text
+      origin: external
+      url: https://www.newadvent.org/summa/4064.htm
+      academic_review:
+        status: not_documented
+        note: This record does not document an academic peer-review process.
+  claims:
+    - id: project_commitment
+      text: Ecclesia adopts the three conditions as its editorial discipline for responsible mediation.
+      claim_kind: normative
+      origin: project_proposal
+      supports: []
+      review_status: pending
+      reviews: []
+    - id: sacramental_intention
+      text: >-
+        Aquinas distinguishes the sacramental intention to do what the Church does from a
+        wrongful ulterior purpose that does not by itself invalidate the sacrament.
+      claim_kind: historical_textual
+      origin: source_summary
+      supports:
+        - source_id: aquinas_st
+          locator:
+            kind: article
+            value: "III, question 64, articles 8 and 10"
+          support: unassessed
+          note: Locator verified against newadvent; a formal review record awaits the reviews subsystem.
+          review_status: pending
+          reviews: []
+      review_status: pending
+      reviews: []
+  mappings:
+    - id: ethical_synthesis
+      statement: Ecclesia uses theological distinctions to inform an ethic of mediation, not to derive sacramental validity.
+      claim_ids: [project_commitment, sacramental_intention]
+      targets: ["property:honesty", "property:humility", "property:non_fabrication"]
+      mapping_kind: interpretive_synthesis
+      argument: The project distinguishes conveying a source from appropriating its authority; the three conditions are its own proposal.
+      limits: >-
+        This proposal does not derive sacramental validity from the producer's moral
+        disposition, and its cross-tradition convergence is unestablished pending locators.
+      review_status: pending
+      reviews: []
 ---
 
 # The Chalice Test — Mediation Without Instrumentalization
