@@ -78,17 +78,17 @@ The five properties applied to the catalogue itself:
 
 ## The operational principle that predominates: the Chalice Test
 
-The five properties are the diagnostic categories. The operational discipline that integrates them — and that every entry, every commit, every editorial decision is tested against — is articulated in the entry `SPIRIT/The Chalice Test`. A production (entry, work, teaching) is faithful mediation if and only if three conditions are simultaneously satisfied:
+The five properties are the diagnostic categories. The operational discipline that integrates them — and that every entry, every commit, every editorial decision is tested against — is articulated in the entry `SPIRIT/The Chalice Test`. Ecclesia adopts it as its **working editorial discipline** for responsible mediation (the project's commitment, not a demonstrated law): a production (entry, work, teaching) is treated as faithful mediation when three conditions hold together:
 
 1. **It carries an understanding** (not generated from technique alone)
 2. **It is applied in a narrative or work** (not suspended insight)
 3. **The narrative or work is not instrumentalized to elevate the producer's own position** (not used to claim the source-position that belongs to what is being mediated)
 
-Where all three hold, the production is chalice — vessel that holds and offers, in the structural sense of participating in the gift it bears. Where any is missing, the production fails as mediation. The third condition is the most dangerous to violate because the production looks identical to authentic mediation at the level of surface form; only the disposition of the producer distinguishes bearer from claimant.
+Where all three hold, the production is chalice — vessel that holds and offers, in the structural sense of participating in the gift it bears. Where one is missing, the production falls short as mediation in that respect. The third condition is the most dangerous to violate because the production looks identical to authentic mediation at the level of surface form; only the disposition of the producer distinguishes bearer from claimant. An assessment should distinguish the accuracy of a claim, the quality of its mediation, and the conduct of its producer, recording reasons and uncertainties for each — a work may convey something true while its producer also behaves self-servingly.
 
 This test predominates over the entire Ecclesia. It is operational rather than declarative — articulating the test does not satisfy it; only the disposition with which each production is offered satisfies it. The Chalice Test must be re-performed every time it is invoked, never possessed.
 
-The discipline of this scope document, the sync script in `bin/sync_ecclesia.py`, the permanent exclusion of project research from the catalogue, and the absence of project signature on any entry are all operational instances of the third condition being held. They are not separate hygiene measures; they are the same discipline applied at different layers.
+The discipline of this scope document, the permanent exclusion of project research from the catalogue, and the absence of project signature on any entry are all operational instances of the third condition being held. They are not separate hygiene measures; they are the same discipline applied at different layers. *(A `bin/sync_ecclesia.py` control referenced in earlier drafts is not present in this repository; it is an external, authoring-side step rather than a check a contributor can run here — treat it as pending documentation, not an executable guarantee.)*
 
 ---
 

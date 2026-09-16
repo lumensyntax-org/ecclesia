@@ -2,7 +2,7 @@
 domain: spirit
 properties: [alignment, proportion, honesty, humility, non_fabrication]
 strength: STRONG
-status: peer_reviewed
+status: institutional
 cross_domains: [spirit, civilization, shadow]
 ---
 
@@ -128,7 +128,7 @@ The encyclical is a primary magisterial document, available in its complete and 
 
 The empirical claims about AI that the encyclical makes — about autonomous weapons, algorithmic discrimination in healthcare and employment, the technocratic paradigm, the merit-ideology of human worth — are documented in the technical, journalistic, and academic literature independently of the encyclical. The structural-doctrinal claims are the development of the established Catholic teaching applied to a new category of technological transformation.
 
-The strength rating is STRONG because the document is a primary source, the empirical claims are independently verifiable, and the doctrinal continuity is explicit. Status is **peer_reviewed**: an encyclical is by genre the most carefully reviewed kind of document the Catholic Church produces, with extensive theological and pastoral consultation prior to publication.
+This entry cites the encyclical as a **primary magisterial source**; its ecclesial genre and authority are distinct from academic peer review, and this entry does not claim the document underwent a journal-style peer-review process (the extensive theological and pastoral consultation an encyclical receives is ecclesial review, not the same object). Statements about what the encyclical *teaches* should cite its numbered paragraphs; the empirical claims summarized here require their own supporting evidence (above). The **mapping to Ecclesia's five properties is the project's interpretation** — its strength cannot be inferred from the document's primary-source status or ecclesial standing. The **STRONG** rating therefore attaches to the document's standing as an authenticated primary source and to the independently verifiable empirical claims, not to the project's cross-domain mapping. The frontmatter `status: institutional` marks it as a magisterial/institutional source pending the source/interpretation schema noted in the editorial pilot.
 
 ---
 
