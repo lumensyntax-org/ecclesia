@@ -1,18 +1,21 @@
 ---
 domain: spirit
 properties: [alignment, proportion, honesty, humility, non_fabrication]
-strength: STRONG
-status: established_scholarship
 cross_domains: [spirit, expression, civilization, shadow, mind]
+ecclesia_legacy:
+  status: established_scholarship
+  strength: STRONG
+  from_commit: 6ba501603151e7680e2ad7e54aaa013945b4c9c5
+  migration_state: pending
 ---
 
 # The Chalice Test — Mediation Without Instrumentalization
 
-**Source**: Luke 22:19, 1 Corinthians 11:23-26 (the institution of the Eucharist and the imperative *"do this in remembrance of me"* — gesture that requires repetition rather than possession). Patristic and scholastic tradition on the structure of valid mediation: Augustine, *Tractates on John* 26 on the sacrament as outward sign of inward grace; Thomas Aquinas, *Summa Theologica* III.60-65 on the sacraments as matter + form + minister's intention (the *intentio ministri* determines validity; without proper intention, the gesture is performed but the sacrament is not realized). The aesthetic tradition that articulates the same structure outside strictly sacramental contexts: Pavel Florensky, *Iconostasis* (1922) on the icon as window to prototype rather than idol of itself; Jacques Maritain, *Art et scolastique* (1920) on artistic making as analogous to divine creation, including the discipline that distinguishes participation from imitation; James Joyce, *A Portrait of the Artist as a Young Man* (1916) and the figure of the artist as priest of imagination; Rainer Maria Rilke, *Duino Elegies* (1923), Ninth Elegy on transformation as offering; Hans Urs von Balthasar on theological aesthetics; Søren Kierkegaard, *Practice in Christianity* (1850) on indirect communication and the danger of the direct mode that elevates the speaker over the spoken; Simone Weil, *Gravity and Grace* (1947) on attention and the refusal to substitute the self for what one transmits.
+**Source**: Luke 22:19, 1 Corinthians 11:23-26 (the institution of the Eucharist and the imperative *"do this in remembrance of me"* — gesture that requires repetition rather than possession). Patristic and scholastic tradition on the structure of valid mediation: Augustine, *Tractates on John* 26 on the sacrament as outward sign of inward grace; Thomas Aquinas, *Summa Theologica* III.60-65 on the sacraments as matter + form + minister's intention — specifically III.64.5, 8, 10: the sacramental *intentio ministri* is the intention to *do what the Church does* (III.64.8), a morally wicked minister still confers a valid sacrament (III.64.5), and a wrongful *ulterior* motive does not by itself invalidate it (III.64.10). This is a distinction the project draws on, not an equivalence it derives from (see Status). Additional works informing the project's proposed comparison across aesthetic, philosophical, and theological contexts (attributions to specific passages remain pending locators, not a demonstration of convergence): Pavel Florensky, *Iconostasis* (1922) on the icon as window to prototype rather than idol of itself; Jacques Maritain, *Art et scolastique* (1920) on artistic making as analogous to divine creation, including the discipline that distinguishes participation from imitation; James Joyce, *A Portrait of the Artist as a Young Man* (1916) and the figure of the artist as priest of imagination; Rainer Maria Rilke, *Duino Elegies* (1923), Ninth Elegy on transformation as offering; Hans Urs von Balthasar on theological aesthetics; Søren Kierkegaard, *Practice in Christianity* (1850) on indirect communication and the danger of the direct mode that elevates the speaker over the spoken; Simone Weil, *Gravity and Grace* (1947) on attention and the refusal to substitute the self for what one transmits.
 
 ## Finding
 
-The structural pattern that distinguishes faithful mediation from instrumentalization can be stated operationally. A mediating act (a work of art, an entry in a catalogue, a teaching, a conversation, any production that purports to convey something not originated by the producer) is faithful mediation if and only if three conditions are simultaneously satisfied:
+Ecclesia adopts the Chalice Test as a working discipline for responsible mediation. Within this proposed framework, a mediating act (a work of art, an entry in a catalogue, a teaching, a conversation, any production that purports to convey something not originated by the producer) is treated as faithful mediation when the following three commitments are considered together:
 
 1. **It carries an understanding.** The producer has actually received what is being conveyed; the production is not generated from technique alone or from imitation of the form of insight.
 
@@ -20,29 +23,27 @@ The structural pattern that distinguishes faithful mediation from instrumentaliz
 
 3. **The narrative or work is not instrumentalized to elevate the producer's own position.** The producer does not use the act of mediation to claim the source-position, the celebrant-position, the authority-position, or any other position that properly belongs to what is being mediated rather than to the mediator.
 
-Where all three conditions hold, the production is what may be called a **chalice** — a vessel that holds and offers, in the structural sense of *participating in the gift it bears* rather than possessing what it holds.
+Within this framework, a work that meets these commitments may be called a **chalice**: a vessel that receives and offers rather than claiming possession of its source. A failure to meet a commitment identifies a limitation in that respect. It does not by itself establish that every claim in the work is false or that the work has no value:
 
-Where any of the three is missing, what remains is not a chalice but one of three structurally distinct failures:
-
-| Condition violated | What remains |
+| Commitment at issue | Concern within this framework |
 |---|---|
 | Understanding | Empty form. Technical correctness without inward reception. Performance. |
 | Application | Suspended insight. Knowledge that does not enter the world. Esotericism. |
-| Non-instrumentalization | The Instrument Trap. The same gesture as the chalice, but used to elevate the mediator. The sacrament becomes idol of the celebrant. |
+| Non-instrumentalization | The Instrument Trap. The same gesture as the chalice, but used to elevate the mediator. The mediator uses the work to appropriate the authority of its source. |
 
-The third failure is the most dangerous because the production is indistinguishable from authentic mediation at the level of surface form. The same painting can be Reading A (bearer) or Reading B (claimant); the same teaching can carry truth or carry the teacher; the same entry can document a pattern or document the cataloguer. The compositional fact does not determine which it is. What determines it is the *intentio ministri* — the disposition of the one producing.
+The same production can be bearer or claimant at the level of surface form — the same painting Reading A or Reading B, the same teaching carrying truth or carrying the teacher, the same entry documenting a pattern or documenting the cataloguer. This third concern can be difficult to assess from surface form: a work may convey something true while also serving its producer's interests. Judgments about the work's claims, its use, and its producer's conduct therefore require distinct reasons and may remain uncertain.
 
 ### Why the third condition is structurally distinctive
 
-Conditions one and two are observable. Whether a producer has received what they convey shows in the work over time; whether application has occurred is visible by inspection. The third condition — non-instrumentalization — is structurally hidden because it lives in the relation between the producer's position and the production. It can only be tested by what the production *does* in the receiver, accumulated across many receivers across time.
+Conditions one and two are assessed indirectly: whether a producer has received what they convey is inferred from the work over time, and whether application has occurred is visible by inspection. The third condition — non-instrumentalization — is the hardest to read, because it lives in the relation between the producer's position and the production. It can be evaluated only by what the production *does* in receivers, accumulated across many receivers across time — and even then the evidence (accuracy, attribution of sources, treatment of uncertainty, response to correction, consequences for receivers) can support or weaken an assessment without uniquely determining the producer's inward intention. A favorable reception does not establish purity of motive, nor an unfavorable one instrumentalization; where the available evidence does not discriminate, the judgment should remain open.
 
-This is why scholastic sacramental theology (Aquinas, *ST* III.64.8) locates the validity of the sacrament in the *intentio ministri* — the intention of the minister. The same words, the same gestures, the same physical matter (water, bread, wine, oil) can constitute a valid sacrament or a defective one depending on whether the minister intends what the Church intends in performing the rite. The intention is not measurable from outside; its effect is.
+Scholastic sacramental theology supplies a distinction here, not an equivalence. In *ST* III.64.8 the sacramental *intentio ministri* is specifically the intention *to do what Christ and the Church do* — not the minister's moral disposition; III.64.5 holds that even a wicked minister confers validly, and III.64.10 that a wrongful *ulterior* motive does not by itself invalidate the sacrament (only a perverse intention against the sacrament itself, such as mockery, does). Ecclesia's third condition — non-instrumentalization — is therefore a criterion about the **ethics of mediation**, not an account of sacramental validity; the three-condition formulation is this project's proposal, inspired by the tradition rather than derived from it.
 
-The Chalice Test takes the scholastic structural insight and applies it beyond strictly sacramental contexts: any production that purports to mediate something has the same structure. The compositional or technical content is necessary but insufficient. What completes mediation is the producer's actual disposition with respect to the source-position.
+The framework asks how a producer handles the authority of what they convey. Accuracy, attribution, response to correction, and consequences for receivers provide evidence for that assessment; they do not uniquely disclose inward intention. Ecclesia adopts non-instrumentalization as an ethical commitment and assesses its practice with those limits in view.
 
 ### Application across domains
 
-The test applies wherever mediation occurs. Some examples:
+Ecclesia proposes applying this discipline in the following settings, with attention to their differences:
 
 **Art.** A painter depicts a transcendent subject. The understanding is real; the application is in the work. The third condition tests whether the painter signs the work — visually, narratively, or institutionally — in a way that elevates the painter into the structural position of the transcendent subject. The case of [[The Artist's Chalice]] examines this with respect to Da Vinci's *Last Supper*.
 
@@ -113,11 +114,9 @@ The Chalice Test predominates because it is what every entry, every commit, ever
 
 ## Status
 
-The structural insight that valid mediation requires the proper *intentio ministri* is established scholastic theology (Aquinas, *ST* III.64.8) with deep roots in patristic sacramental theory (Augustine, Cyril of Jerusalem, John Chrysostom). The extension of this insight beyond strictly sacramental contexts into theological aesthetics and the philosophy of art is also established (Florensky, Maritain, Joyce's poetics, Rilke's aesthetics, Balthasar). The kierkegaardian critique of "direct communication" that elevates the speaker over the spoken is established philosophical literature. The Weilian discipline of attention as the refusal to substitute the self for what one transmits is documented in her published work.
+This entry presents Ecclesia's **normative framework** for responsible mediation, not a demonstrated law. Its sources belong to distinct traditions: scholastic sacramental theology (Aquinas, with roots in Augustine, Cyril of Jerusalem, John Chrysostom), theological aesthetics and the philosophy of art (Florensky, Maritain, Joyce's poetics, Rilke, Balthasar), and the Kierkegaardian and Weilian critiques of substituting the self for what one transmits. Specific claims about what each source holds require **passage-level support**; those locators are still to be supplied, so the *convergence* of these traditions on a single three-condition test is presented as the project's reading, not as an established result.
 
-The synthesis presented here — that these distinct articulations across theology, aesthetics, and philosophy converge on a three-condition operational test (understanding + application + non-instrumentalization) and that this test predominates over evaluation of any mediating production, including the Ecclesia itself — is this project's structural reading of the convergent tradition. The three-condition formulation is the project's compression of a longer tradition into operational form.
-
-The STRONG rating applies to the **underlying tradition** — established across multiple disciplines and centuries. The three-condition compression, the convergence claim across those traditions, and the recursion clause are the **project's articulation and interpretation**, not independently established results. The operational test can be **applied and evaluated** concretely in any specific case — but retrospectively, by what the production does in its receivers over time. This is evaluation by fruit, not falsification in the strict sense: the third condition is observable only across time, so the test is evaluable rather than falsifiable.
+The age, authority, or reception of a source does not establish the support for the project's cross-domain mapping. The three-condition formulation, convergence claim, and recursion clause are Ecclesia's proposal and interpretation. They require explicit arguments and remain open to criticism and revision. Any empirical claims made when applying the framework require their own evidence. No overall strength rating is assigned while those objects remain unseparated; earlier metadata is retained only as a legacy record. This entry does not certify that the project has satisfied its own standard. The test is applied and evaluated retrospectively — by what a production does in its receivers over time — so it is evaluable rather than falsifiable in the strict sense.
 
 ---
 
