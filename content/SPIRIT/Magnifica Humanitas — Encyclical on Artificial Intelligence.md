@@ -1,9 +1,12 @@
 ---
 domain: spirit
 properties: [alignment, proportion, honesty, humility, non_fabrication]
-strength: STRONG
-status: institutional
 cross_domains: [spirit, civilization, shadow]
+ecclesia_legacy:
+  status: institutional
+  strength: STRONG
+  from_commit: 6ba501603151e7680e2ad7e54aaa013945b4c9c5
+  migration_state: pending
 ---
 
 # Magnifica Humanitas — Encyclical on Artificial Intelligence (Leo XIV, 2026)
@@ -126,9 +129,9 @@ The encyclical closes (§16) with the image of the rebuilding under Nehemiah bro
 
 The encyclical is a primary magisterial document, available in its complete and authenticated text at vatican.va in multiple languages. It carries the authority of the ordinary papal magisterium; as an encyclical it is teaching that the Catholic faithful are bound to receive religiously, though it is not an *ex cathedra* infallible definition. The document situates itself explicitly within the established corpus of Catholic Social Doctrine and develops that tradition in continuity with the prior encyclicals cited in the **Source** section.
 
-The empirical claims about AI that the encyclical makes — about autonomous weapons, algorithmic discrimination in healthcare and employment, the technocratic paradigm, the merit-ideology of human worth — are documented in the technical, journalistic, and academic literature independently of the encyclical. The structural-doctrinal claims are the development of the established Catholic teaching applied to a new category of technological transformation.
+Claims about what the encyclical teaches should cite its numbered paragraphs. Empirical claims summarized in this entry require independently identified evidence; the encyclical's authority and the possibility of checking a claim do not establish that evidence. Claims not yet checked remain pending.
 
-This entry cites the encyclical as a **primary magisterial source**; its ecclesial genre and authority are distinct from academic peer review, and this entry does not claim the document underwent a journal-style peer-review process (the extensive theological and pastoral consultation an encyclical receives is ecclesial review, not the same object). Statements about what the encyclical *teaches* should cite its numbered paragraphs; the empirical claims summarized here require their own supporting evidence (above). The **mapping to Ecclesia's five properties is the project's interpretation** — its strength cannot be inferred from the document's primary-source status or ecclesial standing. The **STRONG** rating therefore attaches to the document's standing as an authenticated primary source and to the independently verifiable empirical claims, not to the project's cross-domain mapping. The frontmatter `status: institutional` marks it as a magisterial/institutional source pending the source/interpretation schema noted in the editorial pilot.
+This entry identifies the encyclical as a primary magisterial source. Its ecclesial genre and authority are separate from academic peer review; this entry does not document a journal-style peer-review process. The mapping to Ecclesia's five properties is the project's interpretation and requires its own argument and limits. No overall strength rating is assigned to the source, its empirical claims, and that mapping together. Earlier metadata is retained only as a legacy record pending structured migration.
 
 ---
 
