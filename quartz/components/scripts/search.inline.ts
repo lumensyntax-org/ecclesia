@@ -3,6 +3,7 @@ import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
 import { escapeHTML, escapeRegExp } from "../../util/escape"
+import { highlightFragment } from "../../util/highlight"
 
 interface Item {
   id: number
@@ -131,19 +132,15 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
 
   const slice = tokenizedText
     .map((tok) => {
-      // Escape catalogue text so HTML inside an entry cannot become active markup
-      // once this string is assigned to innerHTML downstream (T05).
-      const safe = escapeHTML(tok)
-      // see if this tok is prefixed by any search terms
+      // Highlight the first matching term. highlightFragment matches on the ORIGINAL
+      // text and escapes each fragment, so entities are never split (R3) while keeping
+      // literal matching of regex metacharacters (T04) and safe output (T05).
       for (const searchTok of tokenizedTerms) {
         if (tok.toLowerCase().includes(searchTok.toLowerCase())) {
-          // Escape regex metacharacters so a literal query (e.g. "C++", "(") matches
-          // instead of throwing / being interpreted as a pattern (T04).
-          const regex = new RegExp(escapeRegExp(searchTok.toLowerCase()), "gi")
-          return safe.replace(regex, `<span class="highlight">$&</span>`)
+          return highlightFragment(tok, searchTok)
         }
       }
-      return safe
+      return escapeHTML(tok)
     })
     .join(" ")
 
