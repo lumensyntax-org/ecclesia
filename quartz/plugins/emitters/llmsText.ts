@@ -1,6 +1,7 @@
 import { FullSlug, joinSegments } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
+import { decodeEntitiesOnce } from "../../util/escape"
 
 // A published page reduced to what the AI exports need. Populated from Quartz's
 // already-filtered content (drafts, ignorePatterns, hidden dirs and .gitignore are
@@ -110,7 +111,10 @@ export const buildLlmsFull = (entries: LlmsEntry[], baseUrl: string, today: stri
       F.push(`## ${e.title}`)
       F.push(`URL: ${entryUrl(baseUrl, e.slug)}${meta ? `  [${meta}]` : ""}`)
       F.push("")
-      F.push(e.text.trim())
+      // Quartz stores file.data.text HTML-escaped; the export is plain text, so decode
+      // exactly one layer here (N1) — "Jones &amp; Baylin" -> "Jones & Baylin", and an
+      // author's literal "&lt;" survives as "&lt;". No repeated decoding.
+      F.push(decodeEntitiesOnce(e.text).trim())
     }
   }
   F.push("")

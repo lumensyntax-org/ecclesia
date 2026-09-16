@@ -2,7 +2,7 @@ import FlexSearch, { DefaultDocumentSearchResults } from "flexsearch"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
-import { escapeHTML, escapeRegExp } from "../../util/escape"
+import { escapeHTML, escapeRegExp, decodeEntitiesOnce } from "../../util/escape"
 import { highlightFragment } from "../../util/highlight"
 
 interface Item {
@@ -319,7 +319,9 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         searchType === "tags"
           ? escapeHTML(data[slug].title ?? "")
           : highlight(term, data[slug].title ?? ""),
-      content: highlight(term, data[slug].content ?? "", true),
+      // contentIndex stores content HTML-escaped; decode one layer so highlight() then
+      // re-escapes exactly once (fixes N1 double-escaping) while matching on real text.
+      content: highlight(term, decodeEntitiesOnce(data[slug].content ?? ""), true),
       tags: highlightTags(term.substring(1), data[slug].tags),
     }
   }

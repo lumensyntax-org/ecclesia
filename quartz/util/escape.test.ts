@@ -1,6 +1,19 @@
 import test, { describe } from "node:test"
 import assert from "node:assert"
-import { escapeRegExp, escapeHTML } from "./escape"
+import { escapeRegExp, escapeHTML, decodeEntitiesOnce } from "./escape"
+
+describe("decodeEntitiesOnce (N1 — recover plain text from Quartz's escaped file.data.text)", () => {
+  test("decodes the common entities one layer", () => {
+    assert.strictEqual(decodeEntitiesOnce("Jones &amp; Baylin"), "Jones & Baylin")
+    assert.strictEqual(decodeEntitiesOnce("&lt;tag&gt;"), "<tag>")
+    assert.strictEqual(decodeEntitiesOnce("say &quot;hi&quot;"), 'say "hi"')
+  })
+
+  test("decodes exactly ONE layer, so an author's literal entity survives", () => {
+    // "&amp;lt;" is the escaped form of a literal "&lt;"; it must stay "&lt;", not "<".
+    assert.strictEqual(decodeEntitiesOnce("&amp;lt;"), "&lt;")
+  })
+})
 
 describe("escapeHTML (security contract the search XSS fix relies on)", () => {
   test("neutralizes an HTML tag with an event handler", () => {

@@ -59,4 +59,17 @@ describe("buildLlmsIndex / buildLlmsFull", () => {
     assert.match(out, /status: established_scholarship/)
     assert.match(out, /Body one\./)
   })
+
+  test("decodes one layer of Quartz's HTML escaping in the exported body (N1)", () => {
+    const escaped = [
+      {
+        slug: "BODY/X",
+        title: "X",
+        domain: "BODY",
+        text: "Jones &amp; Baylin, &lt;tag&gt;, and &amp;lt; literal.",
+      },
+    ]
+    const out = buildLlmsFull(escaped, "ecclesia.lumensyntax.com", "2026-09-16")
+    assert.match(out, /Jones & Baylin, <tag>, and &lt; literal\./)
+  })
 })
