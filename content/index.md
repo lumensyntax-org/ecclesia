@@ -23,7 +23,7 @@ The operational principle that predominates over the entire catalogue is the **C
 | Domain | Scope | Entries |
 |--------|-------|---------|
 | [[COSMOS/00-Index\|COSMOS]] | Physics, cosmology, mathematical physics | 27 |
-| [[EARTH/00-Index\|EARTH]] | Earth systems, climate, geology | 25 |
+| [[EARTH/00-Index\|EARTH]] | Earth systems, climate, geology | 23 |
 | [[CHEMISTRY/00-Index\|CHEMISTRY]] | Chemistry and the physics–chemistry bridge | 20 |
 | [[LIFE/00-Index\|LIFE]] | Biology, evolution, ecology | 25 |
 | [[BODY/00-Index\|BODY]] | Anatomy, physiology, genetics | 18 |
@@ -42,7 +42,7 @@ The operational principle that predominates over the entire catalogue is the **C
 | [[SHADOW/00-Index\|SHADOW]] | Violations, pathology, the pattern broken | 29 |
 | [[BUILDERS/00-Index\|BUILDERS]] | The people who carried the mirrors | 17 |
 
-**Total**: 437 entries across 19 domains.
+**Total**: 435 entries across 19 domains.
 
 **Cross-cutting structural patterns**: beyond the domain tree, recurring structural invariants connect entries across domains — mapped, with explicit strength ratings and a note of where each connection becomes metaphor, in [[META-PATTERNS]].
 

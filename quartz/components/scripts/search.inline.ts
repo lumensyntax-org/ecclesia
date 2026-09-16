@@ -2,6 +2,8 @@ import FlexSearch, { DefaultDocumentSearchResults } from "flexsearch"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
+import { escapeHTML, escapeRegExp, decodeEntitiesOnce } from "../../util/escape"
+import { highlightFragment } from "../../util/highlight"
 
 interface Item {
   id: number
@@ -130,14 +132,15 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
 
   const slice = tokenizedText
     .map((tok) => {
-      // see if this tok is prefixed by any search terms
+      // Highlight the first matching term. highlightFragment matches on the ORIGINAL
+      // text and escapes each fragment, so entities are never split (R3) while keeping
+      // literal matching of regex metacharacters (T04) and safe output (T05).
       for (const searchTok of tokenizedTerms) {
         if (tok.toLowerCase().includes(searchTok.toLowerCase())) {
-          const regex = new RegExp(searchTok.toLowerCase(), "gi")
-          return tok.replace(regex, `<span class="highlight">$&</span>`)
+          return highlightFragment(tok, searchTok)
         }
       }
-      return tok
+      return escapeHTML(tok)
     })
     .join(" ")
 
@@ -161,7 +164,7 @@ function highlightHTML(searchTerm: string, el: HTMLElement) {
   const highlightTextNodes = (node: Node, term: string) => {
     if (node.nodeType === Node.TEXT_NODE) {
       const nodeText = node.nodeValue ?? ""
-      const regex = new RegExp(term.toLowerCase(), "gi")
+      const regex = new RegExp(escapeRegExp(term.toLowerCase()), "gi")
       const matches = nodeText.match(regex)
       if (!matches || matches.length === 0) return
       const spanContainer = document.createElement("span")
@@ -312,8 +315,13 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     return {
       id,
       slug,
-      title: searchType === "tags" ? data[slug].title : highlight(term, data[slug].title ?? ""),
-      content: highlight(term, data[slug].content ?? "", true),
+      title:
+        searchType === "tags"
+          ? escapeHTML(data[slug].title ?? "")
+          : highlight(term, data[slug].title ?? ""),
+      // contentIndex stores content HTML-escaped; decode one layer so highlight() then
+      // re-escapes exactly once (fixes N1 double-escaping) while matching on real text.
+      content: highlight(term, decodeEntitiesOnce(data[slug].content ?? ""), true),
       tags: highlightTags(term.substring(1), data[slug].tags),
     }
   }
@@ -325,10 +333,12 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
     return tags
       .map((tag) => {
+        // Escape tag text so a tag containing markup can't inject HTML (T05).
+        const safe = escapeHTML(tag)
         if (tag.toLowerCase().includes(term.toLowerCase())) {
-          return `<li><p class="match-tag">#${tag}</p></li>`
+          return `<li><p class="match-tag">#${safe}</p></li>`
         } else {
-          return `<li><p>#${tag}</p></li>`
+          return `<li><p>#${safe}</p></li>`
         }
       })
       .slice(0, numTagResults)

@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "null",
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "ecclesia.lumensyntax.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
@@ -86,6 +84,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
+      Plugin.LlmsText(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
