@@ -106,10 +106,15 @@ describe("validateEcclesia (model v1, §9 acceptance)", () => {
     assert.ok(errs(validateEcclesia(b, ctx())).some((e) => /locator/i.test((e as any).message)))
   })
 
-  test("academic_review documented without evidence is an error", () => {
+  test("academic_review: documented is rejected while it cannot be accredited", () => {
+    // Stricter since the PR #3 foundation review (F2): `documented` has no verifiable
+    // backing until the review-record + digest subsystem exists, so it is rejected
+    // outright rather than accepted on an unchecked `evidence` field.
     const b = validBlock()
     b.sources[0].academic_review = { status: "documented", note: "x" }
-    assert.ok(errs(validateEcclesia(b, ctx())).some((e) => /evidence/i.test((e as any).message)))
+    assert.ok(
+      errs(validateEcclesia(b, ctx())).some((e) => /accredit|subsystem/i.test((e as any).message)),
+    )
   })
 
   test("coverage partial but review_status reviewed is an error", () => {
