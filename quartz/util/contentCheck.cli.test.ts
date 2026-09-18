@@ -32,6 +32,43 @@ ecclesia:
 body
 `
 
+// A v1 entry whose mapping points at a neighbouring entry. `target` is interpolated so a
+// test can ask for Quartz's slug form or a naive approximation of it.
+const v1TargetingEntry = (target: string) => `---
+domain: spirit
+properties: [alignment, non_fabrication]
+ecclesia:
+  schema_version: 1
+  entry_kind: normative_proposal
+  coverage: partial
+  coverage_notes: pending inventory
+  review_status: pending
+  reviews: []
+  sources: []
+  claims:
+    - id: c1
+      text: A claim that points at a neighbouring entry.
+      claim_kind: normative
+      origin: project_proposal
+      supports: []
+      review_status: pending
+      reviews: []
+  mappings:
+    - id: m1
+      statement: relates to the neighbouring entry
+      claim_ids: [c1]
+      targets: ["entry:${target}"]
+      mapping_kind: interpretive_synthesis
+      argument: the two entries share a structure of mediation
+      limits: not a derivation
+      review_status: pending
+      reviews: []
+---
+
+# Ref
+body
+`
+
 const write = (root: string, rel: string, body: string) => {
   const abs = path.join(root, rel)
   fs.mkdirSync(path.dirname(abs), { recursive: true })
@@ -125,6 +162,43 @@ describe("content:check CLI (F1/F3/F4 regressions)", () => {
         assert.strictEqual(r.status, 0)
         assert.match(r.out, /1 entr/i, "should report 1 catalogue entry")
         assert.match(r.out, /3 auxiliary/i, "should report the 3 auxiliary pages separately")
+      },
+    )
+  })
+
+  // The other half of F4: knownSlugs is built with slugifyFilePath, and `entry:` targets are
+  // resolved against it. If the gate ever re-approximates the slugifier, a legitimate target
+  // starts reading as unknown (or a broken one sails through) and the gate reports wrong
+  // answers about its own catalogue. These two pin the slug FORM, not just its reuse.
+  const AMPERSAND_ENTRY = "SPIRIT/A & B.md"
+
+  test("an entry: target in Quartz's slug form resolves (F4)", () => {
+    withFixture(
+      {
+        [AMPERSAND_ENTRY]: "---\ndomain: spirit\n---\n\n# x\n",
+        "SPIRIT/Ref.md": v1TargetingEntry("SPIRIT/A--and--B"),
+      },
+      (root) => {
+        const r = runCli(root)
+        assert.strictEqual(
+          r.status,
+          0,
+          `the & filename must slugify the way Quartz does:\n${r.out}`,
+        )
+      },
+    )
+  })
+
+  test("an entry: target in a naive slug form is rejected (F4)", () => {
+    withFixture(
+      {
+        [AMPERSAND_ENTRY]: "---\ndomain: spirit\n---\n\n# x\n",
+        "SPIRIT/Ref.md": v1TargetingEntry("SPIRIT/A-&-B"),
+      },
+      (root) => {
+        const r = runCli(root)
+        assert.notStrictEqual(r.status, 0, "a slug Quartz never emits must not resolve")
+        assert.match(r.out, /unknown published entry slug.*A-&-B/i)
       },
     )
   })
