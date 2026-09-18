@@ -18,7 +18,8 @@
     "format": "prettier . --write",
     "format:check": "prettier . --check",
     "test": "node --import tsx --test \"quartz/**/*.test.ts\"",
-    "check": "npm run typecheck && npm run format:check && npm run test",
+    "content:check": "node --import tsx scripts/content-check.ts",
+    "check": "npm run typecheck && npm run format:check && npm run test && npm run content:check",
     "build": "npx quartz build",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },

@@ -15,18 +15,10 @@ export type LlmsEntry = {
   text: string
 }
 
-// Navigation indexes, the entry template, and the meta-patterns map are pages but
-// not catalogue entries. Classify by SLUG (precise) rather than by a title substring,
-// so an entry like "Template Matching" is not misclassified as the template (R4).
-export const isEntrySlug = (slug: string): boolean => {
-  if (slug === "index" || slug === "META-PATTERNS" || slug === "ENTRY-TEMPLATE") return false
-  const last = slug.split("/").at(-1) ?? slug
-  return !/^00-Index/.test(last)
-}
-
-// Domains are the first slug segment of real entries — never a bare directory name,
-// so an auxiliary folder (e.g. assets) with no entries is not counted (R4).
-export const domainOf = (slug: string): string => slug.split("/")[0]
+// Entry classification lives in util/entries so the emitter and the content:check gate
+// cannot drift apart (PR #3 review, F4). Re-exported for this module's existing tests.
+export { isEntrySlug, domainOf } from "../../util/entries"
+import { isEntrySlug, domainOf } from "../../util/entries"
 
 const entryUrl = (baseUrl: string, slug: string) =>
   `https://${joinSegments(baseUrl, encodeURI(slug))}`

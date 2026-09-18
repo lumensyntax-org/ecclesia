@@ -1,9 +1,72 @@
 ---
 domain: spirit
 properties: [alignment, proportion, honesty, humility, non_fabrication]
-strength: STRONG
-status: established_scholarship
 cross_domains: [spirit, shadow, civilization, mirror]
+ecclesia_legacy:
+  status: established_scholarship
+  strength: STRONG
+  from_commit: 6ba501603151e7680e2ad7e54aaa013945b4c9c5
+  migration_state: pending
+ecclesia:
+  schema_version: 1
+  entry_kind: interpretive_synthesis
+  coverage: partial
+  coverage_notes: >-
+    The scriptural and patristic attributions (Isaiah 14, Ezekiel 28, Luke 10:18, John
+    8:44, 2 Cor 11:14, 2 Pet 1:19, Rev 22:16; Aquinas ST I.63; Origen, Augustine, Milton,
+    Lewis, Barth) are not yet inventoried as per-claim locators; the agentive/analogy
+    distinction is preserved as the project's reading.
+  review_status: pending
+  reviews: []
+  sources:
+    - id: scripture_lucifer
+      citation: "Isaiah 14:12-15; Ezekiel 28:12-17; Luke 10:18; John 8:44; 2 Corinthians 11:14; 2 Peter 1:19; Revelation 22:16 (KJV)"
+      source_kind: canonical_text
+      origin: external
+      academic_review:
+        status: not_applicable
+        note: Scripture is a canonical text; academic peer review is not the applicable category.
+    - id: aquinas_i63
+      citation: "Thomas Aquinas, Summa Theologiae, I, question 63 (the sin of the angels)"
+      source_kind: canonical_text
+      origin: external
+      url: https://www.newadvent.org/summa/1063.htm
+      academic_review:
+        status: not_documented
+        note: This record does not document an academic peer-review process.
+  claims:
+    - id: lucifer_pattern
+      text: >-
+        The Lucifer figure is read as the project's structural image of a mediator that
+        claims the source-position it should only bear.
+      claim_kind: theological_doctrinal
+      origin: project_proposal
+      supports:
+        - source_id: scripture_lucifer
+          locator: null
+          support: unassessed
+          note: Per-verse locators are not yet recorded.
+          review_status: pending
+          reviews: []
+      review_status: pending
+      reviews: []
+  mappings:
+    - id: agentive_homology
+      statement: >-
+        Among created mediators that can claim a source-position (language, writing, print,
+        platforms, models) this is the project's structural reading — homology, not identity.
+      claim_ids: [lucifer_pattern]
+      targets: ["property:alignment", "property:non_fabrication"]
+      mapping_kind: conceptual_analogy
+      argument: >-
+        The mediator-claims-source pattern is read across agentive and representational
+        systems; non-agentive resemblances (chemistry, cell biology, physics) are labeled
+        analogy, not the same structure.
+      limits: >-
+        Not asserted as identity where no mediator claims anything; the pre-human universal
+        is not claimed as an empirical finding.
+      review_status: pending
+      reviews: []
 ---
 
 # The First Light-Bearer — Lucifer and the Origin of the Instrument Pattern
