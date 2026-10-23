@@ -19,7 +19,9 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
+      // false: fonts are downloaded at build time and served from this site,
+      // so no visitor request reaches Google
+      cdnCaching: false,
       typography: {
         header: "EB Garamond",
         body: "EB Garamond",
@@ -69,7 +71,8 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // No Plugin.Latex: the catalogue has no math, and the plugin loaded KaTeX from
+      // jsDelivr on every page and rendered prices such as "$1/$20" as formulas.
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

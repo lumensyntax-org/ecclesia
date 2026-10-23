@@ -12,6 +12,7 @@ export const sharedPageComponents: SharedLayout = {
       "Paper (v3, Zenodo)": "https://doi.org/10.5281/zenodo.19634358",
       LumenSyntax: "https://lumensyntax.com",
       "License (CC BY-SA 4.0)": "https://creativecommons.org/licenses/by-sa/4.0/",
+      Privacy: "https://lumensyntax.com/privacy",
     },
   }),
 }
