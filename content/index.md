@@ -48,7 +48,7 @@ The operational principle that predominates over the entire catalogue is the **C
 
 **Total**: 435 entries across 19 domains.
 
-**Verification status.** Of 435 entries, 3 have been migrated to the source-and-locator model and 0 carry a locator checked against its primary source. 4 entries have been corrected and 0 retracted; see [[CORRECTIONS]]. The other entries are legacy: they name their sources, but those sources have not yet been checked passage by passage.
+**Verification status.** Of 435 entries, 18 have been migrated to the source-and-locator model and 15 carry a locator checked against its primary source. 17 entries have been corrected and 0 retracted; see [[CORRECTIONS]]. The other entries are legacy: they name their sources, but those sources have not yet been checked passage by passage.
 
 **Cross-cutting structural patterns**: beyond the domain tree, recurring structural invariants connect entries across domains — mapped in [[META-PATTERNS]], with a note of where each connection becomes metaphor. The strength ratings there are the project's own judgement and have no measured criterion.
 
