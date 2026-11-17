@@ -19,6 +19,7 @@
     "format:check": "prettier . --check",
     "test": "node --import tsx --test \"quartz/**/*.test.ts\"",
     "content:check": "node --import tsx scripts/content-check.ts",
+    "content:digest": "node --import tsx scripts/claim-digest.ts",
     "check": "npm run typecheck && npm run format:check && npm run test && npm run content:check",
     "build": "npx quartz build",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"

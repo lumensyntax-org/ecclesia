@@ -255,7 +255,44 @@ describe("content:check CLI (F1/F3/F4 regressions)", () => {
     )
   })
 
-  test("a retracted entry is counted as retracted, not corrected", () => {
+  const RETRACTED = VALID_V1.replace(
+    "  mappings: []\n",
+    "  mappings: []\n  retraction:\n    date: 2026-11-20\n    reason: the source does not say this\n    commit: abc1234\n",
+  )
+  const RETRACTED_ROW = ROW.replace("SPIRIT/Old", "SPIRIT/Gone").replace("corrected", "retracted")
+
+  test("a retracted entry leaves the count and must agree with the log", () => {
+    withFixture(
+      {
+        "SPIRIT/Old.md": LEGACY,
+        "SPIRIT/Gone.md": RETRACTED,
+        "index.md": home(1, 0, 0, 1),
+        "CORRECTIONS.md": log(RETRACTED_ROW),
+      },
+      (root) => {
+        const r = runCli(root)
+        assert.strictEqual(r.status, 0, r.out)
+      },
+    )
+  })
+
+  test("a retraction that the log does not record fails", () => {
+    withFixture(
+      {
+        "SPIRIT/Old.md": LEGACY,
+        "SPIRIT/Gone.md": RETRACTED,
+        "index.md": home(1, 0, 0, 0),
+        "CORRECTIONS.md": log(""),
+      },
+      (root) => {
+        const r = runCli(root)
+        assert.notStrictEqual(r.status, 0)
+        assert.match(r.out, /must have a `retracted` row/)
+      },
+    )
+  })
+
+  test("a retracted row for an entry that is not marked retracted fails", () => {
     withFixture(
       {
         "SPIRIT/Old.md": LEGACY,
@@ -263,7 +300,9 @@ describe("content:check CLI (F1/F3/F4 regressions)", () => {
         "CORRECTIONS.md": log(ROW.replace("corrected", "retracted")),
       },
       (root) => {
-        assert.strictEqual(runCli(root).status, 0)
+        const r = runCli(root)
+        assert.notStrictEqual(r.status, 0)
+        assert.match(r.out, /carries no ecclesia\.retraction/)
       },
     )
   })

@@ -20,7 +20,13 @@
 import fs from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
-import { validateEcclesia, normalizeProperties, EcclesiaIssue } from "../quartz/util/ecclesiaSchema"
+import {
+  validateEcclesia,
+  normalizeProperties,
+  supportIsChecked,
+  isRetracted,
+  EcclesiaIssue,
+} from "../quartz/util/ecclesiaSchema"
 import { isEntrySlug, domainOf } from "../quartz/util/entries"
 import { parseCorrections, parseHomeCounts } from "../quartz/util/corrections"
 import { slugifyFilePath } from "../quartz/util/path"
@@ -165,11 +171,37 @@ if (correctionsDoc) {
         message: `row ${r.date} names "${r.entry}", which is not a published entry`,
       })
   }
+  // A retracted entry keeps its page but is no longer part of the catalogue's count, and
+  // the page and the log must agree about which entries are retracted.
+  const standing = published.filter((d) => !isRetracted(d.data.ecclesia))
+  const retractedInLog = new Set<string>(
+    rows
+      .filter((r) => r.kind === "retracted")
+      .map((r) => slugifyFilePath(`${r.entry}.md` as FilePath)),
+  )
+  for (const d of published) {
+    const marked = isRetracted(d.data.ecclesia)
+    if (marked && !retractedInLog.has(d.slug))
+      issues.push({
+        level: "error",
+        file: d.rel,
+        field: "ecclesia.retraction",
+        message: "a retracted entry must have a `retracted` row in CORRECTIONS.md",
+      })
+    if (!marked && retractedInLog.has(d.slug))
+      issues.push({
+        level: "error",
+        file: d.rel,
+        field: "ecclesia.retraction",
+        message:
+          "CORRECTIONS.md lists this entry as retracted, but it carries no ecclesia.retraction",
+      })
+  }
   const actual = {
-    entries: published.length,
-    domains: new Set(published.map((d) => domainOf(d.slug))).size,
-    migrated: published.filter((d) => d.hasV1).length,
-    checked: published.filter((d) => hasCheckedLocator(d.data.ecclesia)).length,
+    entries: standing.length,
+    domains: new Set(standing.map((d) => domainOf(d.slug))).size,
+    migrated: standing.filter((d) => d.hasV1).length,
+    checked: standing.filter((d) => hasCheckedLocator(d.data.ecclesia)).length,
     corrected: new Set(rows.filter((r) => r.kind !== "retracted").map((r) => r.entry)).size,
     retracted: new Set(rows.filter((r) => r.kind === "retracted").map((r) => r.entry)).size,
   }
@@ -196,9 +228,9 @@ if (correctionsDoc) {
   }
 }
 
-// An entry counts as "checked" only when at least one claim carries an asserted support.
-// The schema refuses asserted supports until review records exist, so this is 0 by
-// construction today; it is computed rather than hardcoded so it cannot be overstated.
+// An entry counts as "checked" when at least one of its claims has a support backed by a
+// locator record. The schema rejects an asserted support without one, so on a green gate
+// this is exactly the entries a reader can check against a primary source.
 function hasCheckedLocator(block: unknown): boolean {
   if (!isObjLike(block)) return false
   const claims = (block as Record<string, unknown>).claims
@@ -207,13 +239,7 @@ function hasCheckedLocator(block: unknown): boolean {
     (c) =>
       isObjLike(c) &&
       Array.isArray((c as Record<string, unknown>).supports) &&
-      ((c as Record<string, unknown>).supports as unknown[]).some(
-        (s) =>
-          isObjLike(s) &&
-          ["direct", "partial", "contradicts"].includes(
-            String((s as Record<string, unknown>).support),
-          ),
-      ),
+      ((c as Record<string, unknown>).supports as unknown[]).some(supportIsChecked),
   )
 }
 

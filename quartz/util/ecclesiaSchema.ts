@@ -7,11 +7,24 @@
 //    with [] made the cross-reference checks vacuous and produced a green gate over
 //    content the renderer would later receive. A collection that is deliberately empty is
 //    valid; a collection of the wrong type is an error.
-// 2. States the system cannot yet accredit must be REJECTED, not accepted (F2). Until the
-//    review-record + content-digest subsystem exists, `review_status: partial|reviewed`,
-//    asserted supports (`direct|partial|contradicts`) and `academic_review: documented`
-//    have no verifiable backing, so they fail instead of passing unchecked. Honest
-//    `pending` / `unassessed` / `not_documented` declarations pass.
+// 2. States the system cannot accredit must be REJECTED, not accepted (F2). Honest
+//    `pending` / `unassessed` / `not_documented` declarations always pass.
+//
+// What CAN be accredited, since the locator-record subsystem (2026-11):
+//    - an asserted support (`direct|partial|contradicts`) is accepted when it carries a
+//      LOCATOR RECORD: a review with `method: opened_primary_source`, the URL that was
+//      opened, the date, a short literal quote, and a `claim_digest` equal to the digest
+//      of the claim text as it stands now. Editing the claim breaks the digest, so the
+//      support stops validating until the passage is checked again;
+//    - `review_status: partial` is accepted where at least one such record backs it;
+//    - `review_status: reviewed` on a support or a claim needs a record by a human
+//      reviewer. An AI session can certify "I opened this URL on this date and this
+//      sentence is there", which is a locator check, not review.
+//
+// What still cannot be accredited and still fails: `review_status: reviewed` on an entry
+// or a mapping, `review_status: partial` on a mapping, and `academic_review: documented`.
+
+import { createHash } from "node:crypto"
 
 export type IssueLevel = "error" | "warning" | "pending"
 export interface EcclesiaIssue {
@@ -70,14 +83,45 @@ const LOCATOR_KINDS = new Set([
   "other",
 ])
 const ACADEMIC_REVIEW_STATES = new Set(["documented", "not_documented", "not_applicable"])
+const REVIEWER_KINDS = new Set(["ai_session", "human"])
+export const LOCATOR_METHOD = "opened_primary_source"
+export const MAX_QUOTE_LENGTH = 300
 const ID_RE = /^[a-z][a-z0-9_]*$/
 
 // Support kinds that assert a relation, and therefore need a locator and a review record.
 const ASSERTED_SUPPORT = new Set(["direct", "partial", "contradicts"])
 // Until reviews carry verifiable records + digests, these states cannot be accredited.
 const UNACCREDITABLE_REVIEW_STATES = new Set(["partial", "reviewed"])
-const NOT_YET =
-  "cannot be accredited until the review-record + content-digest subsystem exists; declare it pending instead"
+const NOT_YET = "cannot be accredited by this system yet; declare it pending instead"
+
+// The digest binds a locator record to the exact claim it checked. Whitespace is
+// normalized so re-wrapping a YAML scalar does not invalidate a check; any change of
+// wording does.
+export const claimDigest = (text: string): string =>
+  "sha256:" + createHash("sha256").update(text.trim().replace(/\s+/g, " "), "utf8").digest("hex")
+
+// YAML parses a bare 2026-11-18 as a Date and a quoted one as a string; accept both.
+const ISO_DATE_RE = /^\d{4}-\d{2}-\d{2}$/
+const isIsoDate = (v: unknown): boolean =>
+  (v instanceof Date && !Number.isNaN(v.getTime())) ||
+  (typeof v === "string" && ISO_DATE_RE.test(v))
+export const isoDate = (v: unknown): string =>
+  v instanceof Date ? v.toISOString().slice(0, 10) : String(v ?? "")
+
+export interface ReviewInfo {
+  locatorRecord: boolean
+  human: boolean
+}
+
+// True when the support asserts a relation AND a locator record backs it. Shared with the
+// content gate and the page view so "checked" means one thing everywhere. It assumes the
+// block already validated: it does not re-verify the digest.
+export const supportIsChecked = (sup: unknown): boolean =>
+  isObj(sup) &&
+  typeof sup.support === "string" &&
+  ASSERTED_SUPPORT.has(sup.support) &&
+  Array.isArray(sup.reviews) &&
+  sup.reviews.some((r) => isObj(r) && r.method === LOCATOR_METHOD)
 
 const isObj = (v: unknown): v is Record<string, unknown> =>
   typeof v === "object" && v !== null && !Array.isArray(v)
@@ -123,30 +167,77 @@ export const validateEcclesia = (block: unknown, ctx: ValidateCtx): EcclesiaIssu
   const reviewStatus = block.review_status
   if (!nonEmptyStr(reviewStatus) || !REVIEW_STATES.has(reviewStatus))
     err("ecclesia.review_status", "review_status must be pending | partial | reviewed")
-  else if (UNACCREDITABLE_REVIEW_STATES.has(reviewStatus))
-    err("ecclesia.review_status", `review_status: ${reviewStatus} ${NOT_YET}`)
+  else if (reviewStatus === "reviewed")
+    err("ecclesia.review_status", `review_status: reviewed ${NOT_YET}`)
   if (reviewStatus === "reviewed" && coverage !== "complete")
     err(
       "ecclesia.review_status",
       "review_status: reviewed requires coverage: complete (partial coverage cannot be fully reviewed)",
     )
 
-  // A review record must at least have a checkable shape, even before digests exist.
-  const checkReviews = (v: unknown, at: string) => {
-    if (v === undefined) return
+  // A review record must have a checkable shape. A LOCATOR RECORD (method:
+  // opened_primary_source) must also say what was opened, when, what was found there, and
+  // which claim text it was checked against. `claimText` is given only where a locator
+  // record is meaningful (a support); elsewhere such a record is an error.
+  const checkReviews = (v: unknown, at: string, claimText?: string): ReviewInfo[] => {
+    const out: ReviewInfo[] = []
+    if (v === undefined) return out
     if (!Array.isArray(v)) {
       err(at, "reviews must be a list")
-      return
+      return out
     }
     for (const [i, r] of v.entries()) {
+      const rat = `${at}[${i}]`
       if (!isObj(r)) {
-        err(`${at}[${i}]`, "each review record must be a mapping")
+        err(rat, "each review record must be a mapping")
         continue
       }
-      for (const f of ["reviewer", "date", "scope", "result"]) {
-        if (!nonEmptyStr(r[f])) err(`${at}[${i}].${f}`, `review record requires a non-empty ${f}`)
+      let ok = true
+      const bad = (field: string, message: string) => {
+        ok = false
+        err(`${rat}.${field}`, message)
       }
+      for (const f of ["reviewer", "scope", "result"]) {
+        if (!nonEmptyStr(r[f])) bad(f, `review record requires a non-empty ${f}`)
+      }
+      if (!nonEmptyStr(r.date) && !isIsoDate(r.date))
+        bad("date", "review record requires a non-empty date")
+      if (r.reviewer_kind !== undefined && !REVIEWER_KINDS.has(String(r.reviewer_kind)))
+        bad("reviewer_kind", "reviewer_kind must be ai_session | human")
+
+      if (r.method === undefined) {
+        if (ok) out.push({ locatorRecord: false, human: r.reviewer_kind === "human" })
+        continue
+      }
+      if (r.method !== LOCATOR_METHOD) {
+        bad("method", `method must be ${LOCATOR_METHOD}`)
+        continue
+      }
+      if (claimText === undefined) {
+        bad("method", "a locator record belongs on a support, next to the locator it checked")
+        continue
+      }
+      if (!REVIEWER_KINDS.has(String(r.reviewer_kind)))
+        bad("reviewer_kind", "a locator record must say who checked it: ai_session | human")
+      if (!nonEmptyStr(r.source_url) || !/^https?:\/\/\S+$/.test(r.source_url))
+        bad("source_url", "a locator record requires the http(s) URL that was opened")
+      if (!isIsoDate(r.accessed))
+        bad("accessed", "a locator record requires the access date as YYYY-MM-DD")
+      if (!nonEmptyStr(r.quote))
+        bad("quote", "a locator record requires a short literal quote from the source")
+      else if (r.quote.length > MAX_QUOTE_LENGTH)
+        bad("quote", `the quote must be at most ${MAX_QUOTE_LENGTH} characters`)
+      const expected = claimDigest(claimText)
+      if (!nonEmptyStr(r.claim_digest))
+        bad("claim_digest", `a locator record requires claim_digest (expected ${expected})`)
+      else if (r.claim_digest !== expected)
+        bad(
+          "claim_digest",
+          `claim_digest does not match the claim text as it stands (expected ${expected}); the claim was edited after this check, so the passage must be checked again`,
+        )
+      if (ok) out.push({ locatorRecord: true, human: r.reviewer_kind === "human" })
     }
+    return out
   }
   checkReviews(block.reviews, "ecclesia.reviews")
 
@@ -205,6 +296,7 @@ export const validateEcclesia = (block: unknown, ctx: ValidateCtx): EcclesiaIssu
   // ---- claims ----
   const claims = collection(block.claims, "ecclesia.claims") ?? []
   const claimIds = new Set<string>()
+  let checkedClaims = 0
   for (const [i, c] of claims.entries()) {
     const at = `ecclesia.claims[${i}]`
     if (!isObj(c)) {
@@ -220,8 +312,10 @@ export const validateEcclesia = (block: unknown, ctx: ValidateCtx): EcclesiaIssu
       err(`${at}.claim_kind`, "invalid claim_kind")
     if (c.origin !== "source_summary" && c.origin !== "project_proposal")
       err(`${at}.origin`, "origin must be source_summary | project_proposal")
-    nestedReviewStatus(c.review_status, `${at}.review_status`)
     checkReviews(c.reviews, `${at}.reviews`)
+    const claimText = nonEmptyStr(c.text) ? c.text : ""
+    let checkedSupports = 0
+    let humanCheckedSupports = 0
 
     const supports = collection(c.supports, `${at}.supports`) ?? []
     for (const [j, sup] of supports.entries()) {
@@ -235,8 +329,21 @@ export const validateEcclesia = (block: unknown, ctx: ValidateCtx): EcclesiaIssu
       const kind = sup.support
       if (!nonEmptyStr(kind) || !SUPPORT_KINDS.has(kind))
         err(`${sat}.support`, "invalid support kind")
-      nestedReviewStatus(sup.review_status, `${sat}.review_status`)
-      checkReviews(sup.reviews, `${sat}.reviews`)
+      const locatorRecords = checkReviews(sup.reviews, `${sat}.reviews`, claimText).filter(
+        (r) => r.locatorRecord,
+      )
+      const hasRecord = locatorRecords.length > 0
+      const hasHumanRecord = locatorRecords.some((r) => r.human)
+      const supStatus = sup.review_status
+      if (!nonEmptyStr(supStatus) || !REVIEW_STATES.has(supStatus))
+        err(`${sat}.review_status`, "review_status must be pending | partial | reviewed")
+      else if (supStatus === "partial" && !hasRecord)
+        err(`${sat}.review_status`, "review_status: partial requires a valid locator record")
+      else if (supStatus === "reviewed" && !hasHumanRecord)
+        err(
+          `${sat}.review_status`,
+          "review_status: reviewed requires a locator record by a human reviewer",
+        )
 
       // locator: either a well-formed {kind, value} object, or null for unassessed + note.
       if (sup.locator === null || sup.locator === undefined) {
@@ -262,14 +369,44 @@ export const validateEcclesia = (block: unknown, ctx: ValidateCtx): EcclesiaIssu
       }
 
       if (nonEmptyStr(kind) && ASSERTED_SUPPORT.has(kind)) {
-        err(`${sat}.support`, `support: ${kind} ${NOT_YET}`)
         if (!isObj(sup.locator))
           err(`${sat}.locator`, `support: ${kind} requires a locator {kind, value}`)
-        if (!Array.isArray(sup.reviews) || sup.reviews.length === 0)
-          err(`${sat}.reviews`, `support: ${kind} requires a review record`)
+        if (!hasRecord)
+          err(
+            `${sat}.reviews`,
+            `support: ${kind} requires a locator record (method: ${LOCATOR_METHOD}, source_url, accessed, quote, claim_digest ${claimDigest(claimText)})`,
+          )
+        else if (isObj(sup.locator)) {
+          checkedSupports++
+          if (hasHumanRecord) humanCheckedSupports++
+        }
       }
     }
+
+    const claimStatus = c.review_status
+    if (!nonEmptyStr(claimStatus) || !REVIEW_STATES.has(claimStatus))
+      err(`${at}.review_status`, "review_status must be pending | partial | reviewed")
+    else if (claimStatus === "partial" && checkedSupports === 0)
+      err(
+        `${at}.review_status`,
+        "review_status: partial requires at least one support with a valid locator record",
+      )
+    else if (
+      claimStatus === "reviewed" &&
+      (supports.length === 0 || humanCheckedSupports !== supports.length)
+    )
+      err(
+        `${at}.review_status`,
+        "review_status: reviewed requires every support of the claim to carry a locator record by a human reviewer",
+      )
+    if (checkedSupports > 0) checkedClaims++
   }
+
+  if (reviewStatus === "partial" && checkedClaims === 0)
+    err(
+      "ecclesia.review_status",
+      "review_status: partial requires at least one claim with a checked support",
+    )
 
   // ---- mappings ----
   const mappings = collection(block.mappings, "ecclesia.mappings") ?? []
@@ -317,5 +454,24 @@ export const validateEcclesia = (block: unknown, ctx: ValidateCtx): EcclesiaIssu
     }
   }
 
+  // ---- retraction (optional) ----
+  if (block.retraction !== undefined) {
+    const r = block.retraction
+    if (!isObj(r)) {
+      err("ecclesia.retraction", "retraction must be a mapping {date, reason, commit}")
+    } else {
+      if (!isIsoDate(r.date)) err("ecclesia.retraction.date", "retraction requires a date")
+      if (!nonEmptyStr(r.reason))
+        err("ecclesia.retraction.reason", "retraction requires a non-empty reason")
+      if (!nonEmptyStr(r.commit) || !/^[0-9a-f]{7,40}$/.test(r.commit))
+        err(
+          "ecclesia.retraction.commit",
+          "retraction requires the git hash of the retracting commit",
+        )
+    }
+  }
+
   return issues
 }
+
+export const isRetracted = (block: unknown): boolean => isObj(block) && isObj(block.retraction)
