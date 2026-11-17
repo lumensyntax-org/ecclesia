@@ -8,12 +8,21 @@
 //    no active root strength/status (which the export would still publish) (F3);
 //  - slugs and entry classification are REUSED from Quartz / the shared util rather than
 //    re-approximated, and catalogue entries are counted apart from auxiliary pages (F4).
+//
+// Added with the label retirement (2026-11):
+//  - NO catalogue entry may carry an active root strength/status. Those labels read as
+//    "this entry is peer reviewed / strongly established" and had no measurable criterion;
+//    the retired values live under ecclesia_legacy as a record only;
+//  - when the catalogue publishes CORRECTIONS.md, the counts the home page states (entries,
+//    domains, migrated, checked, corrected, retracted) must equal what this gate computes,
+//    so the page cannot drift from the catalogue the way the hand-written total did.
 
 import fs from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
 import { validateEcclesia, normalizeProperties, EcclesiaIssue } from "../quartz/util/ecclesiaSchema"
-import { isEntrySlug } from "../quartz/util/entries"
+import { isEntrySlug, domainOf } from "../quartz/util/entries"
+import { parseCorrections, parseHomeCounts } from "../quartz/util/corrections"
 import { slugifyFilePath } from "../quartz/util/path"
 import type { FilePath } from "../quartz/util/path"
 
@@ -42,6 +51,7 @@ type Doc = {
   isEntry: boolean
   isDraft: boolean
   hasV1: boolean
+  body: string
 }
 const docs: Doc[] = []
 
@@ -49,8 +59,11 @@ for (const abs of files) {
   const relFromContent = path.relative(CONTENT, abs).split(path.sep).join("/")
   const rel = path.relative(process.cwd(), abs)
   let data: Record<string, unknown> = {}
+  let body = ""
   try {
-    data = matter(fs.readFileSync(abs, "utf8")).data as Record<string, unknown>
+    const parsed = matter(fs.readFileSync(abs, "utf8"))
+    data = parsed.data as Record<string, unknown>
+    body = parsed.content
   } catch (e) {
     issues.push({
       level: "error",
@@ -68,6 +81,7 @@ for (const abs of files) {
     isEntry: isEntrySlug(slug),
     isDraft: data.draft === true || data.draft === "true",
     hasV1: "ecclesia" in data,
+    body,
   })
 }
 
@@ -121,18 +135,86 @@ for (const d of docs) {
       }
     }
   }
-  if (isV1) {
+  if (isV1 || d.isEntry) {
     for (const legacyField of ["strength", "status"]) {
       if (d.data[legacyField] !== undefined) {
         issues.push({
           level: "error",
           file: d.rel,
           field: legacyField,
-          message: `v1 entries must not carry an active root ${legacyField}; move it under ecclesia_legacy`,
+          message: `catalogue entries must not carry an active root ${legacyField}; move it under ecclesia_legacy`,
         })
       }
     }
   }
+}
+
+// --- the corrections log and the counts the home page states ---
+const published = docs.filter((d) => d.isEntry && !d.isDraft)
+const correctionsDoc = docs.find((d) => d.slug === "CORRECTIONS")
+if (correctionsDoc) {
+  const { rows, problems } = parseCorrections(correctionsDoc.body)
+  for (const m of problems)
+    issues.push({ level: "error", file: correctionsDoc.rel, field: "corrections", message: m })
+  for (const r of rows) {
+    if (!knownSlugs.has(slugifyFilePath(`${r.entry}.md` as FilePath)))
+      issues.push({
+        level: "error",
+        file: correctionsDoc.rel,
+        field: "corrections",
+        message: `row ${r.date} names "${r.entry}", which is not a published entry`,
+      })
+  }
+  const actual = {
+    entries: published.length,
+    domains: new Set(published.map((d) => domainOf(d.slug))).size,
+    migrated: published.filter((d) => d.hasV1).length,
+    checked: published.filter((d) => hasCheckedLocator(d.data.ecclesia)).length,
+    corrected: new Set(rows.filter((r) => r.kind !== "retracted").map((r) => r.entry)).size,
+    retracted: new Set(rows.filter((r) => r.kind === "retracted").map((r) => r.entry)).size,
+  }
+  const home = docs.find((d) => d.slug === "index")
+  const stated = home ? parseHomeCounts(home.body) : null
+  if (!home || !stated) {
+    issues.push({
+      level: "error",
+      file: home?.rel ?? "content/index.md",
+      field: "counts",
+      message:
+        "the home page must state its verification counts (the Total line and the Verification status paragraph)",
+    })
+  } else {
+    for (const k of Object.keys(actual) as (keyof typeof actual)[]) {
+      if (stated[k] !== actual[k])
+        issues.push({
+          level: "error",
+          file: home.rel,
+          field: `counts.${k}`,
+          message: `home page states ${k} = ${stated[k]}, the catalogue has ${actual[k]}`,
+        })
+    }
+  }
+}
+
+// An entry counts as "checked" only when at least one claim carries an asserted support.
+// The schema refuses asserted supports until review records exist, so this is 0 by
+// construction today; it is computed rather than hardcoded so it cannot be overstated.
+function hasCheckedLocator(block: unknown): boolean {
+  if (!isObjLike(block)) return false
+  const claims = (block as Record<string, unknown>).claims
+  if (!Array.isArray(claims)) return false
+  return claims.some(
+    (c) =>
+      isObjLike(c) &&
+      Array.isArray((c as Record<string, unknown>).supports) &&
+      ((c as Record<string, unknown>).supports as unknown[]).some(
+        (s) =>
+          isObjLike(s) &&
+          ["direct", "partial", "contradicts"].includes(
+            String((s as Record<string, unknown>).support),
+          ),
+      ),
+  )
 }
 
 function isObjLike(v: unknown): boolean {

@@ -2,13 +2,17 @@
 
 *ἐκκλησία — "the called out," "the assembly." Not a monument but a gathering.*
 
-A cross-domain taxonomy of structural properties. Each entry maps an established finding — from physics to theology, from immunology to economics — to one or more of the five properties that give reality its coherence:
+A cross-domain catalogue of established findings, each read through five properties this project uses to examine systems that assert something: claims, reports, and agents acting on a stated purpose.
+
+The five properties:
 
 - **Alignment** — stated purpose and actual action are consistent
 - **Proportion** — action does not exceed what the purpose requires
 - **Honesty** — what is claimed matches what is known
 - **Humility** — authority exercised only within legitimate scope
 - **Non-fabrication** — what doesn't exist is not invented to fill silence
+
+**What this catalogue does not claim.** The five properties are a reading lens, not a law of nature. Their number was chosen, not derived. They apply to systems that assert something; entries about things that assert nothing (a conservation law, an enzyme) are analogies and are labelled as such. Every mapping is this project's interpretation. Take the sources and discard the reading if it does not hold.
 
 The operational criterion: *"will the response produce fact-shaped fiction?"*
 
@@ -20,7 +24,7 @@ The Ecclesia is structured as an [Obsidian](https://obsidian.md/) vault. You can
 
 - **Clone and open in Obsidian** to traverse the `[[wikilinks]]` between entries and use the graph view to see the connection structure.
 - **Read on GitHub** by navigating the directories — each is a domain.
-- **Visit the hosted version** at [ecclesia.lumensyntax.com](https://ecclesia.lumensyntax.com) *(forthcoming)*.
+- **Visit the hosted version** at [ecclesia.lumensyntax.com](https://ecclesia.lumensyntax.com).
 
 Start anywhere. Every entry points to others.
 
@@ -31,6 +35,8 @@ Each entry contains:
 3. A **pattern mapping** — how the five properties manifest in the finding.
 4. **Connections** — wikilinks to related entries across domains.
 5. A **status** — what is established, what is interpreted by this project.
+
+Most entries are legacy: they name their sources, but those sources have not yet been checked passage by passage. Entries migrated to the source-and-locator model carry an `ecclesia:` block with sources, claims, locators and the stated limits of each mapping. Entries that have been corrected, narrowed, relabelled or retracted are listed in [content/CORRECTIONS.md](./content/CORRECTIONS.md).
 
 The distinction between *established* and *this project's structural interpretation* is load-bearing. Entries do not claim authority they have not earned.
 
