@@ -1,9 +1,12 @@
 ---
 domain: spirit
 properties: [humility, non_fabrication, alignment]
-strength: MODERATE
-status: established
 cross_domains: [spirit, expression, mind, life]
+ecclesia_legacy:
+  status: established
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # The Transparent Channel — The Messenger Who Speaks as the Sender, and the Line He Does Not Cross

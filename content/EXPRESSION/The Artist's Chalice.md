@@ -1,9 +1,12 @@
 ---
 domain: expression
 properties: [alignment, humility, honesty, non_fabrication, proportion]
-strength: MODERATE
-status: contemporary_synthesis
 cross_domains: [expression, spirit, shadow, mind]
+ecclesia_legacy:
+  status: contemporary_synthesis
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # The Artist's Chalice — Da Vinci's Last Supper and the Eucharistic Loop

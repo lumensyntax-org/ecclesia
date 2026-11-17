@@ -1,9 +1,12 @@
 ---
 domain: expression
 properties: [non_fabrication, honesty, proportion]
-strength: MODERATE
-status: contemporary_synthesis
 cross_domains: [expression, mind, civilization]
+ecclesia_legacy:
+  status: contemporary_synthesis
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # The Four Quadrants of Genius

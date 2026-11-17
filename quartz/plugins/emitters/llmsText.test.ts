@@ -9,6 +9,7 @@ describe("isEntrySlug (R4 — slug-based classification, not title substring)", 
     assert.ok(!isEntrySlug("EARTH/00-Index-Scale"))
     assert.ok(!isEntrySlug("ENTRY-TEMPLATE"))
     assert.ok(!isEntrySlug("META-PATTERNS"))
+    assert.ok(!isEntrySlug("CORRECTIONS"))
     assert.ok(!isEntrySlug("index"))
   })
 
@@ -32,16 +33,13 @@ describe("buildLlmsIndex / buildLlmsFull", () => {
       slug: "SPIRIT/The-Chalice-Test",
       title: "The Chalice Test",
       domain: "SPIRIT",
-      strength: "STRONG",
-      status: "established_scholarship",
+      migrated: true,
       text: "Body one.",
     },
     {
       slug: "BODY/Apoptosis",
       title: "Apoptosis",
       domain: "BODY",
-      strength: "MODERATE",
-      status: "textbook",
       text: "Body two.",
     },
   ]
@@ -53,11 +51,26 @@ describe("buildLlmsIndex / buildLlmsFull", () => {
     assert.match(out, /- The Chalice Test/)
   })
 
-  test("full text carries the real per-entry URL, metadata, and body", () => {
+  test("full text carries the real per-entry URL, sourcing note, and body", () => {
     const out = buildLlmsFull(entries, "ecclesia.lumensyntax.com", "2026-09-15")
     assert.match(out, /https:\/\/ecclesia\.lumensyntax\.com\/SPIRIT\/The-Chalice-Test/)
-    assert.match(out, /status: established_scholarship/)
+    assert.match(out, /The-Chalice-Test {2}\[sourcing: source-and-locator model, review pending\]/)
+    assert.match(out, /BODY\/Apoptosis {2}\[sourcing: legacy entry, sources not yet checked/)
     assert.match(out, /Body one\./)
+  })
+
+  test("the retired strength/status labels are never exported", () => {
+    const out =
+      buildLlmsFull(entries, "ecclesia.lumensyntax.com", "2026-09-15") +
+      buildLlmsIndex(entries, "ecclesia.lumensyntax.com", "2026-09-15")
+    assert.doesNotMatch(out, /strength: (STRONG|MODERATE|WEAK)/)
+    assert.doesNotMatch(out, /status: /)
+    assert.doesNotMatch(out, /peer_reviewed/)
+  })
+
+  test("the index links the corrections log", () => {
+    const out = buildLlmsIndex(entries, "ecclesia.lumensyntax.com", "2026-09-15")
+    assert.match(out, /\/CORRECTIONS\)/)
   })
 
   test("decodes one layer of Quartz's HTML escaping in the exported body (N1)", () => {

@@ -4,6 +4,8 @@
 **Classification**: Structural interpretation throughout. The connections identified here map structural invariants across established facts from different domains. Whether the invariant constitutes a single underlying pattern or parallel solutions to shared constraints is an open question. This document does not resolve it.
 **Method**: Each connection names the structural invariant, links to specific taxonomy entries, rates the strength of each link, and states where the connection becomes metaphor.
 
+**On the strength ratings**: STRONG, MODERATE and WEAK below are the project's own judgement. They were assigned without a measured criterion and have not been validated by anyone outside the project. Read them as the authors' confidence, not as a finding.
+
 **Integrity rule**: The Ecclesia is not built on claiming that everything is connected — it is built on showing exactly HOW things are connected and exactly WHERE the connection becomes metaphor.
 
 ---

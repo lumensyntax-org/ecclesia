@@ -1,8 +1,11 @@
 ---
 domain: civilization
 properties: [honesty, non_fabrication, humility, proportion]
-strength: STRONG
-status: institutional
+ecclesia_legacy:
+  status: institutional
+  strength: STRONG
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Nuclear Arms Control

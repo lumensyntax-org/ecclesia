@@ -1,8 +1,11 @@
 ---
 domain: economy
 properties: [honesty, non_fabrication, alignment]
-strength: MODERATE
-status: peer_reviewed
+ecclesia_legacy:
+  status: peer_reviewed
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # GDP and Goodhart's Law

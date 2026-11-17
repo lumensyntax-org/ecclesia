@@ -1,9 +1,12 @@
 ---
 domain: spirit
 properties: [alignment, proportion, honesty, humility, non_fabrication]
-strength: MODERATE
-status: cross_domain_synthesis
 cross_domains: [spirit, body, shadow, mirror, expression, economy, chemistry, cosmos]
+ecclesia_legacy:
+  status: cross_domain_synthesis
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # The Anointing and the Mirror

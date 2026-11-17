@@ -1,8 +1,11 @@
 ---
 domain: shadow
 properties: [honesty, non_fabrication, proportion, alignment]
-strength: STRONG
-status: textbook
+ecclesia_legacy:
+  status: textbook
+  strength: STRONG
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Autoimmune Disease

@@ -136,6 +136,138 @@ describe("content:check CLI (F1/F3/F4 regressions)", () => {
     })
   })
 
+  test("an active root strength/status on a LEGACY entry fails too (label retirement)", () => {
+    withFixture(
+      {
+        "SPIRIT/Old.md":
+          "---\ndomain: spirit\nstrength: STRONG\nstatus: peer_reviewed\n---\n\n# x\n",
+      },
+      (root) => {
+        const r = runCli(root)
+        assert.notStrictEqual(r.status, 0, "retired labels must not come back on any entry")
+        assert.match(r.out, /ecclesia_legacy/)
+      },
+    )
+  })
+
+  test("retired labels archived under ecclesia_legacy pass", () => {
+    withFixture(
+      {
+        "SPIRIT/Old.md":
+          "---\ndomain: spirit\necclesia_legacy:\n  status: peer_reviewed\n  strength: STRONG\n  migration_state: pending\n---\n\n# x\n",
+      },
+      (root) => {
+        assert.strictEqual(runCli(root).status, 0)
+      },
+    )
+  })
+
+  test("a status field on an auxiliary index page is not an entry label", () => {
+    withFixture(
+      { "EARTH/00-Index-Scale.md": "---\nstatus: cartography; method test\n---\n\n# i\n" },
+      (root) => {
+        assert.strictEqual(runCli(root).status, 0)
+      },
+    )
+  })
+
+  const LEGACY = "---\ndomain: spirit\n---\n\n# x\n"
+  const home = (entries: number, migrated: number, corrected: number, retracted = 0) =>
+    `---\ntitle: Home\n---\n\n**Total**: ${entries} entries across 1 domains.\n\n` +
+    `**Verification status.** Of ${entries} entries, ${migrated} have been migrated to the source-and-locator model and 0 carry a locator checked against its primary source. ${corrected} entries have been corrected and ${retracted} retracted; see [[CORRECTIONS]].\n`
+  const log = (rows: string) =>
+    `---\ntitle: Corrections\n---\n\n| Date | Entry | Kind | What changed | Commit |\n| --- | --- | --- | --- | --- |\n${rows}\n`
+  const ROW =
+    "| 2026-09-28 | [[SPIRIT/Old]] | corrected | a wrong statement was fixed | `7a48563` |"
+
+  test("home counts that match the catalogue and the corrections log pass", () => {
+    withFixture(
+      {
+        "SPIRIT/Old.md": LEGACY,
+        "SPIRIT/Ok.md": VALID_V1,
+        "index.md": home(2, 1, 1),
+        "CORRECTIONS.md": log(ROW),
+      },
+      (root) => {
+        const r = runCli(root)
+        assert.strictEqual(r.status, 0, r.out)
+        assert.match(r.out, /2 entr/i, "the corrections log is not a catalogue entry")
+      },
+    )
+  })
+
+  test("a home page that overstates its counts fails", () => {
+    withFixture(
+      {
+        "SPIRIT/Old.md": LEGACY,
+        "SPIRIT/Ok.md": VALID_V1,
+        "index.md": home(3, 2, 0),
+        "CORRECTIONS.md": log(ROW),
+      },
+      (root) => {
+        const r = runCli(root)
+        assert.notStrictEqual(r.status, 0)
+        assert.match(r.out, /counts\.entries/)
+        assert.match(r.out, /counts\.migrated/)
+        assert.match(r.out, /counts\.corrected/)
+      },
+    )
+  })
+
+  test("a corrections log without stated home counts fails", () => {
+    withFixture(
+      { "SPIRIT/Old.md": LEGACY, "index.md": "---\n---\n\n# Home\n", "CORRECTIONS.md": log(ROW) },
+      (root) => {
+        const r = runCli(root)
+        assert.notStrictEqual(r.status, 0)
+        assert.match(r.out, /must state its verification counts/)
+      },
+    )
+  })
+
+  test("a corrections row naming an entry that is not published fails", () => {
+    withFixture(
+      {
+        "SPIRIT/Old.md": LEGACY,
+        "index.md": home(1, 0, 1),
+        "CORRECTIONS.md": log(ROW.replace("SPIRIT/Old", "SPIRIT/Ghost")),
+      },
+      (root) => {
+        const r = runCli(root)
+        assert.notStrictEqual(r.status, 0)
+        assert.match(r.out, /not a published entry/)
+      },
+    )
+  })
+
+  test("a malformed corrections row fails instead of being skipped", () => {
+    withFixture(
+      {
+        "SPIRIT/Old.md": LEGACY,
+        "index.md": home(1, 0, 0),
+        "CORRECTIONS.md": log(ROW.replace("corrected", "improved")),
+      },
+      (root) => {
+        const r = runCli(root)
+        assert.notStrictEqual(r.status, 0)
+        assert.match(r.out, /kind must be one of/)
+      },
+    )
+  })
+
+  test("a retracted entry is counted as retracted, not corrected", () => {
+    withFixture(
+      {
+        "SPIRIT/Old.md": LEGACY,
+        "index.md": home(1, 0, 0, 1),
+        "CORRECTIONS.md": log(ROW.replace("corrected", "retracted")),
+      },
+      (root) => {
+        assert.strictEqual(runCli(root).status, 0)
+      },
+    )
+  })
+
   test("the legacy alias is tolerated on a legacy entry but rejected on a v1 entry (F3)", () => {
     withFixture(
       { "SPIRIT/Old.md": "---\ndomain: spirit\nproperties: [non-fabrication]\n---\n\n# x\n" },

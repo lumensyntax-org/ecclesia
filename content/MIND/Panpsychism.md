@@ -1,8 +1,11 @@
 ---
 domain: mind
 properties: [honesty, humility, non_fabrication]
-strength: WEAK
-status: peer_reviewed
+ecclesia_legacy:
+  status: peer_reviewed
+  strength: WEAK
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Panpsychism

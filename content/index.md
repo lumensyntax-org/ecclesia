@@ -4,13 +4,17 @@ title: The Ecclesia
 
 *ἐκκλησία — the called out, the assembly. Not a monument but a gathering.*
 
-A cross-domain taxonomy of structural properties. Each entry maps an established finding — from physics to theology, from immunology to economics — to one or more of the five properties that give reality its coherence:
+A cross-domain catalogue of established findings, each read through five properties this project uses to examine systems that assert something: claims, reports, and agents acting on a stated purpose.
+
+The five properties:
 
 - **Alignment** — stated purpose and actual action are consistent
 - **Proportion** — action does not exceed what the purpose requires
 - **Honesty** — what is claimed matches what is known
 - **Humility** — authority is exercised only within legitimate scope
 - **Non-fabrication** — what does not exist is not invented to fill silence
+
+**What this catalogue does not claim.** The five properties are a reading lens, not a law of nature. Their number was chosen, not derived. They apply to systems that assert something; entries about things that assert nothing (a conservation law, an enzyme) are analogies and are labelled as such. Every mapping is this project's interpretation. Take the sources and discard the reading if it does not hold.
 
 The operational criterion: *"Will the response produce fact-shaped fiction?"*
 
@@ -44,7 +48,9 @@ The operational principle that predominates over the entire catalogue is the **C
 
 **Total**: 435 entries across 19 domains.
 
-**Cross-cutting structural patterns**: beyond the domain tree, recurring structural invariants connect entries across domains — mapped, with explicit strength ratings and a note of where each connection becomes metaphor, in [[META-PATTERNS]].
+**Verification status.** Of 435 entries, 3 have been migrated to the source-and-locator model and 0 carry a locator checked against its primary source. 4 entries have been corrected and 0 retracted; see [[CORRECTIONS]]. The other entries are legacy: they name their sources, but those sources have not yet been checked passage by passage.
+
+**Cross-cutting structural patterns**: beyond the domain tree, recurring structural invariants connect entries across domains — mapped in [[META-PATTERNS]], with a note of where each connection becomes metaphor. The strength ratings there are the project's own judgement and have no measured criterion.
 
 ---
 

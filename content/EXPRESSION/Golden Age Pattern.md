@@ -1,8 +1,11 @@
 ---
 domain: expression
 properties: [alignment, proportion, humility]
-strength: WEAK
-status: contested
+ecclesia_legacy:
+  status: contested
+  strength: WEAK
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Golden Age Pattern

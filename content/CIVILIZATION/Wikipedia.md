@@ -1,8 +1,11 @@
 ---
 domain: civilization
 properties: [non_fabrication, honesty, humility, proportion, alignment]
-strength: MODERATE
-status: institutional
+ecclesia_legacy:
+  status: institutional
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Wikipedia

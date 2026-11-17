@@ -1,9 +1,12 @@
 ---
 domain: shadow
 properties: [alignment, proportion, honesty, humility, non_fabrication]
-strength: MODERATE
-status: contemporary_synthesis
 cross_domains: [shadow, spirit, mind, love, body]
+ecclesia_legacy:
+  status: contemporary_synthesis
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # The Inverted Outlet — Witchcraft and Resentment as Blocked Kenosis

@@ -1,8 +1,11 @@
 ---
 domain: mind
 properties: [non_fabrication, honesty, humility]
-strength: WEAK
-status: peer_reviewed
+ecclesia_legacy:
+  status: peer_reviewed
+  strength: WEAK
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Stanford Prison Experiment (with Criticism)

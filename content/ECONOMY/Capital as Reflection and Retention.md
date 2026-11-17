@@ -1,9 +1,12 @@
 ---
 domain: economy
 properties: [alignment, proportion, honesty, humility, non_fabrication]
-strength: MODERATE
-status: cross_domain_synthesis
 cross_domains: [economy, spirit, shadow, mirror, law, civilization, chemistry]
+ecclesia_legacy:
+  status: cross_domain_synthesis
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Capital as Reflection and Retention

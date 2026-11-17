@@ -1,8 +1,11 @@
 ---
 domain: law
 properties: [alignment, proportion, honesty]
-strength: MODERATE
-status: established
+ecclesia_legacy:
+  status: established
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Restorative Justice

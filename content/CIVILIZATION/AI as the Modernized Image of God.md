@@ -1,9 +1,12 @@
 ---
 domain: civilization
 properties: [honesty, humility, non_fabrication, alignment]
-strength: MODERATE
-status: contemporary_commentary
 cross_domains: [civilization, spirit, shadow, mind]
+ecclesia_legacy:
+  status: contemporary_commentary
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # AI as the Modernized Image of God

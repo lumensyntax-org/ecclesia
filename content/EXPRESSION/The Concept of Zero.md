@@ -1,8 +1,11 @@
 ---
 domain: expression
 properties: [non_fabrication, honesty, humility]
-strength: STRONG
-status: established_scholarship
+ecclesia_legacy:
+  status: established_scholarship
+  strength: STRONG
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # The Concept of Zero

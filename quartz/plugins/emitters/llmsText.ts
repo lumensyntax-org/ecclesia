@@ -10,10 +10,17 @@ export type LlmsEntry = {
   slug: string
   title: string
   domain: string
-  strength?: string
-  status?: string
+  // Whether the entry has been migrated to the source-and-locator model. The retired
+  // strength/status labels are deliberately NOT exported: they read as a verdict on the
+  // entry and had no measurable criterion.
+  migrated?: boolean
   text: string
 }
+
+export const sourcingNote = (e: Pick<LlmsEntry, "migrated">): string =>
+  e.migrated
+    ? "sourcing: source-and-locator model, review pending"
+    : "sourcing: legacy entry, sources not yet checked against the primary text"
 
 // Entry classification lives in util/entries so the emitter and the content:check gate
 // cannot drift apart (PR #3 review, F4). Re-exported for this module's existing tests.
@@ -45,7 +52,7 @@ export const buildLlmsIndex = (
   L.push("# The Ecclesia")
   L.push("")
   L.push(
-    "> ἐκκλησία — the called out, the assembly. A cross-domain catalogue that maps established findings — from physics to theology, from immunology to economics — to five recurring structural properties: alignment, proportion, honesty, humility, non-fabrication. Every entry cites an established source and marks what is established apart from what is interpreted. CC BY-SA 4.0.",
+    "> ἐκκλησία — the called out, the assembly. A cross-domain catalogue of established findings, each read through five properties this project uses to examine systems that assert something: alignment, proportion, honesty, humility, non-fabrication. The properties are a reading lens, not a law of nature; their number was chosen, not derived; entries about things that assert nothing are analogies. Every mapping is the project's interpretation. Most entries are legacy: their sources have not yet been checked against the primary text. CC BY-SA 4.0.",
   )
   L.push("")
   L.push(
@@ -67,7 +74,10 @@ export const buildLlmsIndex = (
   L.push("## Meta")
   L.push(`- [Home](${base}/) — how to read the catalogue`)
   L.push(
-    `- [META-PATTERNS](${base}/META-PATTERNS) — cross-domain structural invariants, with strength ratings`,
+    `- [META-PATTERNS](${base}/META-PATTERNS) — cross-domain structural invariants; the strength ratings there are the project's own unvalidated judgement`,
+  )
+  L.push(
+    `- [CORRECTIONS](${base}/CORRECTIONS) — the public log of entries corrected, narrowed, relabelled or retracted`,
   )
   L.push("")
   return L.join("\n")
@@ -96,12 +106,9 @@ export const buildLlmsFull = (entries: LlmsEntry[], baseUrl: string, today: stri
     F.push(`DOMAIN: ${dom}`)
     F.push("================================================================")
     for (const e of byDomain.get(dom)!) {
-      const meta = [e.strength && `strength: ${e.strength}`, e.status && `status: ${e.status}`]
-        .filter(Boolean)
-        .join(" · ")
       F.push("")
       F.push(`## ${e.title}`)
-      F.push(`URL: ${entryUrl(baseUrl, e.slug)}${meta ? `  [${meta}]` : ""}`)
+      F.push(`URL: ${entryUrl(baseUrl, e.slug)}  [${sourcingNote(e)}]`)
       F.push("")
       // Quartz stores file.data.text HTML-escaped; the export is plain text, so decode
       // exactly one layer here (N1) — "Jones &amp; Baylin" -> "Jones & Baylin", and an
@@ -131,8 +138,7 @@ export const LlmsText: QuartzEmitterPlugin = () => ({
         slug,
         title: (fm.title as string) ?? slug,
         domain: domainOf(slug),
-        strength: fm.strength as string | undefined,
-        status: fm.status as string | undefined,
+        migrated: typeof fm.ecclesia === "object" && fm.ecclesia !== null,
         text: file.data.text ?? "",
       })
     }

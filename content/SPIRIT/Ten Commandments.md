@@ -1,8 +1,11 @@
 ---
 domain: spirit
 properties: [alignment, non_fabrication, honesty, proportion, humility]
-strength: MODERATE
-status: established_scholarship
+ecclesia_legacy:
+  status: established_scholarship
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Ten Commandments

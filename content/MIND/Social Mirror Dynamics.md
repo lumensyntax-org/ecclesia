@@ -1,9 +1,12 @@
 ---
 domain: mind
 properties: [alignment, proportion, honesty, humility, non_fabrication]
-strength: MODERATE
-status: cross_domain_synthesis
 cross_domains: [mind, body, mirror, expression, shadow, love, civilization]
+ecclesia_legacy:
+  status: cross_domain_synthesis
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Social Mirror Dynamics — How Humans Form by Looking at Mirrors

@@ -1,8 +1,11 @@
 ---
 domain: construction
 properties: [alignment, honesty, non_fabrication]
-strength: STRONG
-status: historical
+ecclesia_legacy:
+  status: historical
+  strength: STRONG
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # The Bug

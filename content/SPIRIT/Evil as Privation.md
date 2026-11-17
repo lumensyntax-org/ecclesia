@@ -1,9 +1,12 @@
 ---
 domain: spirit
 properties: [honesty, non_fabrication, alignment]
-strength: STRONG
-status: peer_reviewed
 cross_domains: [spirit, shadow, mind, civilization]
+ecclesia_legacy:
+  status: peer_reviewed
+  strength: STRONG
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Evil as Privation — *Privatio Boni* and the Non-Substantial Nature of the Bad
