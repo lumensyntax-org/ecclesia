@@ -2,6 +2,7 @@ import { FullSlug, joinSegments } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 import { decodeEntitiesOnce } from "../../util/escape"
+import { buildEcclesiaView, ecclesiaViewText, sourcingLine } from "../../util/ecclesiaView"
 
 // A published page reduced to what the AI exports need. Populated from Quartz's
 // already-filtered content (drafts, ignorePatterns, hidden dirs and .gitignore are
@@ -10,17 +11,19 @@ export type LlmsEntry = {
   slug: string
   title: string
   domain: string
-  // Whether the entry has been migrated to the source-and-locator model. The retired
-  // strength/status labels are deliberately NOT exported: they read as a verdict on the
-  // entry and had no measurable criterion.
-  migrated?: boolean
+  // One-line sourcing state, and for migrated entries the plain-text record of sources,
+  // claims, locators and mapping limits. The retired strength/status labels are
+  // deliberately NOT exported: they read as a verdict on the entry and had no measurable
+  // criterion.
+  sourcing?: string
+  record?: string
+  // A retracted entry keeps its page but leaves the corpus: it is listed, not exported.
+  retracted?: boolean
   text: string
 }
 
-export const sourcingNote = (e: Pick<LlmsEntry, "migrated">): string =>
-  e.migrated
-    ? "sourcing: source-and-locator model, review pending"
-    : "sourcing: legacy entry, sources not yet checked against the primary text"
+export const sourcingNote = (e: Pick<LlmsEntry, "sourcing">): string =>
+  e.sourcing ?? sourcingLine(null)
 
 // Entry classification lives in util/entries so the emitter and the content:check gate
 // cannot drift apart (PR #3 review, F4). Re-exported for this module's existing tests.
@@ -46,6 +49,8 @@ export const buildLlmsIndex = (
   hubDomains: Set<string> = new Set(),
 ): string => {
   const base = `https://${baseUrl}`
+  const retracted = entries.filter((e) => e.retracted)
+  entries = entries.filter((e) => !e.retracted)
   const byDomain = groupByDomain(entries)
   const domains = [...byDomain.keys()].sort()
   const L: string[] = []
@@ -70,6 +75,13 @@ export const buildLlmsIndex = (
     L.push(`### ${dom}${hubLink}`)
     for (const e of byDomain.get(dom)!) L.push(`- ${e.title}`)
   }
+  if (retracted.length) {
+    L.push("")
+    L.push("## Retracted")
+    L.push("")
+    L.push("These entries no longer stand. Their pages remain, with a notice.")
+    for (const e of retracted) L.push(`- ${e.title} — ${base}/${encodeURI(e.slug)}`)
+  }
   L.push("")
   L.push("## Meta")
   L.push(`- [Home](${base}/) — how to read the catalogue`)
@@ -84,6 +96,8 @@ export const buildLlmsIndex = (
 }
 
 export const buildLlmsFull = (entries: LlmsEntry[], baseUrl: string, today: string): string => {
+  const retractedCount = entries.filter((e) => e.retracted).length
+  entries = entries.filter((e) => !e.retracted)
   const byDomain = groupByDomain(entries)
   const domains = [...byDomain.keys()].sort()
   const F: string[] = []
@@ -99,6 +113,10 @@ export const buildLlmsFull = (entries: LlmsEntry[], baseUrl: string, today: stri
   F.push(
     "Point-in-time snapshot for whole-corpus analysis, regenerated on every deploy by the LlmsText Quartz emitter, so it always matches the published catalogue.",
   )
+  if (retractedCount)
+    F.push(
+      `${retractedCount} retracted ${retractedCount === 1 ? "entry is" : "entries are"} not included; see /CORRECTIONS.`,
+    )
   F.push("")
   for (const dom of domains) {
     F.push("")
@@ -114,6 +132,10 @@ export const buildLlmsFull = (entries: LlmsEntry[], baseUrl: string, today: stri
       // exactly one layer here (N1) — "Jones &amp; Baylin" -> "Jones & Baylin", and an
       // author's literal "&lt;" survives as "&lt;". No repeated decoding.
       F.push(decodeEntitiesOnce(e.text).trim())
+      if (e.record) {
+        F.push("")
+        F.push(e.record)
+      }
     }
   }
   F.push("")
@@ -134,11 +156,14 @@ export const LlmsText: QuartzEmitterPlugin = () => ({
       if (last === "00-Index" && slug.includes("/")) hubDomains.add(domainOf(slug))
       if (!isEntrySlug(slug)) continue
       const fm = (file.data.frontmatter ?? {}) as Record<string, unknown>
+      const view = buildEcclesiaView(fm.ecclesia)
       entries.push({
         slug,
         title: (fm.title as string) ?? slug,
         domain: domainOf(slug),
-        migrated: typeof fm.ecclesia === "object" && fm.ecclesia !== null,
+        sourcing: sourcingLine(view),
+        record: view ? ecclesiaViewText(view) : undefined,
+        retracted: view?.retraction != null,
         text: file.data.text ?? "",
       })
     }

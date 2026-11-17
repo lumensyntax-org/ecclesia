@@ -54,12 +54,42 @@ ecclesia:
       reviews: []
 ```
 
+## Recording a check
+
+A support may say `direct`, `partial` or `contradicts` only when it carries a locator record: proof that someone opened the primary source and found the passage.
+
+```yaml
+supports:
+  - source_id: short_id
+    locator:
+      kind: page
+      value: "p. 816"
+    support: direct
+    review_status: partial
+    reviews:
+      - reviewer: "session 2026-11-18"
+        reviewer_kind: ai_session # or human
+        date: 2026-11-18
+        scope: locator
+        result: passage found
+        method: opened_primary_source
+        source_url: https://doi.org/...
+        accessed: 2026-11-18
+        quote: "A short literal sentence from the source."
+        claim_digest: sha256:... # npm run content:digest -- "content/DOMAIN/Entry.md"
+```
+
+- The digest binds the record to the claim's wording. If the claim is edited, the gate rejects the support until the passage is checked again.
+- A record by an AI session allows `review_status: partial` at most. `reviewed` needs a human record.
+- The quote stays short (300 characters at most): enough for a reader to find it, not a copy of the source.
+
 ## Rules
 
 - **Locators are read, never recalled.** Open the primary source and record where the passage is. If the source cannot be reached, leave the support `unassessed` and say so in `coverage_notes`.
 - **Analogy is declared.** When the subject asserts nothing (a physical law, an enzyme, a geological process), the mapping is `functional_analogy` or `conceptual_analogy`, and `limits` says where it stops.
 - **No overall rating.** An entry has no global strength. Each claim and each mapping carries its own state.
 - **Corrections are public.** An entry that is corrected, narrowed, relabelled or retracted gets a row in [[CORRECTIONS]].
+- **A retracted entry keeps its address.** Add `retraction: {date, reason, commit}` inside the `ecclesia:` block and a `retracted` row in [[CORRECTIONS]]. The page shows a notice, and the entry leaves the count and the export.
 
 ## Body
 

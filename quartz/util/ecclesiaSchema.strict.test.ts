@@ -180,7 +180,7 @@ describe("F2 — review states the system cannot accredit must be rejected", () 
     assert.ok(errs(b).some((i) => /accredit|subsystem/i.test(i.message)))
   })
 
-  test("an asserted support (direct) is rejected while records cannot be verified", () => {
+  test("an asserted support (direct) is rejected when its review is not a locator record", () => {
     const b = base()
     b.sources = [source()]
     b.claims = [
@@ -202,7 +202,9 @@ describe("F2 — review states the system cannot accredit must be rejected", () 
         ],
       },
     ]
-    assert.ok(errs(b).some((i) => /accredit|subsystem/i.test(i.message)))
+    const e = errs(b)
+    assert.ok(e.some((i) => /requires a locator record/.test(i.message)))
+    assert.ok(e.some((i) => /reviewed requires a locator record by a human/.test(i.message)))
   })
 
   test("academic_review: documented is rejected while evidence cannot be verified", () => {

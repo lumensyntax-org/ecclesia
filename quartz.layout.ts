@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.EcclesiaRecord()],
   footer: Component.Footer({
     links: {
       Repository: "https://github.com/lumensyntax-org/ecclesia",
@@ -27,6 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.EcclesiaNotice(),
   ],
   left: [
     Component.PageTitle(),

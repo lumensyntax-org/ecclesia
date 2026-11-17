@@ -33,7 +33,8 @@ describe("buildLlmsIndex / buildLlmsFull", () => {
       slug: "SPIRIT/The-Chalice-Test",
       title: "The Chalice Test",
       domain: "SPIRIT",
-      migrated: true,
+      sourcing: "sourcing: source-and-locator model, 1 of 2 sourced claims checked",
+      record: "--- Sources and checks ---\nSources:\n- Aquinas",
       text: "Body one.",
     },
     {
@@ -54,7 +55,8 @@ describe("buildLlmsIndex / buildLlmsFull", () => {
   test("full text carries the real per-entry URL, sourcing note, and body", () => {
     const out = buildLlmsFull(entries, "ecclesia.lumensyntax.com", "2026-09-15")
     assert.match(out, /https:\/\/ecclesia\.lumensyntax\.com\/SPIRIT\/The-Chalice-Test/)
-    assert.match(out, /The-Chalice-Test {2}\[sourcing: source-and-locator model, review pending\]/)
+    assert.match(out, /The-Chalice-Test {2}\[sourcing: source-and-locator model, 1 of 2 sourced/)
+    assert.match(out, /Body one\.\n\n--- Sources and checks ---\nSources:\n- Aquinas/)
     assert.match(out, /BODY\/Apoptosis {2}\[sourcing: legacy entry, sources not yet checked/)
     assert.match(out, /Body one\./)
   })
@@ -66,6 +68,23 @@ describe("buildLlmsIndex / buildLlmsFull", () => {
     assert.doesNotMatch(out, /strength: (STRONG|MODERATE|WEAK)/)
     assert.doesNotMatch(out, /status: /)
     assert.doesNotMatch(out, /peer_reviewed/)
+  })
+
+  test("a retracted entry is listed but leaves the corpus and the counts", () => {
+    const withRetracted = [
+      ...entries,
+      { slug: "BODY/Gone", title: "Gone", domain: "BODY", retracted: true, text: "Withdrawn." },
+    ]
+    const index = buildLlmsIndex(withRetracted, "ecclesia.lumensyntax.com", "2026-09-15")
+    assert.match(index, /lists 2 entries across 2 domains/)
+    assert.match(
+      index,
+      /## Retracted[\s\S]*- Gone — https:\/\/ecclesia\.lumensyntax\.com\/BODY\/Gone/,
+    )
+    const full = buildLlmsFull(withRetracted, "ecclesia.lumensyntax.com", "2026-09-15")
+    assert.match(full, /Entries: 2 across 2 domains/)
+    assert.match(full, /1 retracted entry is not included/)
+    assert.doesNotMatch(full, /Withdrawn\./)
   })
 
   test("the index links the corrections log", () => {
