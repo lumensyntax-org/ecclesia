@@ -1,9 +1,12 @@
 ---
 domain: mind
 properties: [alignment, proportion, honesty, humility, non_fabrication]
-strength: STRONG
-status: mystery_exploration
 cross_domains: [mind, spirit, civilization]
+ecclesia_legacy:
+  status: mystery_exploration
+  strength: STRONG
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # The Recurring Hole at the Boundary of Method — The Same Pattern at the Edge of Each Science

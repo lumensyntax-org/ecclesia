@@ -1,8 +1,11 @@
 ---
 domain: earth
 properties: [non_fabrication, honesty, humility]
-strength: WEAK
-status: historical
+ecclesia_legacy:
+  status: historical
+  strength: WEAK
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Titius-Bode Law (Anti-Pattern)

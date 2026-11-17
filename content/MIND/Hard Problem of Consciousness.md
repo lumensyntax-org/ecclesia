@@ -1,8 +1,11 @@
 ---
 domain: mind
 properties: [honesty]
-strength: MODERATE
-status: mystery_exploration
+ecclesia_legacy:
+  status: mystery_exploration
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Hard Problem of Consciousness

@@ -1,8 +1,11 @@
 ---
 domain: mind
 properties: [non_fabrication, alignment, honesty]
-strength: MODERATE
-status: peer_reviewed
+ecclesia_legacy:
+  status: peer_reviewed
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Joscha Bach on Consciousness

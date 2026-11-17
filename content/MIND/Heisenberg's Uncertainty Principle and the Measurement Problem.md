@@ -1,9 +1,12 @@
 ---
 domain: mind
 properties: [alignment, proportion, honesty, humility, non_fabrication]
-strength: STRONG
-status: established_with_competing_interpretations
 cross_domains: [mind, spirit]
+ecclesia_legacy:
+  status: established_with_competing_interpretations
+  strength: STRONG
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Heisenberg's Uncertainty Principle and the Measurement Problem

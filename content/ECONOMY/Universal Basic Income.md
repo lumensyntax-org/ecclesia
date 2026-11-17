@@ -1,8 +1,11 @@
 ---
 domain: economy
 properties: [proportion, alignment, honesty, humility]
-strength: WEAK
-status: mystery_exploration
+ecclesia_legacy:
+  status: mystery_exploration
+  strength: WEAK
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Universal Basic Income

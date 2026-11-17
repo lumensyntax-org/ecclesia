@@ -1,8 +1,11 @@
 ---
 domain: economy
 properties: [non_fabrication, proportion, humility]
-strength: MODERATE
-status: historical
+ecclesia_legacy:
+  status: historical
+  strength: MODERATE
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Interest and Usury

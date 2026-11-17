@@ -1,8 +1,11 @@
 ---
 domain: shadow
 properties: [honesty, humility, non-fabrication, alignment]
-strength: STRONG
-status: systemic
+ecclesia_legacy:
+  status: systemic
+  strength: STRONG
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Algorithmic Scoring as the Distributed Instrument Trap

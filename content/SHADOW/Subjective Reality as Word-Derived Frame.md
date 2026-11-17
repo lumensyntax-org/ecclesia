@@ -1,9 +1,12 @@
 ---
 domain: shadow
 properties: [honesty, non_fabrication, alignment]
-strength: STRONG
-status: peer_reviewed
 cross_domains: [shadow, mind, expression, spirit, civilization]
+ecclesia_legacy:
+  status: peer_reviewed
+  strength: STRONG
+  from_commit: db4ed54e3768e7fbaf023e0b7c73b58cf48d108b
+  migration_state: pending
 ---
 
 # Subjective Reality as Word-Derived Frame
